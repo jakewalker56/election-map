@@ -76,7 +76,7 @@
 </div>
 <div class="row">
   <div id="tooltip"></div><!-- div to hold tooltip. -->
-    <svg width="960" height="600" id="statesvg"></svg> <!-- svg to hold the map. -->
+  <svg width="960" height="600" id="statesvg"></svg> <!-- svg to hold the map. -->
 </div>
 </body>
 
@@ -155,6 +155,7 @@
     padding:4px;
     color:white;
     opacity:0;
+    z-index:10;
   }
   #tooltip table{
     table-layout:fixed;
@@ -171,6 +172,11 @@
   }
   #tooltip tr td:nth-child(2){
     text-align:center;
+  }
+
+  svg {
+    position:relative;
+    z-index: 9;
   }
 
 </style>

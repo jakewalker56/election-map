@@ -56,7 +56,6 @@
 	function sleep (time) {
 	  return new Promise((resolve) => setTimeout(resolve, time));
 	}
-
 	uStates.draw = function(id, data, toolTip){		
 		function mouseOver(d){
 			d3.select("#tooltip").transition().duration(200).style("opacity", .9);      
@@ -67,10 +66,11 @@
 		}
 		
 		function mouseOut(){
-			d3.select("#tooltip").transition().duration(500).style("opacity", 0);      
+			d3.select("#tooltip").transition().duration(500).style("opacity", 0);
 		}
+
 		$('svg').fadeOut(300)
-		sleep(500).then(() => {
+		sleep(400).then(() => {
 		    d3.selectAll(id + " > *").remove();
 			d3.select(id).selectAll(".state")
 				.data(uStatePaths).enter().append("path").attr("class","state").attr("d",function(d){ return d.d;})

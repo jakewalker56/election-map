@@ -1,5 +1,5 @@
 //TODO: fix data analysis that shows negative black california republicans
-//TODO: implement differential
+//TODO: add sources
 
 var current_voter_map = {};
 var current_electoral_map = {};
@@ -17,10 +17,17 @@ var current_modifiers = [];
 
 
     function tooltipHtml(n, d){ /* function to create html content string in tooltip div. */
-    return "<h4>"+n+"</h4><table>"+
-      "<tr><td>Rep</td><td>"+(Math.round(d.rep).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","))+"</td></tr>"+
-      "<tr><td>Dem</td><td>"+(Math.round(d.dem).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","))+"</td></tr>"+
-      "</table>";
+    if((n == "Nebraska" || n == "Maine") && (d.rep != 0 && d.dem !=0)){
+      return "<h4>"+n+"</h4><table>"+
+        "<tr><td>Rep</td><td>"+(Math.round(d.rep).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","))+"</td></tr>"+
+        "<tr><td>Dem</td><td>"+(Math.round(d.dem).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","))+"</td></tr>"+
+        "</table><br><i>" + n + " has weird electoral rules</a></i>";
+    } else {
+      return "<h4>"+n+"</h4><table>"+
+        "<tr><td>Rep</td><td>"+(Math.round(d.rep).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","))+"</td></tr>"+
+        "<tr><td>Dem</td><td>"+(Math.round(d.dem).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","))+"</td></tr>"+
+        "</table>";
+    }
   }
 
   function drawMap() {
