@@ -2,13 +2,14 @@
 <div class="row">
   <div class="columns small-12">
     <h3>How would elections change with demographic preferences?</h3>
+    <h5>Add voting modifiers below to see how the election would have played out if some groups had voted differently</h5>
   </div>
 </div>
 
 <div class="row">
   <div class="columns medium-4">
 
-    <label>Category</label>
+    <label>Demographic Category</label>
     <select class="ms-input ms-input-category" name="CATEGORY">
       <option value="gender">Gender</option>
       <option value="race">Race</option>
@@ -16,14 +17,14 @@
       </select>
   </div>
   <div class="columns medium-4">
-    <label>Demographic</label>
+    <label>Group</label>
     <select class="ms-input" name="DEMOGRAPHIC" id="DEMOGRAPHIC">
       <option value="Male">Male</option>
       <option value="Female">Female</option>
     </select>
   </div>
   <div class="columns medium-4">
-    <label>Type</label>
+    <label>Change in Behavior</label>
     <select class="ms-input ms-input-type" name="TYPE">
       <option value="margin">Margin</option>
       <option value="turnout">Turnout</option>
@@ -47,7 +48,7 @@
           <option value="electoral">Electoral College</option>
           <option value="popular">Popular Vote</option>
           <option value="demographic">Demographic</option>
-          <option value="differential">Differential from 2016 map</option>
+          <option value="differential">Popular vote differential from 2016 map</option>
         </select>
       </div>
       <div class="columns medium-6" id="demographicviewtypediv" hidden>

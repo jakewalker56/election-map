@@ -1,5 +1,6 @@
 //TODO: fix data analysis that shows negative black california republicans
 //TODO: add sources
+//TODO: add electoral differential map
 
 var current_voter_map = {};
 var current_electoral_map = {};
@@ -17,7 +18,7 @@ var current_modifiers = [];
 
 
     function tooltipHtml(n, d){ /* function to create html content string in tooltip div. */
-    if((n == "Nebraska" || n == "Maine") && (d.rep != 0 && d.dem !=0)){
+    if((n == "Nebraska" || n == "Maine") && (d.rep != 0 && d.dem !=0) && get_mapview() == "electoral"){
       return "<h4>"+n+"</h4><table>"+
         "<tr><td>Rep</td><td>"+(Math.round(d.rep).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","))+"</td></tr>"+
         "<tr><td>Dem</td><td>"+(Math.round(d.dem).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","))+"</td></tr>"+
@@ -380,6 +381,9 @@ var current_modifiers = [];
     function get_mapview_category(){
       return document.getElementById("demographicviewtype").value
     }
+    function get_mapview(){
+      return document.getElementById("mapview").value
+    }
     function get_option_list(demographic) {
       if(demographic == "gender") {
           return ["Male", "Female"];
@@ -416,14 +420,17 @@ var current_modifiers = [];
          .append($("<option></option>")
                     .attr("value",value) //.toLowerCase()
                     .text(value)); 
-      
-      //set value to whatever the current modifier looks like
-      $('#demographicviewvalue').val(document.getElementsByName("DEMOGRAPHIC")[0].value)});      
+       })
+      //if we just refilled the demogrpahic view options, we need to reset the value
+      if (get_mapview_category() == get_modifier_category()) {
+        $('#demographicviewvalue').val(document.getElementsByName("DEMOGRAPHIC")[0].value)
+      } //otherwise, we just wiped away the value and defaulted to something OTHER than
+      //the current modifier, which means we manually swapped the viewtype to something else
     }
 
      function update_type_ui(){
       console.log("updating ui...")
-      console.log(get_modifier_type());
+
       if(get_modifier_type() == "turnout") {
         $('#shift_label_prefix').text("Lower Turnout");
         $('#shift_label_postfix').text("Higher Turnout");
@@ -451,12 +458,22 @@ var current_modifiers = [];
       } 
     }
 
+    function demographicviewtypeChange()
+    {
+      update_map_demographic_options();
+      drawMap(); 
+    }
+
     function mapviewChange(){
       if ( $('#mapview').val() == "demographic")
       {
         $('#demographicviewtypediv').attr("hidden", false)
         $('#demographicviewvaluediv').attr("hidden", false)
-        $('#demographicviewtype').val(document.getElementsByName("CATEGORY")[0].value) 
+
+        //If we've reached this point, someone just changed us to demographic view, so set the
+        //default category and value to whatever the current modifier looks like
+        $('#demographicviewtype').val(document.getElementsByName("CATEGORY")[0].value)         
+        $('#demographicviewvalue').val(document.getElementsByName("DEMOGRAPHIC")[0].value);      
       } else {
         $('#demographicviewtypediv').attr("hidden", true)
         $('#demographicviewvaluediv').attr("hidden", true)
@@ -482,7 +499,7 @@ var current_modifiers = [];
     mapview_selector.addEventListener('change', mapviewChange);   
     
     var mapview_demographic_type_selector = document.getElementById('demographicviewtype');
-    mapview_demographic_type_selector.addEventListener('change', mapviewChange);   
+    mapview_demographic_type_selector.addEventListener('change', demographicviewtypeChange);   
 
     var mapview_demographic_value_selector = document.getElementById('demographicviewvalue');
     mapview_demographic_value_selector.addEventListener('change', demographicSelectorChange);   
