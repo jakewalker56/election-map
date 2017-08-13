@@ -1,0 +1,127 @@
+County,ShortName,CD,Clinton,Trump,Total,
+Alpine,Alpine,4,334,217,600,
+Amador,Amador,4,"6,004","10,485",17575,
+Butte,Butte,1,"41,567","45,144",94431,
+Calaveras,Calaveras,4,"7,944","13,511",23039,
+Colusa,Colusa,3,"2,661","3,551",6596,
+Del Norte,DelNorte,2,"3,485","5,134",9361,
+El Dorado,ElDorado,4,"36,404","49,247",92293,
+Humboldt,Humboldt,2,"33,200","18,373",57796,
+Imperial,Imperial,51,"32,667","12,704",47676,
+Inyo,Inyo,8,"3,155","4,248",7996,
+Kings,Kings,21,"13,617","18,093",33710,
+Lassen,Lassen,1,"2,224","7,574",10422,
+Marin,Marin,2,"108,707","21,771",138118,
+Mariposa,Mariposa,4,"3,122","5,185",8877,
+Mendocino,Mendocino,2,"22,079","10,888",36557,
+Merced,Merced,16,"37,317","28,725",70115,
+Modoc,Modoc,1,877,"2,696",3758,
+Mono,Mono,8,"2,773","2,111",5271,
+Monterey,Monterey,20,"89,088","34,895",132014,
+Napa,Napa,5,"39,199","17,411",60630,
+Plumas,Plumas,1,"3,459","5,420",9505,
+San Benito,SanBenito,20,"12,521","7,841",21679,
+San Luis Obispo,SanLuisObispo,24,"67,107","56,164",133017,
+Santa Barbara,SantaBarbara,24,"107,142","56,365",174667,
+Shasta,Shasta,1,"22,301","51,778",79090,
+Sierra,Sierra,1,601,"1,048",1804,
+Siskiyou,Siskiyou,1,"7,234","11,341",20113,
+Stanislaus,Stanislaus,10,"81,647","78,494",170351,
+Sutter,Sutter,3,"13,076","18,176",33269,
+Tehama,Tehama,1,"6,809","15,494",23684,
+Trinity,Trinity,2,"2,214","2,812",5588,
+Tuolumne,Tuolumne,4,"9,123","14,551",25222,
+Yuba,Yuba,3,"7,910","13,170",22749,
+,,,,,,
+,Split Counties,,,,,
+Alameda (pt.),Alameda,13,"291,926","22,743","334,194",Alameda SOV
+Alameda (pt.),Alameda,15,"176,777","59,419","251,174",Alameda SOV
+Alameda (pt.),Alameda,17,"46,139","13,760","63,294",Alameda SOV
+Contra Costa (pt.),ContraCosta,5,"29,345","8,532","40,055",Alameda SOV
+Contra Costa (pt.),ContraCosta,9,"44,196",27166,"75,584",Contra Costa SOV
+Contra Costa (pt.),ContraCosta,11,"223,559","70,869","312,568",Contra Costa SOV
+Contra Costa (pt.),ContraCosta,15,"22,187","9,389","33,362",Contra Costa SOV
+Fresno (pt.),Fresno,4,"1,575","5,272","7,235",Fresno Precinct Results
+Fresno (pt.),Fresno,16,"48,353","18,806","71,113",Fresno Precinct Results
+Fresno (pt.),Fresno,21,"24,548","19,005","45,553",Fresno Precinct Results
+Fresno (pt.),Fresno,22,"66,865","80,966","155,910",Fresno Precinct Results
+Glenn (pt.),Glenn,1,182,741,968,Glenn Precinct Results
+Glenn (pt.),Glenn,3,"2,883","5,047","8,411",Glenn Precinct Results
+Kern (pt.),Kern,21,"33,147","14,036","49,799",Kern SOV
+Kern (pt.),Kern,23,"65,542","115,548","192,242",Kern SOV
+Lake (pt.),Lake,3,"5,198","4,730","10,912",Lake SOV
+Lake (pt.),Lake,5,"6,302","5,873","13,320",Lake SOV
+Los Angeles (pt.),LosAngeles,23,"13,075","14,465","29,391",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,25,"113,041","92,069","218,198",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,26,"2,499","1,926","4,667",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,27,"166,639","65,500","246,155",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,28,"208,645","64,607","289,254",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,29,"152,517","32,963","196,196",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,30,"208,511","77,249","301,666",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,32,"146,459",60921,"220,046",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,33,"239,982","93,706","353,897",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,34,"154,259","19,784","184,601",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,35,"28,321","7,767","38,421",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,37,"236,621","26,608","276,134",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,38,"162,783","65,427","241,840",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,39,"40,800","23,300","67,653",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,40,"135,472","21,077","164,714",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,43,"183,434","39,039","234,060",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,44,"164,251","24,261","197,802",Los Angeles SOV
+Los Angeles (pt.),LosAngeles,47,"107,055","39,074","156,838",Los Angeles SOV
+Madera (pt.),Madera,4,4195,9075,"14,039",Madera SOV
+Madera (pt.),Madera,16,12834,14282,"28,736",Madera SOV
+Nevada (pt.),Nevada,1,"20,979","21,386","46,412",Nevada Precinct Results
+Nevada (pt.),Nevada,4,"5,074","1,979","7,658",Nevada Precinct Results
+Orange (pt.),Orange,38,"3,441","2,606","6,384",Orange SOV
+Orange (pt.),Orange,39,"84,219","79,602","174,233",Orange SOV
+Orange (pt.),Orange,45,"162,449","144,713","325,967",Orange SOV
+Orange (pt.),Orange,46,"119,762","50,403","180,750",Orange SOV
+Orange (pt.),Orange,47,"54,688","41,088","101,482",Orange SOV
+Orange (pt.),Orange,48,"152,035","146,595","317,328",Orange SOV
+Orange (pt.),Orange,49,"33,367","42,141","80,059",Orange SOV
+Placer (pt.),Placer,1,"8,494","13,736","23,781",Placer SOV
+Placer (pt.),Placer,4,"65,015","81,402","156,850",Placer SOV
+Riverside (pt.),Riverside,36,"123,795","103,051","237,370",Riverside SOV
+Riverside (pt.),Riverside,41,"126,197","68,526","206,961",Riverside SOV
+Riverside (pt.),Riverside,42,"111,103","143,175","268,305",Riverside SOV
+Riverside (pt.),Riverside,50,"12,600",18491,"33,144",Riverside SOV
+Sacramento (pt.),Sacramento,3,"4,781","6,497","12,086",Sacramento Precinct Results
+Sacramento (pt.),Sacramento,6,"158,089","54,010","226,632",Sacramento Precinct Results
+Sacramento (pt.),Sacramento,7,"159,066","124,249","304,118",Sacramento Precinct Results
+Sacramento (pt.),Sacramento,9,"4,087","5,033","9,790",Sacramento Precinct Results
+San Bernardino (pt.),SanBernardino,8,"86,306","121,105","219,568",San Bernardino SOV
+San Bernardino (pt.),SanBernardino,27,"7,905","9,484","18,311",San Bernardino SOV
+San Bernardino (pt.),SanBernardino,31,"131,960","83,701","228,825",San Bernardino SOV
+San Bernardino (pt.),SanBernardino,35,"99,436","43,055","150,190",San Bernardino SOV
+San Bernardino (pt.),SanBernardino,39,"15,211","13,880","30,585",San Bernardino SOV
+San Diego (pt.),SanDiego,49,"125,714","93,435","233,952",San Diego SOV
+San Diego (pt.),SanDiego,50,"103,264","141,331","259,734",San Diego SOV
+San Diego (pt.),SanDiego,51,"114,936","34,121","157,761",San Diego SOV
+San Diego (pt.),SanDiego,52,"191,325","117,057","329,258",San Diego SOV
+San Diego (pt.),SanDiego,53,"200,237","91,822","310,373",San Diego SOV
+San Francisco (pt.),SanFrancisco,12,"309,221","31,158","358,774",San Francisco SOV
+San Francisco (pt.),SanFrancisco,14,"35,863","6,530","44,584",San Francisco SOV
+San Joaquin (pt.),SanJoaquin,9,"86,436","58,285","152,817",San Joaquin SOV
+San Joaquin (pt.),SanJoaquin,10,"34,688","30,651","69,329",San Joaquin SOV
+San Mateo (pt.),SanMateo,14,"193,145","47,699","253,159",San Mateo SOV
+San Mateo (pt.),SanMateo,18,"44,737",10230,"58,265",San Mateo SOV
+Santa Clara (pt.),SantaClara,17,137662,37166,"185,401",Santa Clara SOV
+Santa Clara (pt.),SantaClara,18,181337,51029,"247,753",Santa Clara SOV
+Santa Clara (pt.),SantaClara,19,187828,55371,"257,624",Santa Clara SOV
+Santa Clara (pt.),SantaClara,20,3569,948,"4,841",Santa Clara SOV
+Santa Cruz (pt.),SantaCruz,18,"19,941","6,549","29,120",Santa Cruz SOV
+Santa Cruz (pt.),SantaCruz,20,"75,308",15889,"98,004",Santa Cruz SOV
+Solano (pt.),Solano,3,"58,219","39,489","104,367",Solano SOV
+Solano (pt.),Solano,5,"44,141","12,431","59,742",Solano SOV
+Sonoma (pt.),Sonoma,2,"68,472","21,567","97,551",Sonoma SOV
+Sonoma (pt.),Sonoma,5,"91,963","29,841","131,305",Sonoma SOV
+Tulare (pt.),Tulare,21,"2,461","1,838","4,482",Tulare SOV
+Tulare (pt.),Tulare,22,"35,427","44,123","84,227",Tulare SOV
+Tulare (pt.),Tulare,23,"9,697","12,338","23,231",Tulare SOV
+Ventura (pt.),Ventura,24,"2,730","1,358","4,476",Ventura SOV
+Ventura (pt.),Ventura,25,"24,450","27,180","55,020",Ventura SOV
+Ventura (pt.),Ventura,26,166584,103333,"287,565",Ventura SOV
+Ventura (pt.),Ventura,30,638,452,"1,139",Ventura SOV
+Yolo (pt.),Yolo,3,"44,154","15,200","63,696",Yolo SOV
+Yolo (pt.),Yolo,6,"10,598","5,539","17,278",Yolo SOV

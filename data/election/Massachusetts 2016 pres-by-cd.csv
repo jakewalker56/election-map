@@ -1,0 +1,2175 @@
+County,Town (Standard Name),Town (Results Name),Ward,Precinct,CD,Clinton,Trump,Total
+Plymouth (pt.),Abington,Abington,-,1,8,818,717,1657
+Plymouth (pt.),Abington,Abington,-,2,8,739,785,1618
+Plymouth (pt.),Abington,Abington,-,3,8,773,808,1679
+Plymouth (pt.),Abington,Abington,-,4,8,877,878,1858
+Plymouth (pt.),Abington,Abington,-,5,8,908,829,1839
+Middlesex (pt.),Acton,Acton,-,1,3,"1,459",438,"2,016"
+Middlesex (pt.),Acton,Acton,-,2,3,"1,550",480,"2,152"
+Middlesex (pt.),Acton,Acton,-,3,3,"1,580",435,"2,149"
+Middlesex (pt.),Acton,Acton,-,4,3,"1,675",414,"2,238"
+Middlesex (pt.),Acton,Acton,-,5,3,"1,580",387,"2,095"
+Middlesex (pt.),Acton,Acton,-,6,3,"1,354",401,"1,863"
+Bristol (pt.),Acushnet,Acushnet,-,1,9,783,786,"1,653"
+Bristol (pt.),Acushnet,Acushnet,-,2,9,756,"1,043","1,885"
+Bristol (pt.),Acushnet,Acushnet,-,3,9,862,"1,005","1,958"
+Berkshire,Adams,Adams,-,1,1,439,255,747
+Berkshire,Adams,Adams,-,2,1,476,270,807
+Berkshire,Adams,Adams,-,3,1,475,268,796
+Berkshire,Adams,Adams,-,4,1,446,233,725
+Berkshire,Adams,Adams,-,5,1,577,259,892
+Hampden (pt.),Agawam,Agawam,-,1,1,631,827,"1,573"
+Hampden (pt.),Agawam,Agawam,-,2,1,850,"1,069","2,049"
+Hampden (pt.),Agawam,Agawam,-,3,1,770,921,"1,777"
+Hampden (pt.),Agawam,Agawam,-,4,1,700,724,"1,521"
+Hampden (pt.),Agawam,Agawam,-,5,1,861,998,"1,999"
+Hampden (pt.),Agawam,Agawam,-,6,1,783,882,"1,762"
+Hampden (pt.),Agawam,Agawam,-,7,1,750,991,"1,848"
+Hampden (pt.),Agawam,Agawam,-,8,1,863,"1,009","1,959"
+Berkshire,Alford,Alford,-,1,1,226,52,294
+Essex (pt.),Amesbury,Amesbury,-,1,6,930,623,"1,669"
+Essex (pt.),Amesbury,Amesbury,-,2,6,901,503,"1,525"
+Essex (pt.),Amesbury,Amesbury,-,3,6,960,498,"1,565"
+Essex (pt.),Amesbury,Amesbury,-,4,6,805,502,"1,421"
+Essex (pt.),Amesbury,Amesbury,-,5,6,745,675,"1,532"
+Essex (pt.),Amesbury,Amesbury,-,6,6,833,430,"1,371"
+Hampshire (pt.),Amherst,Amherst,-,1,2,955,101,"1,172"
+Hampshire (pt.),Amherst,Amherst,-,2,2,"1,409",143,"1,686"
+Hampshire (pt.),Amherst,Amherst,-,3,2,908,125,"1,126"
+Hampshire (pt.),Amherst,Amherst,-,4,2,910,162,"1,139"
+Hampshire (pt.),Amherst,Amherst,-,5,2,"1,023",95,"1,177"
+Hampshire (pt.),Amherst,Amherst,-,6,2,"1,464",134,"1,702"
+Hampshire (pt.),Amherst,Amherst,-,7,2,"1,440",131,"1,672"
+Hampshire (pt.),Amherst,Amherst,-,8,2,"1,644",124,"1,890"
+Hampshire (pt.),Amherst,Amherst,-,9,2,"1,382",79,"1,600"
+Hampshire (pt.),Amherst,Amherst,-,10,2,"1,222",154,"1,499"
+Essex (pt.),Andover (pt.),Andover,-,1,6,"1,101",433,"1,646"
+Essex (pt.),Andover (pt.),Andover,-,2,3,"1,312",865,"2,289"
+Essex (pt.),Andover (pt.),Andover,-,3,3,"1,431",651,"2,231"
+Essex (pt.),Andover (pt.),Andover,-,4,3,"1,162",818,"2,108"
+Essex (pt.),Andover (pt.),Andover,-,5,3,"1,257",758,"2,138"
+Essex (pt.),Andover (pt.),Andover,-,6,3,"1,207",842,"2,174"
+Essex (pt.),Andover (pt.),Andover,-,7,3,980,548,"1,617"
+Essex (pt.),Andover (pt.),Andover,-,7A,6,256,163,444
+Essex (pt.),Andover (pt.),Andover,-,8,6,"1,278",685,"2,078"
+Essex (pt.),Andover (pt.),Andover,-,9,3,"1,232",752,"2,101"
+Essex (pt.),Andover (pt.),Andover,-,9A,6,6,7,15
+Dukes,Aquinnah,Aquinnah,-,1,9,232,34,279
+Middlesex (pt.),Arlington,Arlington,-,1,5,802,173,"1,014"
+Middlesex (pt.),Arlington,Arlington,-,2,5,"1,028",232,"1,324"
+Middlesex (pt.),Arlington,Arlington,-,3,5,"1,049",169,"1,286"
+Middlesex (pt.),Arlington,Arlington,-,4,5,"1,022",195,"1,288"
+Middlesex (pt.),Arlington,Arlington,-,5,5,932,233,"1,229"
+Middlesex (pt.),Arlington,Arlington,-,6,5,946,178,"1,169"
+Middlesex (pt.),Arlington,Arlington,-,7,5,938,173,"1,174"
+Middlesex (pt.),Arlington,Arlington,-,8,5,"1,169",153,"1,381"
+Middlesex (pt.),Arlington,Arlington,-,9,5,813,205,"1,074"
+Middlesex (pt.),Arlington,Arlington,-,10,5,"1,129",192,"1,374"
+Middlesex (pt.),Arlington,Arlington,-,11,5,"1,007",306,"1,361"
+Middlesex (pt.),Arlington,Arlington,-,12,5,"1,122",229,"1,409"
+Middlesex (pt.),Arlington,Arlington,-,13,5,846,375,"1,278"
+Middlesex (pt.),Arlington,Arlington,-,14,5,930,201,"1,175"
+Middlesex (pt.),Arlington,Arlington,-,15,5,"1,000",271,"1,336"
+Middlesex (pt.),Arlington,Arlington,-,16,5,924,199,"1,182"
+Middlesex (pt.),Arlington,Arlington,-,17,5,908,193,"1,154"
+Middlesex (pt.),Arlington,Arlington,-,18,5,958,323,"1,346"
+Middlesex (pt.),Arlington,Arlington,-,19,5,"1,003",268,"1,321"
+Middlesex (pt.),Arlington,Arlington,-,20,5,"1,014",225,"1,277"
+Middlesex (pt.),Arlington,Arlington,-,21,5,999,159,"1,228"
+Worcester (pt.),Ashburnham,Ashburnham,-,1,3,"1,439","1,522","3,274"
+Middlesex (pt.),Ashby,Ashby,-,1,3,722,974,"1,870"
+Franklin (pt.),Ashfield,Ashfield,-,1,1,836,184,"1,116"
+Middlesex (pt.),Ashland,Ashland,-,1,5,"1,121",536,"1,781"
+Middlesex (pt.),Ashland,Ashland,-,2,5,"1,166",588,"1,865"
+Middlesex (pt.),Ashland,Ashland,-,3,5,"1,139",565,"1,812"
+Middlesex (pt.),Ashland,Ashland,-,4,5,"1,147",576,"1,824"
+Middlesex (pt.),Ashland,Ashland,-,5,5,"1,111",503,"1,732"
+Worcester (pt.),Athol,Athol,-,1,2,733,856,"1,757"
+Worcester (pt.),Athol,Athol,-,2,2,608,781,"1,537"
+Worcester (pt.),Athol,Athol,-,3,2,735,698,"1,561"
+Bristol (pt.),Attleboro,Attleboro,1,A,4,761,761,"1,623"
+Bristol (pt.),Attleboro,Attleboro,1,B,4,779,758,"1,627"
+Bristol (pt.),Attleboro,Attleboro,2,A,4,894,774,"1,784"
+Bristol (pt.),Attleboro,Attleboro,2,B,4,949,861,"1,933"
+Bristol (pt.),Attleboro,Attleboro,3,A,4,933,650,"1,726"
+Bristol (pt.),Attleboro,Attleboro,3,B,4,949,694,"1,755"
+Bristol (pt.),Attleboro,Attleboro,4,A,4,815,485,"1,395"
+Bristol (pt.),Attleboro,Attleboro,4,B,4,"1,072","1,021","2,226"
+Bristol (pt.),Attleboro,Attleboro,5,A,4,689,349,"1,123"
+Bristol (pt.),Attleboro,Attleboro,5,B,4,912,682,"1,714"
+Bristol (pt.),Attleboro,Attleboro,6,A,4,818,762,"1,702"
+Bristol (pt.),Attleboro,Attleboro,6,B,4,947,774,"1,834"
+Worcester (pt.),Auburn,Auburn,-,1,2,934,841,"1,904"
+Worcester (pt.),Auburn,Auburn,-,2,2,959,822,"1,888"
+Worcester (pt.),Auburn,Auburn,-,3,2,968,839,"1,921"
+Worcester (pt.),Auburn,Auburn,-,4,2,830,746,"1,758"
+Worcester (pt.),Auburn,Auburn,-,5,2,805,752,"1,670"
+Norfolk (pt.),Avon,Avon,-,1,8,"1,254","1,068","2,441"
+Middlesex (pt.),Ayer,Ayer,-,1,3,"1,078",729,"1,996"
+Middlesex (pt.),Ayer,Ayer,-,2,3,"1,084",769,"2,021"
+Barnstable,Barnstable,Barnstable,-,1,9,"1,278","1,015","2,408"
+Barnstable,Barnstable,Barnstable,-,2,9,"1,022",946,"2,082"
+Barnstable,Barnstable,Barnstable,-,3,9,912,643,"1,630"
+Barnstable,Barnstable,Barnstable,-,4,9,994,879,"1,978"
+Barnstable,Barnstable,Barnstable,-,5,9,"1,049","1,115","2,246"
+Barnstable,Barnstable,Barnstable,-,6,9,"1,033","1,006","2,175"
+Barnstable,Barnstable,Barnstable,-,7,9,"1,252",994,"2,370"
+Barnstable,Barnstable,Barnstable,-,8,9,875,575,"1,548"
+Barnstable,Barnstable,Barnstable,-,9,9,620,341,"1,026"
+Barnstable,Barnstable,Barnstable,-,10,9,928,929,"1,982"
+Barnstable,Barnstable,Barnstable,-,11,9,"1,124","1,101","2,352"
+Barnstable,Barnstable,Barnstable,-,12,9,"1,050","1,032","2,219"
+Barnstable,Barnstable,Barnstable,-,13,9,868,619,"1,581"
+Worcester (pt.),Barre,Barre,-,1,2,639,712,"1,474"
+Worcester (pt.),Barre,Barre,-,2,2,562,717,"1,378"
+Berkshire,Becket,Becket,-,1,1,571,368,"1,001"
+Middlesex (pt.),Bedford,Bedford,-,1,6,"1,419",548,"2,106"
+Middlesex (pt.),Bedford,Bedford,-,2,6,"1,165",648,"1,915"
+Middlesex (pt.),Bedford,Bedford,-,3,6,"1,379",512,"2,005"
+Middlesex (pt.),Bedford,Bedford,-,4,6,"1,122",503,"1,766"
+Hampshire (pt.),Belchertown,Belchertown,-,A,2,"1,103",698,"1,932"
+Hampshire (pt.),Belchertown,Belchertown,-,B,2,977,894,"2,031"
+Hampshire (pt.),Belchertown,Belchertown,-,C,2,"1,048",955,"2,148"
+Hampshire (pt.),Belchertown,Belchertown,-,D,2,"1,280",606,"2,034"
+Norfolk (pt.),Bellingham (pt.),Bellingham,-,1,4,797,786,"1,714"
+Norfolk (pt.),Bellingham (pt.),Bellingham,-,2,4,846,834,"1,806"
+Norfolk (pt.),Bellingham (pt.),Bellingham,-,3,4,895,791,"1,804"
+Norfolk (pt.),Bellingham (pt.),Bellingham,-,4,4,687,711,"1,508"
+Norfolk (pt.),Bellingham (pt.),Bellingham,-,4A,2,104,92,208
+Norfolk (pt.),Bellingham (pt.),Bellingham,-,5,2,704,845,"1,654"
+Middlesex (pt.),Belmont,Belmont,-,1,5,"1,326",339,"1,765"
+Middlesex (pt.),Belmont,Belmont,-,2,5,"1,248",501,"1,851"
+Middlesex (pt.),Belmont,Belmont,-,3,5,"1,317",366,"1,761"
+Middlesex (pt.),Belmont,Belmont,-,4,5,"1,132",322,"1,556"
+Middlesex (pt.),Belmont,Belmont,-,5,5,"1,275",350,"1,726"
+Middlesex (pt.),Belmont,Belmont,-,6,5,"1,366",339,"1,793"
+Middlesex (pt.),Belmont,Belmont,-,7,5,"1,339",345,"1,806"
+Middlesex (pt.),Belmont,Belmont,-,8,5,"1,249",544,"1,898"
+Bristol (pt.),Berkley,Berkley,-,1,4,793,"1,003","1,913"
+Bristol (pt.),Berkley,Berkley,-,2,4,662,923,"1,668"
+Worcester (pt.),Berlin,Berlin,-,1,3,"1,009",745,"1,916"
+Franklin (pt.),Bernardston,Bernardston,-,1,1,711,382,"1,201"
+Essex (pt.),Beverly,Beverly,1,1,6,941,640,"1,702"
+Essex (pt.),Beverly,Beverly,1,2,6,"1,072",705,"1,916"
+Essex (pt.),Beverly,Beverly,2,1,6,"1,111",435,"1,679"
+Essex (pt.),Beverly,Beverly,2,2,6,"1,336",484,"1,945"
+Essex (pt.),Beverly,Beverly,3,1,6,916,396,"1,439"
+Essex (pt.),Beverly,Beverly,3,2,6,"1,005",607,"1,730"
+Essex (pt.),Beverly,Beverly,4,1,6,741,332,"1,133"
+Essex (pt.),Beverly,Beverly,4,2,6,"1,489",557,"2,168"
+Essex (pt.),Beverly,Beverly,5,1,6,"1,117",676,"1,917"
+Essex (pt.),Beverly,Beverly,5,2,6,"1,073",661,"1,841"
+Essex (pt.),Beverly,Beverly,6,1,6,"1,250",581,"1,993"
+Essex (pt.),Beverly,Beverly,6,2,6,"1,134",830,"2,100"
+Middlesex (pt.),Billerica,Billerica,-,1,6,"1,087",834,"2,059"
+Middlesex (pt.),Billerica,Billerica,-,2,6,999,930,"2,061"
+Middlesex (pt.),Billerica,Billerica,-,3,6,957,929,"1,990"
+Middlesex (pt.),Billerica,Billerica,-,4,6,804,803,"1,704"
+Middlesex (pt.),Billerica,Billerica,-,5,6,953,"1,093","2,156"
+Middlesex (pt.),Billerica,Billerica,-,6,6,795,820,"1,728"
+Middlesex (pt.),Billerica,Billerica,-,7,6,979,876,"1,967"
+Middlesex (pt.),Billerica,Billerica,-,8,6,955,"1,065","2,152"
+Middlesex (pt.),Billerica,Billerica,-,9,6,860,996,"1,944"
+Middlesex (pt.),Billerica,Billerica,-,10,6,859,"1,061","2,026"
+Middlesex (pt.),Billerica,Billerica,-,11,6,852,912,"1,872"
+Worcester (pt.),Blackstone,Blackstone,-,1,2,578,734,"1,423"
+Worcester (pt.),Blackstone,Blackstone,-,2,2,670,776,"1,552"
+Worcester (pt.),Blackstone,Blackstone,-,3,2,602,817,"1,515"
+Hampden (pt.),Blandford,Blandford,-,1,1,256,405,697
+Worcester (pt.),Bolton,Bolton,-,1,3,"1,891","1,036","3,211"
+Suffolk (pt.),Boston (pt.),Boston,1,1,7,755,189,987
+Suffolk (pt.),Boston (pt.),Boston,1,2,7,562,142,737
+Suffolk (pt.),Boston (pt.),Boston,1,3,7,"1,276",251,"1,606"
+Suffolk (pt.),Boston (pt.),Boston,1,4,7,366,88,477
+Suffolk (pt.),Boston (pt.),Boston,1,5,7,652,153,843
+Suffolk (pt.),Boston (pt.),Boston,1,6,7,556,138,727
+Suffolk (pt.),Boston (pt.),Boston,1,7,7,604,143,777
+Suffolk (pt.),Boston (pt.),Boston,1,8,7,859,187,"1,089"
+Suffolk (pt.),Boston (pt.),Boston,1,9,7,551,146,735
+Suffolk (pt.),Boston (pt.),Boston,1,10,7,364,105,485
+Suffolk (pt.),Boston (pt.),Boston,1,11,7,644,345,"1,027"
+Suffolk (pt.),Boston (pt.),Boston,1,12,7,582,364,995
+Suffolk (pt.),Boston (pt.),Boston,1,13,7,927,361,"1,332"
+Suffolk (pt.),Boston (pt.),Boston,1,14,7,425,219,664
+Suffolk (pt.),Boston (pt.),Boston,1,15,7,1,0,1
+Suffolk (pt.),Boston (pt.),Boston,2,1,7,"1,164",384,"1,652"
+Suffolk (pt.),Boston (pt.),Boston,2,2,7,"1,530",378,"1,994"
+Suffolk (pt.),Boston (pt.),Boston,2,3,7,876,211,"1,152"
+Suffolk (pt.),Boston (pt.),Boston,2,4,7,821,187,"1,060"
+Suffolk (pt.),Boston (pt.),Boston,2,5,7,875,280,"1,221"
+Suffolk (pt.),Boston (pt.),Boston,2,6,7,"1,028",381,"1,494"
+Suffolk (pt.),Boston (pt.),Boston,2,7,7,779,290,"1,131"
+Suffolk (pt.),Boston (pt.),Boston,3,1,8,"1,165",434,"1,703"
+Suffolk (pt.),Boston (pt.),Boston,3,2,8,856,298,"1,215"
+Suffolk (pt.),Boston (pt.),Boston,3,3,8,916,329,"1,330"
+Suffolk (pt.),Boston (pt.),Boston,3,4,8,931,361,"1,372"
+Suffolk (pt.),Boston (pt.),Boston,3,5,8,"1,684",386,"2,170"
+Suffolk (pt.),Boston (pt.),Boston,3,6,8,"2,121",536,"2,811"
+Suffolk (pt.),Boston (pt.),Boston,3,7,7,"2,451",223,"2,774"
+Suffolk (pt.),Boston (pt.),Boston,3,8,7,"2,941",433,"3,524"
+Suffolk (pt.),Boston (pt.),Boston,4,1,7,"1,283",121,"1,470"
+Suffolk (pt.),Boston (pt.),Boston,4,2,7,"1,731",324,"2,155"
+Suffolk (pt.),Boston (pt.),Boston,4,3,7,858,73,989
+Suffolk (pt.),Boston (pt.),Boston,4,4,7,"1,214",82,"1,353"
+Suffolk (pt.),Boston (pt.),Boston,4,5,7,901,114,"1,067"
+Suffolk (pt.),Boston (pt.),Boston,4,6,7,741,98,886
+Suffolk (pt.),Boston (pt.),Boston,4,7,7,819,76,937
+Suffolk (pt.),Boston (pt.),Boston,4,8,7,795,113,963
+Suffolk (pt.),Boston (pt.),Boston,4,9,7,689,24,757
+Suffolk (pt.),Boston (pt.),Boston,4,10,7,390,45,452
+Suffolk (pt.),Boston (pt.),Boston,5,1,7,"2,512",301,"2,939"
+Suffolk (pt.),Boston (pt.),Boston,5,2,7,882,77,"1,005"
+Suffolk (pt.),Boston (pt.),Boston,5,2A,7,507,76,618
+Suffolk (pt.),Boston (pt.),Boston,5,3,8,"1,077",191,"1,336"
+Suffolk (pt.),Boston (pt.),Boston,5,4,8,"1,371",174,"1,627"
+Suffolk (pt.),Boston (pt.),Boston,5,5,8,449,87,563
+Suffolk (pt.),Boston (pt.),Boston,5,6,7,"1,020",227,"1,314"
+Suffolk (pt.),Boston (pt.),Boston,5,7,7,"1,296",268,"1,667"
+Suffolk (pt.),Boston (pt.),Boston,5,8,7,"1,136",209,"1,433"
+Suffolk (pt.),Boston (pt.),Boston,5,9,7,"1,572",243,"1,930"
+Suffolk (pt.),Boston (pt.),Boston,5,10,7,"1,025",175,"1,251"
+Suffolk (pt.),Boston (pt.),Boston,5,11,8,723,120,884
+Suffolk (pt.),Boston (pt.),Boston,6,1,8,"2,669",668,"3,489"
+Suffolk (pt.),Boston (pt.),Boston,6,2,8,706,203,958
+Suffolk (pt.),Boston (pt.),Boston,6,3,8,950,330,"1,351"
+Suffolk (pt.),Boston (pt.),Boston,6,4,8,880,358,"1,325"
+Suffolk (pt.),Boston (pt.),Boston,6,5,8,805,360,"1,240"
+Suffolk (pt.),Boston (pt.),Boston,6,6,8,683,367,"1,119"
+Suffolk (pt.),Boston (pt.),Boston,6,7,8,742,411,"1,226"
+Suffolk (pt.),Boston (pt.),Boston,6,8,8,693,370,"1,135"
+Suffolk (pt.),Boston (pt.),Boston,6,9,8,588,439,"1,075"
+Suffolk (pt.),Boston (pt.),Boston,7,1,8,605,367,"1,022"
+Suffolk (pt.),Boston (pt.),Boston,7,2,8,799,429,"1,305"
+Suffolk (pt.),Boston (pt.),Boston,7,3,8,886,475,"1,438"
+Suffolk (pt.),Boston (pt.),Boston,7,4,8,826,333,"1,225"
+Suffolk (pt.),Boston (pt.),Boston,7,5,8,749,231,"1,052"
+Suffolk (pt.),Boston (pt.),Boston,7,6,8,696,202,927
+Suffolk (pt.),Boston (pt.),Boston,7,7,8,580,98,697
+Suffolk (pt.),Boston (pt.),Boston,7,8,8,632,167,841
+Suffolk (pt.),Boston (pt.),Boston,7,9,8,618,187,845
+Suffolk (pt.),Boston (pt.),Boston,7,10,7,835,48,907
+Suffolk (pt.),Boston (pt.),Boston,8,1,7,706,57,783
+Suffolk (pt.),Boston (pt.),Boston,8,2,7,"1,396",136,"1,578"
+Suffolk (pt.),Boston (pt.),Boston,8,3,7,724,26,769
+Suffolk (pt.),Boston (pt.),Boston,8,4,7,404,9,418
+Suffolk (pt.),Boston (pt.),Boston,8,5,7,760,35,811
+Suffolk (pt.),Boston (pt.),Boston,8,6,7,271,27,307
+Suffolk (pt.),Boston (pt.),Boston,8,7,7,541,27,576
+Suffolk (pt.),Boston (pt.),Boston,9,1,7,"1,158",97,"1,293"
+Suffolk (pt.),Boston (pt.),Boston,9,2,7,"1,129",94,"1,271"
+Suffolk (pt.),Boston (pt.),Boston,9,3,7,"1,914",69,"2,029"
+Suffolk (pt.),Boston (pt.),Boston,9,4,7,"1,177",57,"1,267"
+Suffolk (pt.),Boston (pt.),Boston,9,5,7,"1,330",34,"1,392"
+Suffolk (pt.),Boston (pt.),Boston,10,1,7,616,37,669
+Suffolk (pt.),Boston (pt.),Boston,10,2,7,557,55,638
+Suffolk (pt.),Boston (pt.),Boston,10,3,7,553,58,644
+Suffolk (pt.),Boston (pt.),Boston,10,4,7,977,154,"1,171"
+Suffolk (pt.),Boston (pt.),Boston,10,5,7,678,77,823
+Suffolk (pt.),Boston (pt.),Boston,10,6,7,761,44,850
+Suffolk (pt.),Boston (pt.),Boston,10,7,7,"1,082",34,"1,141"
+Suffolk (pt.),Boston (pt.),Boston,10,8,7,"1,021",67,"1,146"
+Suffolk (pt.),Boston (pt.),Boston,10,9,7,"1,432",78,"1,584"
+Suffolk (pt.),Boston (pt.),Boston,11,1,7,560,19,610
+Suffolk (pt.),Boston (pt.),Boston,11,2,7,"1,000",25,"1,056"
+Suffolk (pt.),Boston (pt.),Boston,11,3,7,768,27,808
+Suffolk (pt.),Boston (pt.),Boston,11,4,7,"1,247",49,"1,349"
+Suffolk (pt.),Boston (pt.),Boston,11,5,7,"1,000",48,"1,083"
+Suffolk (pt.),Boston (pt.),Boston,11,6,7,845,43,942
+Suffolk (pt.),Boston (pt.),Boston,11,7,7,"1,113",49,"1,209"
+Suffolk (pt.),Boston (pt.),Boston,11,8,7,"1,123",58,"1,230"
+Suffolk (pt.),Boston (pt.),Boston,11,9,8,762,45,834
+Suffolk (pt.),Boston (pt.),Boston,11,10,8,956,27,"1,029"
+Suffolk (pt.),Boston (pt.),Boston,12,1,7,"1,049",37,"1,121"
+Suffolk (pt.),Boston (pt.),Boston,12,2,7,"1,126",26,"1,178"
+Suffolk (pt.),Boston (pt.),Boston,12,3,7,599,18,642
+Suffolk (pt.),Boston (pt.),Boston,12,4,7,658,29,711
+Suffolk (pt.),Boston (pt.),Boston,12,5,7,470,10,486
+Suffolk (pt.),Boston (pt.),Boston,12,6,7,544,22,576
+Suffolk (pt.),Boston (pt.),Boston,12,7,7,"1,491",42,"1,559"
+Suffolk (pt.),Boston (pt.),Boston,12,8,7,457,16,479
+Suffolk (pt.),Boston (pt.),Boston,12,9,7,620,20,658
+Suffolk (pt.),Boston (pt.),Boston,13,1,7,876,33,927
+Suffolk (pt.),Boston (pt.),Boston,13,2,7,329,12,347
+Suffolk (pt.),Boston (pt.),Boston,13,3,8,679,69,787
+Suffolk (pt.),Boston (pt.),Boston,13,4,7,610,26,651
+Suffolk (pt.),Boston (pt.),Boston,13,5,7,611,39,669
+Suffolk (pt.),Boston (pt.),Boston,13,6,7,801,75,902
+Suffolk (pt.),Boston (pt.),Boston,13,7,8,758,182,"1,006"
+Suffolk (pt.),Boston (pt.),Boston,13,8,7,681,143,861
+Suffolk (pt.),Boston (pt.),Boston,13,9,7,799,103,940
+Suffolk (pt.),Boston (pt.),Boston,13,10,8,913,303,"1,289"
+Suffolk (pt.),Boston (pt.),Boston,14,1,7,"1,377",50,"1,452"
+Suffolk (pt.),Boston (pt.),Boston,14,2,7,"1,517",41,"1,586"
+Suffolk (pt.),Boston (pt.),Boston,14,3,7,762,9,780
+Suffolk (pt.),Boston (pt.),Boston,14,4,7,850,30,901
+Suffolk (pt.),Boston (pt.),Boston,14,5,7,642,12,664
+Suffolk (pt.),Boston (pt.),Boston,14,6,7,674,24,711
+Suffolk (pt.),Boston (pt.),Boston,14,7,7,696,19,725
+Suffolk (pt.),Boston (pt.),Boston,14,8,7,759,20,794
+Suffolk (pt.),Boston (pt.),Boston,14,9,7,775,22,813
+Suffolk (pt.),Boston (pt.),Boston,14,10,7,805,13,826
+Suffolk (pt.),Boston (pt.),Boston,14,11,7,686,30,723
+Suffolk (pt.),Boston (pt.),Boston,14,12,7,484,11,500
+Suffolk (pt.),Boston (pt.),Boston,14,13,7,664,16,697
+Suffolk (pt.),Boston (pt.),Boston,14,14,7,757,16,781
+Suffolk (pt.),Boston (pt.),Boston,15,1,7,887,31,931
+Suffolk (pt.),Boston (pt.),Boston,15,2,7,612,8,632
+Suffolk (pt.),Boston (pt.),Boston,15,3,7,395,16,417
+Suffolk (pt.),Boston (pt.),Boston,15,4,7,"1,069",90,"1,194"
+Suffolk (pt.),Boston (pt.),Boston,15,5,7,781,29,828
+Suffolk (pt.),Boston (pt.),Boston,15,6,7,373,101,489
+Suffolk (pt.),Boston (pt.),Boston,15,7,7,638,22,680
+Suffolk (pt.),Boston (pt.),Boston,15,8,7,490,77,586
+Suffolk (pt.),Boston (pt.),Boston,15,9,7,616,81,716
+Suffolk (pt.),Boston (pt.),Boston,16,1,7,569,102,689
+Suffolk (pt.),Boston (pt.),Boston,16,2,8,457,157,639
+Suffolk (pt.),Boston (pt.),Boston,16,3,7,869,106,999
+Suffolk (pt.),Boston (pt.),Boston,16,4,7,696,111,845
+Suffolk (pt.),Boston (pt.),Boston,16,5,8,779,175,989
+Suffolk (pt.),Boston (pt.),Boston,16,6,7,995,167,"1,214"
+Suffolk (pt.),Boston (pt.),Boston,16,7,8,589,305,941
+Suffolk (pt.),Boston (pt.),Boston,16,8,7,748,241,"1,050"
+Suffolk (pt.),Boston (pt.),Boston,16,9,8,582,466,"1,094"
+Suffolk (pt.),Boston (pt.),Boston,16,10,8,576,331,942
+Suffolk (pt.),Boston (pt.),Boston,16,11,7,749,291,"1,094"
+Suffolk (pt.),Boston (pt.),Boston,16,12,8,456,442,947
+Suffolk (pt.),Boston (pt.),Boston,17,1,7,726,30,770
+Suffolk (pt.),Boston (pt.),Boston,17,2,7,499,33,554
+Suffolk (pt.),Boston (pt.),Boston,17,3,7,"1,143",50,"1,217"
+Suffolk (pt.),Boston (pt.),Boston,17,4,7,"1,169",112,"1,314"
+Suffolk (pt.),Boston (pt.),Boston,17,5,7,509,15,545
+Suffolk (pt.),Boston (pt.),Boston,17,6,7,821,44,897
+Suffolk (pt.),Boston (pt.),Boston,17,7,7,448,15,468
+Suffolk (pt.),Boston (pt.),Boston,17,8,7,730,32,769
+Suffolk (pt.),Boston (pt.),Boston,17,9,7,634,39,693
+Suffolk (pt.),Boston (pt.),Boston,17,10,7,"1,006",36,"1,060"
+Suffolk (pt.),Boston (pt.),Boston,17,11,7,389,14,416
+Suffolk (pt.),Boston (pt.),Boston,17,12,7,612,39,664
+Suffolk (pt.),Boston (pt.),Boston,17,13,7,752,143,925
+Suffolk (pt.),Boston (pt.),Boston,17,14,7,835,106,966
+Suffolk (pt.),Boston (pt.),Boston,18,1,7,"1,347",49,"1,420"
+Suffolk (pt.),Boston (pt.),Boston,18,2,7,961,18,993
+Suffolk (pt.),Boston (pt.),Boston,18,3,7,"1,096",18,"1,132"
+Suffolk (pt.),Boston (pt.),Boston,18,4,7,"1,075",34,"1,125"
+Suffolk (pt.),Boston (pt.),Boston,18,5,7,969,39,"1,027"
+Suffolk (pt.),Boston (pt.),Boston,18,6,7,"1,343",49,"1,410"
+Suffolk (pt.),Boston (pt.),Boston,18,7,7,932,107,"1,059"
+Suffolk (pt.),Boston (pt.),Boston,18,8,7,"1,646",147,"1,837"
+Suffolk (pt.),Boston (pt.),Boston,18,9,7,923,164,"1,112"
+Suffolk (pt.),Boston (pt.),Boston,18,10,7,"1,321",201,"1,584"
+Suffolk (pt.),Boston (pt.),Boston,18,11,7,851,87,964
+Suffolk (pt.),Boston (pt.),Boston,18,12,7,926,187,"1,147"
+Suffolk (pt.),Boston (pt.),Boston,18,13,7,574,59,657
+Suffolk (pt.),Boston (pt.),Boston,18,14,7,616,67,701
+Suffolk (pt.),Boston (pt.),Boston,18,15,7,919,67,"1,005"
+Suffolk (pt.),Boston (pt.),Boston,18,16,7,836,346,"1,234"
+Suffolk (pt.),Boston (pt.),Boston,18,17,7,935,171,"1,153"
+Suffolk (pt.),Boston (pt.),Boston,18,18,7,"1,120",205,"1,367"
+Suffolk (pt.),Boston (pt.),Boston,18,19,7,"1,463",260,"1,791"
+Suffolk (pt.),Boston (pt.),Boston,18,20,7,"1,023",430,"1,501"
+Suffolk (pt.),Boston (pt.),Boston,18,21,7,"1,223",38,"1,280"
+Suffolk (pt.),Boston (pt.),Boston,18,22,7,926,325,"1,295"
+Suffolk (pt.),Boston (pt.),Boston,18,23,7,900,69,987
+Suffolk (pt.),Boston (pt.),Boston,19,1,8,"1,008",29,"1,091"
+Suffolk (pt.),Boston (pt.),Boston,19,2,8,967,236,"1,255"
+Suffolk (pt.),Boston (pt.),Boston,19,3,8,772,62,876
+Suffolk (pt.),Boston (pt.),Boston,19,4,8,"1,179",42,"1,261"
+Suffolk (pt.),Boston (pt.),Boston,19,5,8,912,68,"1,018"
+Suffolk (pt.),Boston (pt.),Boston,19,6,8,"1,354",52,"1,469"
+Suffolk (pt.),Boston (pt.),Boston,19,7,7,"1,174",81,"1,309"
+Suffolk (pt.),Boston (pt.),Boston,19,8,8,647,34,713
+Suffolk (pt.),Boston (pt.),Boston,19,9,8,638,45,710
+Suffolk (pt.),Boston (pt.),Boston,19,10,7,"1,091",142,"1,289"
+Suffolk (pt.),Boston (pt.),Boston,19,11,7,"1,051",56,"1,140"
+Suffolk (pt.),Boston (pt.),Boston,19,12,7,807,106,933
+Suffolk (pt.),Boston (pt.),Boston,19,13,7,737,83,841
+Suffolk (pt.),Boston (pt.),Boston,20,1,8,895,231,"1,177"
+Suffolk (pt.),Boston (pt.),Boston,20,2,8,967,171,"1,194"
+Suffolk (pt.),Boston (pt.),Boston,20,3,7,787,339,"1,179"
+Suffolk (pt.),Boston (pt.),Boston,20,4,8,862,105,"1,014"
+Suffolk (pt.),Boston (pt.),Boston,20,5,8,757,381,"1,182"
+Suffolk (pt.),Boston (pt.),Boston,20,6,8,927,358,"1,341"
+Suffolk (pt.),Boston (pt.),Boston,20,7,8,590,207,834
+Suffolk (pt.),Boston (pt.),Boston,20,8,8,704,183,923
+Suffolk (pt.),Boston (pt.),Boston,20,9,8,778,211,"1,019"
+Suffolk (pt.),Boston (pt.),Boston,20,10,8,955,474,"1,479"
+Suffolk (pt.),Boston (pt.),Boston,20,11,8,470,165,658
+Suffolk (pt.),Boston (pt.),Boston,20,12,8,549,263,865
+Suffolk (pt.),Boston (pt.),Boston,20,13,8,508,229,766
+Suffolk (pt.),Boston (pt.),Boston,20,14,8,459,245,746
+Suffolk (pt.),Boston (pt.),Boston,20,15,8,878,462,"1,403"
+Suffolk (pt.),Boston (pt.),Boston,20,16,8,845,510,"1,429"
+Suffolk (pt.),Boston (pt.),Boston,20,17,8,"1,030",488,"1,596"
+Suffolk (pt.),Boston (pt.),Boston,20,18,8,550,174,755
+Suffolk (pt.),Boston (pt.),Boston,20,19,8,527,246,806
+Suffolk (pt.),Boston (pt.),Boston,20,20,8,964,363,"1,381"
+Suffolk (pt.),Boston (pt.),Boston,21,1,7,983,89,"1,132"
+Suffolk (pt.),Boston (pt.),Boston,21,2,7,472,41,539
+Suffolk (pt.),Boston (pt.),Boston,21,3,7,689,80,813
+Suffolk (pt.),Boston (pt.),Boston,21,4,7,577,44,677
+Suffolk (pt.),Boston (pt.),Boston,21,5,7,936,78,"1,072"
+Suffolk (pt.),Boston (pt.),Boston,21,6,7,657,93,791
+Suffolk (pt.),Boston (pt.),Boston,21,7,7,875,72,997
+Suffolk (pt.),Boston (pt.),Boston,21,8,7,"1,001",80,"1,157"
+Suffolk (pt.),Boston (pt.),Boston,21,9,7,987,104,"1,153"
+Suffolk (pt.),Boston (pt.),Boston,21,10,7,861,131,"1,034"
+Suffolk (pt.),Boston (pt.),Boston,21,11,7,988,112,"1,171"
+Suffolk (pt.),Boston (pt.),Boston,21,12,7,904,192,"1,165"
+Suffolk (pt.),Boston (pt.),Boston,21,13,7,854,303,"1,226"
+Suffolk (pt.),Boston (pt.),Boston,21,14,7,654,61,760
+Suffolk (pt.),Boston (pt.),Boston,21,15,7,791,81,911
+Suffolk (pt.),Boston (pt.),Boston,21,16,7,846,165,"1,087"
+Suffolk (pt.),Boston (pt.),Boston,22,1,7,"1,130",121,"1,344"
+Suffolk (pt.),Boston (pt.),Boston,22,2,7,"1,249",169,"1,500"
+Suffolk (pt.),Boston (pt.),Boston,22,3,7,"1,063",214,"1,350"
+Suffolk (pt.),Boston (pt.),Boston,22,4,7,701,128,890
+Suffolk (pt.),Boston (pt.),Boston,22,5,7,598,123,767
+Suffolk (pt.),Boston (pt.),Boston,22,6,7,606,106,768
+Suffolk (pt.),Boston (pt.),Boston,22,7,7,949,155,"1,185"
+Suffolk (pt.),Boston (pt.),Boston,22,8,7,669,199,908
+Suffolk (pt.),Boston (pt.),Boston,22,9,7,708,173,933
+Suffolk (pt.),Boston (pt.),Boston,22,10,7,835,163,"1,055"
+Suffolk (pt.),Boston (pt.),Boston,22,11,7,596,130,769
+Suffolk (pt.),Boston (pt.),Boston,22,12,7,605,138,784
+Suffolk (pt.),Boston (pt.),Boston,22,13,7,571,124,719
+Barnstable,Bourne,Bourne,-,1,9,687,829,"1,594"
+Barnstable,Bourne,Bourne,-,2,9,780,"1,001","1,862"
+Barnstable,Bourne,Bourne,-,3,9,435,542,"1,042"
+Barnstable,Bourne,Bourne,-,4,9,863,803,"1,764"
+Barnstable,Bourne,Bourne,-,5,9,808,773,"1,676"
+Barnstable,Bourne,Bourne,-,6,9,627,485,"1,176"
+Barnstable,Bourne,Bourne,-,7,9,710,768,"1,568"
+Middlesex (pt.),Boxborough,Boxborough,-,1,3,"1,987",756,"2,938"
+Essex (pt.),Boxford,Boxford,-,1,6,786,711,"1,623"
+Essex (pt.),Boxford,Boxford,-,2,6,852,776,"1,742"
+Essex (pt.),Boxford,Boxford,-,3,6,816,707,"1,615"
+Worcester (pt.),Boylston,Boylston,-,1,2,"1,424","1,125","2,760"
+Norfolk (pt.),Braintree,Braintree,-,1A,8,836,781,"1,698"
+Norfolk (pt.),Braintree,Braintree,-,1B,8,827,663,"1,563"
+Norfolk (pt.),Braintree,Braintree,-,2A,8,912,765,"1,760"
+Norfolk (pt.),Braintree,Braintree,-,2B,8,871,772,"1,723"
+Norfolk (pt.),Braintree,Braintree,-,3A,8,831,594,"1,503"
+Norfolk (pt.),Braintree,Braintree,-,3B,8,857,655,"1,589"
+Norfolk (pt.),Braintree,Braintree,-,4A,8,773,594,"1,453"
+Norfolk (pt.),Braintree,Braintree,-,4B,8,882,506,"1,451"
+Norfolk (pt.),Braintree,Braintree,-,5A,8,837,686,"1,604"
+Norfolk (pt.),Braintree,Braintree,-,5B,8,994,762,"1,856"
+Norfolk (pt.),Braintree,Braintree,-,6A,8,960,864,"1,913"
+Norfolk (pt.),Braintree,Braintree,-,6B,8,889,785,"1,765"
+Barnstable,Brewster,Brewster,-,1,9,"1,307",815,"2,262"
+Barnstable,Brewster,Brewster,-,2,9,"1,320",750,"2,197"
+Barnstable,Brewster,Brewster,-,3,9,"1,186",805,"2,133"
+Plymouth (pt.),Bridgewater,Bridgewater,-,1,8,"1,088","1,341","2,584"
+Plymouth (pt.),Bridgewater,Bridgewater,-,2,8,971,"1,095","2,204"
+Plymouth (pt.),Bridgewater,Bridgewater,-,3,8,"1,032","1,350","2,503"
+Plymouth (pt.),Bridgewater,Bridgewater,-,4,8,487,536,"1,102"
+Plymouth (pt.),Bridgewater,Bridgewater,-,5,8,334,310,687
+Plymouth (pt.),Bridgewater,Bridgewater,-,6,8,860,706,"1,663"
+Plymouth (pt.),Bridgewater,Bridgewater,-,7,8,946,923,"2,027"
+Hampden (pt.),Brimfield,Brimfield,-,1,1,793,"1,113","2,057"
+Plymouth (pt.),Brockton,Brockton,1,A,8,906,179,"1,118"
+Plymouth (pt.),Brockton,Brockton,1,B,8,980,381,"1,429"
+Plymouth (pt.),Brockton,Brockton,1,C,8,908,354,"1,311"
+Plymouth (pt.),Brockton,Brockton,1,D,8,"1,049",611,"1,759"
+Plymouth (pt.),Brockton,Brockton,2,A,8,809,60,888
+Plymouth (pt.),Brockton,Brockton,2,B,8,746,89,852
+Plymouth (pt.),Brockton,Brockton,2,C,8,754,79,850
+Plymouth (pt.),Brockton,Brockton,2,D,8,857,253,"1,150"
+Plymouth (pt.),Brockton,Brockton,3,A,8,918,257,"1,210"
+Plymouth (pt.),Brockton,Brockton,3,B,8,882,164,"1,075"
+Plymouth (pt.),Brockton,Brockton,3,C,8,984,544,"1,592"
+Plymouth (pt.),Brockton,Brockton,3,D,8,932,557,"1,565"
+Plymouth (pt.),Brockton,Brockton,4,A,8,752,108,871
+Plymouth (pt.),Brockton,Brockton,4,B,8,992,279,"1,319"
+Plymouth (pt.),Brockton,Brockton,4,C,8,943,410,"1,403"
+Plymouth (pt.),Brockton,Brockton,4,D,8,927,409,"1,393"
+Plymouth (pt.),Brockton,Brockton,5,A,8,972,151,"1,162"
+Plymouth (pt.),Brockton,Brockton,5,B,8,961,387,"1,414"
+Plymouth (pt.),Brockton,Brockton,5,C,8,979,232,"1,252"
+Plymouth (pt.),Brockton,Brockton,5,D,8,934,480,"1,474"
+Plymouth (pt.),Brockton,Brockton,6,A,8,805,236,"1,080"
+Plymouth (pt.),Brockton,Brockton,6,B,8,956,596,"1,631"
+Plymouth (pt.),Brockton,Brockton,6,C,8,910,402,"1,367"
+Plymouth (pt.),Brockton,Brockton,6,D,8,835,584,"1,486"
+Plymouth (pt.),Brockton,Brockton,7,A,8,896,146,"1,061"
+Plymouth (pt.),Brockton,Brockton,7,B,8,"1,047",252,"1,347"
+Plymouth (pt.),Brockton,Brockton,7,C,8,"1,018",215,"1,265"
+Plymouth (pt.),Brockton,Brockton,7,D,8,941,386,"1,378"
+Worcester (pt.),Brookfield,Brookfield,-,1,1,708,936,"1,773"
+Norfolk (pt.),Brookline,Brookline,-,1,4,"1,518",173,"1,760"
+Norfolk (pt.),Brookline,Brookline,-,2,4,"1,070",121,"1,231"
+Norfolk (pt.),Brookline,Brookline,-,3,4,"1,617",172,"1,856"
+Norfolk (pt.),Brookline,Brookline,-,4,4,"1,429",221,"1,702"
+Norfolk (pt.),Brookline,Brookline,-,5,4,"1,640",205,"1,917"
+Norfolk (pt.),Brookline,Brookline,-,6,4,"1,711",151,"1,942"
+Norfolk (pt.),Brookline,Brookline,-,7,4,"1,470",153,"1,712"
+Norfolk (pt.),Brookline,Brookline,-,8,4,"1,626",146,"1,845"
+Norfolk (pt.),Brookline,Brookline,-,9,4,"1,551",159,"1,775"
+Norfolk (pt.),Brookline,Brookline,-,10,4,"1,538",191,"1,790"
+Norfolk (pt.),Brookline,Brookline,-,11,4,"1,634",183,"1,871"
+Norfolk (pt.),Brookline,Brookline,-,12,4,"1,868",204,"2,154"
+Norfolk (pt.),Brookline,Brookline,-,13,4,"1,622",184,"1,888"
+Norfolk (pt.),Brookline,Brookline,-,14,4,"1,590",252,"1,929"
+Norfolk (pt.),Brookline,Brookline,-,15,4,"1,407",390,"1,879"
+Norfolk (pt.),Brookline,Brookline,-,16,4,"1,292",270,"1,636"
+Franklin (pt.),Buckland,Buckland,-,1,1,703,230,"1,025"
+Middlesex (pt.),Burlington,Burlington,-,1,6,"1,188",946,"2,243"
+Middlesex (pt.),Burlington,Burlington,-,2,6,863,495,"1,446"
+Middlesex (pt.),Burlington,Burlington,-,3,6,"1,070",777,"1,943"
+Middlesex (pt.),Burlington,Burlington,-,4,6,"1,002",683,"1,777"
+Middlesex (pt.),Burlington,Burlington,-,5,6,"1,161",902,"2,158"
+Middlesex (pt.),Burlington,Burlington,-,6,6,"1,134",884,"2,114"
+Middlesex (pt.),Burlington,Burlington,-,7,6,"1,215",747,"2,067"
+Middlesex (pt.),Cambridge (pt.),Cambridge,1,1,7,"1,404",224,"1,716"
+Middlesex (pt.),Cambridge (pt.),Cambridge,1,2,7,"1,267",179,"1,523"
+Middlesex (pt.),Cambridge (pt.),Cambridge,1,3,7,"1,365",202,"1,641"
+Middlesex (pt.),Cambridge (pt.),Cambridge,2,1,7,"1,342",74,"1,479"
+Middlesex (pt.),Cambridge (pt.),Cambridge,2,2,7,433,19,489
+Middlesex (pt.),Cambridge (pt.),Cambridge,2,3,7,761,79,885
+Middlesex (pt.),Cambridge (pt.),Cambridge,3,1,7,"1,354",176,"1,626"
+Middlesex (pt.),Cambridge (pt.),Cambridge,3,2,7,914,62,"1,017"
+Middlesex (pt.),Cambridge (pt.),Cambridge,3,2A,5,675,34,757
+Middlesex (pt.),Cambridge (pt.),Cambridge,3,3,7,"1,376",62,"1,504"
+Middlesex (pt.),Cambridge (pt.),Cambridge,4,1,7,"1,715",59,"1,834"
+Middlesex (pt.),Cambridge (pt.),Cambridge,4,2,5,"1,752",97,"1,924"
+Middlesex (pt.),Cambridge (pt.),Cambridge,4,3,5,636,31,715
+Middlesex (pt.),Cambridge (pt.),Cambridge,5,1,7,"1,505",72,"1,672"
+Middlesex (pt.),Cambridge (pt.),Cambridge,5,2,7,"1,678",115,"1,862"
+Middlesex (pt.),Cambridge (pt.),Cambridge,5,3,7,"1,262",61,"1,385"
+Middlesex (pt.),Cambridge (pt.),Cambridge,6,1,5,"1,656",80,"1,813"
+Middlesex (pt.),Cambridge (pt.),Cambridge,6,2,5,"1,648",78,"1,801"
+Middlesex (pt.),Cambridge (pt.),Cambridge,6,3,5,"1,661",127,"1,874"
+Middlesex (pt.),Cambridge (pt.),Cambridge,7,1,5,"1,720",55,"1,842"
+Middlesex (pt.),Cambridge (pt.),Cambridge,7,2,5,929,48,"1,021"
+Middlesex (pt.),Cambridge (pt.),Cambridge,7,3,5,559,33,621
+Middlesex (pt.),Cambridge (pt.),Cambridge,8,1,5,"1,200",61,"1,309"
+Middlesex (pt.),Cambridge (pt.),Cambridge,8,2,5,"1,224",63,"1,339"
+Middlesex (pt.),Cambridge (pt.),Cambridge,8,3,5,426,11,458
+Middlesex (pt.),Cambridge (pt.),Cambridge,9,1,5,"1,948",98,"2,141"
+Middlesex (pt.),Cambridge (pt.),Cambridge,9,2,5,"1,926",236,"2,246"
+Middlesex (pt.),Cambridge (pt.),Cambridge,9,3,5,"1,557",193,"1,835"
+Middlesex (pt.),Cambridge (pt.),Cambridge,10,1,5,"1,934",100,"2,113"
+Middlesex (pt.),Cambridge (pt.),Cambridge,10,2,5,"1,946",83,"2,090"
+Middlesex (pt.),Cambridge (pt.),Cambridge,10,3,7,"1,585",84,"1,712"
+Middlesex (pt.),Cambridge (pt.),Cambridge,11,1,7,"1,652",91,"1,805"
+Middlesex (pt.),Cambridge (pt.),Cambridge,11,2,7,"1,996",184,"2,285"
+Middlesex (pt.),Cambridge (pt.),Cambridge,11,3,7,"1,557",152,"1,797"
+Norfolk (pt.),Canton,Canton,-,1,8,"1,102",715,"1,909"
+Norfolk (pt.),Canton,Canton,-,2,8,"1,255",831,"2,193"
+Norfolk (pt.),Canton,Canton,-,3,8,"1,276",739,"2,111"
+Norfolk (pt.),Canton,Canton,-,4,8,"1,245",991,"2,379"
+Norfolk (pt.),Canton,Canton,-,5,8,"1,248",801,"2,186"
+Norfolk (pt.),Canton,Canton,-,6,8,"1,182",654,"1,944"
+Middlesex (pt.),Carlisle,Carlisle,-,1,3,"2,302",732,"3,269"
+Plymouth (pt.),Carver,Carver,-,1,9,818,"1,051","2,021"
+Plymouth (pt.),Carver,Carver,-,2,9,763,"1,051","1,964"
+Plymouth (pt.),Carver,Carver,-,3,9,948,"1,104","2,186"
+Franklin (pt.),Charlemont,Charlemont,-,1,1,407,228,700
+Worcester (pt.),Charlton,Charlton,-,1,1,712,945,"1,784"
+Worcester (pt.),Charlton,Charlton,-,2,1,652,"1,029","1,854"
+Worcester (pt.),Charlton,Charlton,-,3,1,701,"1,001","1,828"
+Worcester (pt.),Charlton,Charlton,-,4,1,644,881,"1,659"
+Barnstable,Chatham,Chatham,-,1,9,"2,398","1,796","4,478"
+Middlesex (pt.),Chelmsford,Chelmsford,-,1,3,"1,167",822,"2,137"
+Middlesex (pt.),Chelmsford,Chelmsford,-,2,3,"1,133",689,"1,967"
+Middlesex (pt.),Chelmsford,Chelmsford,-,3,3,"1,108",974,"2,216"
+Middlesex (pt.),Chelmsford,Chelmsford,-,4,3,"1,048",832,"1,982"
+Middlesex (pt.),Chelmsford,Chelmsford,-,5,3,"1,201",799,"2,175"
+Middlesex (pt.),Chelmsford,Chelmsford,-,6,3,"1,261",884,"2,300"
+Middlesex (pt.),Chelmsford,Chelmsford,-,7,3,"1,292",934,"2,410"
+Middlesex (pt.),Chelmsford,Chelmsford,-,8,3,"1,239",818,"2,181"
+Middlesex (pt.),Chelmsford,Chelmsford,-,9,3,"1,256",909,"2,328"
+Suffolk (pt.),Chelsea,Chelsea,1,1,7,429,92,533
+Suffolk (pt.),Chelsea,Chelsea,1,2,7,297,44,350
+Suffolk (pt.),Chelsea,Chelsea,1,3,7,368,57,447
+Suffolk (pt.),Chelsea,Chelsea,1,4,7,358,33,404
+Suffolk (pt.),Chelsea,Chelsea,2,1,7,838,255,"1,136"
+Suffolk (pt.),Chelsea,Chelsea,2,2,7,593,76,702
+Suffolk (pt.),Chelsea,Chelsea,2,3,7,285,23,317
+Suffolk (pt.),Chelsea,Chelsea,2,4,7,428,50,487
+Suffolk (pt.),Chelsea,Chelsea,3,1,7,479,69,568
+Suffolk (pt.),Chelsea,Chelsea,3,2,7,599,107,721
+Suffolk (pt.),Chelsea,Chelsea,3,3,7,439,83,536
+Suffolk (pt.),Chelsea,Chelsea,3,4,7,497,81,605
+Suffolk (pt.),Chelsea,Chelsea,4,1,7,440,122,581
+Suffolk (pt.),Chelsea,Chelsea,4,2,7,543,199,779
+Suffolk (pt.),Chelsea,Chelsea,4,3,7,468,167,663
+Suffolk (pt.),Chelsea,Chelsea,4,4,7,439,129,592
+Berkshire,Cheshire,Cheshire,-,1,1,978,741,"1,832"
+Hampden (pt.),Chester,Chester,-,1,1,238,372,678
+Hampshire (pt.),Chesterfield,Chesterfield,-,1,1,398,267,743
+Hampden (pt.),Chicopee,Chicopee,1,A,1,660,640,"1,388"
+Hampden (pt.),Chicopee,Chicopee,1,B,1,833,750,"1,683"
+Hampden (pt.),Chicopee,Chicopee,2,A,1,677,279,"1,028"
+Hampden (pt.),Chicopee,Chicopee,2,B,1,753,658,"1,500"
+Hampden (pt.),Chicopee,Chicopee,3,A,1,658,509,"1,234"
+Hampden (pt.),Chicopee,Chicopee,3,B,1,617,395,"1,070"
+Hampden (pt.),Chicopee,Chicopee,4,A,1,659,463,"1,214"
+Hampden (pt.),Chicopee,Chicopee,4,B,1,708,460,"1,258"
+Hampden (pt.),Chicopee,Chicopee,5,A,1,697,516,"1,300"
+Hampden (pt.),Chicopee,Chicopee,5,B,1,655,524,"1,266"
+Hampden (pt.),Chicopee,Chicopee,6,AN,1,188,147,355
+Hampden (pt.),Chicopee,Chicopee,6,AS,1,401,374,811
+Hampden (pt.),Chicopee,Chicopee,6,BE,1,580,798,"1,451"
+Hampden (pt.),Chicopee,Chicopee,6,BW,1,136,145,302
+Hampden (pt.),Chicopee,Chicopee,7,A,1,602,355,"1,016"
+Hampden (pt.),Chicopee,Chicopee,7,B,1,695,400,"1,156"
+Hampden (pt.),Chicopee,Chicopee,8,A,1,704,558,"1,392"
+Hampden (pt.),Chicopee,Chicopee,8,B,1,617,543,"1,257"
+Hampden (pt.),Chicopee,Chicopee,9,A,1,697,564,"1,353"
+Hampden (pt.),Chicopee,Chicopee,9,B,1,801,763,"1,663"
+Dukes,Chilmark,Chilmark,-,1,9,617,94,764
+Berkshire,Clarksburg,Clarksburg,-,1,1,510,327,878
+Worcester (pt.),Clinton,Clinton,-,1,3,"1,021",687,"1,851"
+Worcester (pt.),Clinton,Clinton,-,2,3,921,659,"1,726"
+Worcester (pt.),Clinton,Clinton,-,3,3,930,718,"1,746"
+Worcester (pt.),Clinton,Clinton,-,4,3,895,684,"1,688"
+Norfolk (pt.),Cohasset,Cohasset,-,1,8,"1,403",770,"2,324"
+Norfolk (pt.),Cohasset,Cohasset,-,2,8,"1,492",859,"2,490"
+Franklin (pt.),Colrain,Colrain,-,1,1,513,257,891
+Middlesex (pt.),Concord,Concord,-,1,3,"1,645",329,"2,103"
+Middlesex (pt.),Concord,Concord,-,2,3,"1,993",462,"2,602"
+Middlesex (pt.),Concord,Concord,-,3,3,"1,765",464,"2,345"
+Middlesex (pt.),Concord,Concord,-,4,3,"1,857",439,"2,446"
+Middlesex (pt.),Concord,Concord,-,5,3,"1,200",257,"1,568"
+Franklin (pt.),Conway,Conway,-,1,1,865,249,"1,200"
+Hampshire (pt.),Cummington,Cummington,-,1,1,334,156,554
+Berkshire,Dalton,Dalton,-,1,1,"1,091",491,"1,712"
+Berkshire,Dalton,Dalton,-,2,1,"1,099",449,"1,667"
+Essex (pt.),Danvers,Danvers,-,1,6,"1,069",731,"1,916"
+Essex (pt.),Danvers,Danvers,-,2,6,"1,033",815,"1,968"
+Essex (pt.),Danvers,Danvers,-,3,6,860,741,"1,687"
+Essex (pt.),Danvers,Danvers,-,4,6,997,774,"1,868"
+Essex (pt.),Danvers,Danvers,-,5,6,984,895,"1,995"
+Essex (pt.),Danvers,Danvers,-,6,6,958,910,"1,968"
+Essex (pt.),Danvers,Danvers,-,7,6,952,810,"1,898"
+Essex (pt.),Danvers,Danvers,-,8,6,899,808,"1,806"
+Bristol (pt.),Dartmouth,Dartmouth,-,1,9,896,"1,085","2,079"
+Bristol (pt.),Dartmouth,Dartmouth,-,2,9,681,589,"1,321"
+Bristol (pt.),Dartmouth,Dartmouth,-,3,9,162,26,206
+Bristol (pt.),Dartmouth,Dartmouth,-,4,9,"1,065",780,"1,952"
+Bristol (pt.),Dartmouth,Dartmouth,-,5,9,"1,059",907,"2,079"
+Bristol (pt.),Dartmouth,Dartmouth,-,6,9,920,714,"1,715"
+Bristol (pt.),Dartmouth,Dartmouth,-,7,9,"1,035",837,"1,968"
+Bristol (pt.),Dartmouth,Dartmouth,-,8,9,"1,378",847,"2,356"
+Bristol (pt.),Dartmouth,Dartmouth,-,9,9,"1,390",953,"2,493"
+Norfolk (pt.),Dedham,Dedham,-,1,8,"1,501",465,"2,088"
+Norfolk (pt.),Dedham,Dedham,-,2,8,"1,205",695,"2,003"
+Norfolk (pt.),Dedham,Dedham,-,3,8,"1,139",614,"1,831"
+Norfolk (pt.),Dedham,Dedham,-,4,8,"1,212",652,"1,964"
+Norfolk (pt.),Dedham,Dedham,-,5,8,"1,151",818,"2,081"
+Norfolk (pt.),Dedham,Dedham,-,6,8,"1,306",701,"2,116"
+Norfolk (pt.),Dedham,Dedham,-,7,8,"1,107",833,"2,035"
+Franklin (pt.),Deerfield,Deerfield,-,1,2,"1,968",777,"2,981"
+Barnstable,Dennis,Dennis,-,1,9,981,884,"1,959"
+Barnstable,Dennis,Dennis,-,2,9,"1,091",783,"1,970"
+Barnstable,Dennis,Dennis,-,3,9,844,667,"1,616"
+Barnstable,Dennis,Dennis,-,4,9,"1,003",771,"1,896"
+Barnstable,Dennis,Dennis,-,5,9,968,646,"1,707"
+Bristol (pt.),Dighton,Dighton,-,1,4,776,"1,044","1,934"
+Bristol (pt.),Dighton,Dighton,-,2,4,826,"1,105","2,056"
+Worcester (pt.),Douglas,Douglas,-,1,2,565,956,"1,641"
+Worcester (pt.),Douglas,Douglas,-,2,2,643,908,"1,666"
+Worcester (pt.),Douglas,Douglas,-,3,2,572,821,"1,521"
+Norfolk (pt.),Dover,Dover,-,1,4,"2,063","1,137","3,495"
+Middlesex (pt.),Dracut,Dracut,-,1,3,654,777,"1,522"
+Middlesex (pt.),Dracut,Dracut,-,2,3,611,765,"1,472"
+Middlesex (pt.),Dracut,Dracut,-,3,3,714,920,"1,742"
+Middlesex (pt.),Dracut,Dracut,-,4,3,788,"1,142","2,077"
+Middlesex (pt.),Dracut,Dracut,-,5,3,705,947,"1,760"
+Middlesex (pt.),Dracut,Dracut,-,6,3,761,824,"1,691"
+Middlesex (pt.),Dracut,Dracut,-,6A,3,28,32,61
+Middlesex (pt.),Dracut,Dracut,-,7,3,757,759,"1,613"
+Middlesex (pt.),Dracut,Dracut,-,8,3,892,"1,221","2,249"
+Middlesex (pt.),Dracut,Dracut,-,9,3,735,932,"1,785"
+Worcester (pt.),Dudley,Dudley,-,1,1,843,"1,076","2,043"
+Worcester (pt.),Dudley,Dudley,-,2,1,663,954,"1,740"
+Worcester (pt.),Dudley,Dudley,-,3,1,607,841,"1,565"
+Middlesex (pt.),Dunstable,Dunstable,-,1,3,954,837,"1,957"
+Plymouth (pt.),Duxbury,Duxbury,-,1,9,968,697,"1,784"
+Plymouth (pt.),Duxbury,Duxbury,-,2,9,883,668,"1,671"
+Plymouth (pt.),Duxbury,Duxbury,-,3,9,828,576,"1,495"
+Plymouth (pt.),Duxbury,Duxbury,-,4,9,853,631,"1,587"
+Plymouth (pt.),Duxbury,Duxbury,-,5,9,826,697,"1,624"
+Plymouth (pt.),Duxbury,Duxbury,-,6,9,779,619,"1,507"
+Plymouth (pt.),East Bridgewater,E. Bridgewater,-,1,8,761,"1,002","1,920"
+Plymouth (pt.),East Bridgewater,E. Bridgewater,-,2,8,791,"1,042","1,940"
+Plymouth (pt.),East Bridgewater,E. Bridgewater,-,3,8,874,"1,077","2,074"
+Plymouth (pt.),East Bridgewater,E. Bridgewater,-,4,8,748,952,"1,829"
+Worcester (pt.),East Brookfield,E. Brookfield,-,1,1,417,664,"1,164"
+Hampden (pt.),East Longmeadow,E. Longmeadow,-,1,1,"1,057","1,091","2,288"
+Hampden (pt.),East Longmeadow,E. Longmeadow,-,2,1,"1,008","1,034","2,178"
+Hampden (pt.),East Longmeadow,E. Longmeadow,-,3,1,"1,017","1,105","2,239"
+Hampden (pt.),East Longmeadow,E. Longmeadow,-,4,1,"1,007","1,211","2,342"
+Barnstable,Eastham,Eastham,-,1,9,"2,203","1,199","3,597"
+Hampshire (pt.),Easthampton,Easthampton,-,1,1,"1,127",514,"1,757"
+Hampshire (pt.),Easthampton,Easthampton,-,2,1,"1,370",417,"1,926"
+Hampshire (pt.),Easthampton,Easthampton,-,3,1,"1,140",447,"1,723"
+Hampshire (pt.),Easthampton,Easthampton,-,4,1,"1,464",453,"2,063"
+Hampshire (pt.),Easthampton,Easthampton,-,5,1,"1,112",768,"2,015"
+Bristol (pt.),Easton,Easton,-,1,4,640,505,"1,216"
+Bristol (pt.),Easton,Easton,-,2,4,"1,272",944,"2,375"
+Bristol (pt.),Easton,Easton,-,3,4,"1,042",898,"2,064"
+Bristol (pt.),Easton,Easton,-,4,4,"1,204",940,"2,290"
+Bristol (pt.),Easton,Easton,-,5,4,"1,334",953,"2,423"
+Bristol (pt.),Easton,Easton,-,6,4,"1,064",991,"2,176"
+Dukes,Edgartown,Edgartown,-,1,9,"1,787",779,"2,718"
+Berkshire,Egremont,Egremont,-,1,1,621,147,828
+Franklin (pt.),Erving,Erving,-,1,2,420,300,811
+Essex (pt.),Essex,Essex,-,1,6,"1,272",758,"2,230"
+Middlesex (pt.),Everett,Everett,1,1,7,737,294,"1,078"
+Middlesex (pt.),Everett,Everett,1,2,7,666,290,985
+Middlesex (pt.),Everett,Everett,2,1,7,776,336,"1,150"
+Middlesex (pt.),Everett,Everett,2,2,7,702,249,989
+Middlesex (pt.),Everett,Everett,3,1,7,828,412,"1,284"
+Middlesex (pt.),Everett,Everett,3,2,7,779,346,"1,160"
+Middlesex (pt.),Everett,Everett,4,1,7,888,416,"1,338"
+Middlesex (pt.),Everett,Everett,4,2,7,797,286,"1,122"
+Middlesex (pt.),Everett,Everett,5,1,7,765,343,"1,147"
+Middlesex (pt.),Everett,Everett,5,2,7,818,299,"1,154"
+Middlesex (pt.),Everett,Everett,6,1,7,809,344,"1,207"
+Middlesex (pt.),Everett,Everett,6,2,7,896,325,"1,261"
+Bristol (pt.),Fairhaven,Fairhaven,-,1,9,832,606,"1,514"
+Bristol (pt.),Fairhaven,Fairhaven,-,2,9,744,600,"1,426"
+Bristol (pt.),Fairhaven,Fairhaven,-,3,9,581,536,"1,179"
+Bristol (pt.),Fairhaven,Fairhaven,-,4,9,705,675,"1,452"
+Bristol (pt.),Fairhaven,Fairhaven,-,5,9,711,759,"1,550"
+Bristol (pt.),Fairhaven,Fairhaven,-,6,9,691,648,"1,417"
+Bristol (pt.),Fall River (pt.),Fall River,1,A,9,816,640,"1,525"
+Bristol (pt.),Fall River (pt.),Fall River,1,B,9,601,434,"1,091"
+Bristol (pt.),Fall River (pt.),Fall River,1,C,9,622,481,"1,170"
+Bristol (pt.),Fall River (pt.),Fall River,2,A,9,510,317,869
+Bristol (pt.),Fall River (pt.),Fall River,2,B,9,491,276,806
+Bristol (pt.),Fall River (pt.),Fall River,2,C,9,567,372,981
+Bristol (pt.),Fall River (pt.),Fall River,3,A,9,674,458,"1,171"
+Bristol (pt.),Fall River (pt.),Fall River,3,B,9,663,410,"1,128"
+Bristol (pt.),Fall River (pt.),Fall River,3,C,9,641,456,"1,156"
+Bristol (pt.),Fall River (pt.),Fall River,4,A,9,551,267,860
+Bristol (pt.),Fall River (pt.),Fall River,4,B,9,561,215,819
+Bristol (pt.),Fall River (pt.),Fall River,4,C,4,679,229,940
+Bristol (pt.),Fall River (pt.),Fall River,5,A,9,438,180,646
+Bristol (pt.),Fall River (pt.),Fall River,5,B,9,385,138,548
+Bristol (pt.),Fall River (pt.),Fall River,5,B1,4,65,38,113
+Bristol (pt.),Fall River (pt.),Fall River,5,C,4,541,244,821
+Bristol (pt.),Fall River (pt.),Fall River,6,A,9,714,517,"1,304"
+Bristol (pt.),Fall River (pt.),Fall River,6,B,9,579,312,930
+Bristol (pt.),Fall River (pt.),Fall River,6,C,9,625,439,"1,124"
+Bristol (pt.),Fall River (pt.),Fall River,6,C1,4,15,4,19
+Bristol (pt.),Fall River (pt.),Fall River,7,A,4,689,443,"1,179"
+Bristol (pt.),Fall River (pt.),Fall River,7,B,4,535,316,910
+Bristol (pt.),Fall River (pt.),Fall River,7,C,4,663,324,"1,059"
+Bristol (pt.),Fall River (pt.),Fall River,8,A,4,600,338,997
+Bristol (pt.),Fall River (pt.),Fall River,8,B,4,881,563,"1,524"
+Bristol (pt.),Fall River (pt.),Fall River,8,C,4,902,661,"1,631"
+Bristol (pt.),Fall River (pt.),Fall River,9,A,4,986,794,"1,847"
+Bristol (pt.),Fall River (pt.),Fall River,9,B,4,676,503,"1,236"
+Bristol (pt.),Fall River (pt.),Fall River,9,C,4,797,481,"1,357"
+Barnstable,Falmouth,Falmouth,-,1,9,"1,793",513,"2,416"
+Barnstable,Falmouth,Falmouth,-,2,9,"1,386",707,"2,189"
+Barnstable,Falmouth,Falmouth,-,3,9,"1,150",810,"2,051"
+Barnstable,Falmouth,Falmouth,-,4,9,"1,219",859,"2,183"
+Barnstable,Falmouth,Falmouth,-,5,9,"1,349",886,"2,376"
+Barnstable,Falmouth,Falmouth,-,6,9,"1,333",771,"2,216"
+Barnstable,Falmouth,Falmouth,-,7,9,"1,094",913,"2,116"
+Barnstable,Falmouth,Falmouth,-,8,9,"1,070",907,"2,100"
+Barnstable,Falmouth,Falmouth,-,9,9,"1,073",799,"1,986"
+Worcester (pt.),Fitchburg,Fitchburg,1,A,3,619,314,"1,003"
+Worcester (pt.),Fitchburg,Fitchburg,1,B,3,677,452,"1,223"
+Worcester (pt.),Fitchburg,Fitchburg,2,A,3,607,262,931
+Worcester (pt.),Fitchburg,Fitchburg,2,B,3,742,609,"1,441"
+Worcester (pt.),Fitchburg,Fitchburg,3,A,3,961,832,"1,928"
+Worcester (pt.),Fitchburg,Fitchburg,3,B,3,772,543,"1,424"
+Worcester (pt.),Fitchburg,Fitchburg,4,A,3,490,288,837
+Worcester (pt.),Fitchburg,Fitchburg,4,B,3,699,276,"1,047"
+Worcester (pt.),Fitchburg,Fitchburg,5,A,3,849,842,"1,826"
+Worcester (pt.),Fitchburg,Fitchburg,5,B,3,619,232,920
+Worcester (pt.),Fitchburg,Fitchburg,6,A,3,854,626,"1,590"
+Worcester (pt.),Fitchburg,Fitchburg,6,B,3,701,311,"1,078"
+Berkshire,Florida,Florida,-,1,1,191,170,389
+Norfolk (pt.),Foxborough,Foxborough,-,1,4,"1,002",774,"1,891"
+Norfolk (pt.),Foxborough,Foxborough,-,2,4,"1,119",831,"2,085"
+Norfolk (pt.),Foxborough,Foxborough,-,3,4,"1,048",877,"2,055"
+Norfolk (pt.),Foxborough,Foxborough,-,4,4,"1,031",881,"2,062"
+Norfolk (pt.),Foxborough,Foxborough,-,5,4,932,798,"1,875"
+Middlesex (pt.),Framingham,Framingham,-,1,5,"1,551",631,"2,302"
+Middlesex (pt.),Framingham,Framingham,-,2,5,"1,702",686,"2,529"
+Middlesex (pt.),Framingham,Framingham,-,3,5,"1,354",474,"1,914"
+Middlesex (pt.),Framingham,Framingham,-,4,5,"1,527",580,"2,228"
+Middlesex (pt.),Framingham,Framingham,-,5,5,"1,426",591,"2,157"
+Middlesex (pt.),Framingham,Framingham,-,6,5,"1,418",620,"2,171"
+Middlesex (pt.),Framingham,Framingham,-,7,5,"1,324",489,"1,914"
+Middlesex (pt.),Framingham,Framingham,-,8,5,"1,406",421,"1,925"
+Middlesex (pt.),Framingham,Framingham,-,9,5,"1,033",318,"1,430"
+Middlesex (pt.),Framingham,Framingham,-,10,5,860,253,"1,185"
+Middlesex (pt.),Framingham,Framingham,-,11,5,"1,547",607,"2,278"
+Middlesex (pt.),Framingham,Framingham,-,12,5,798,265,"1,110"
+Middlesex (pt.),Framingham,Framingham,-,13,5,"1,033",327,"1,424"
+Middlesex (pt.),Framingham,Framingham,-,14,5,810,182,"1,041"
+Middlesex (pt.),Framingham,Framingham,-,15,5,830,215,"1,118"
+Middlesex (pt.),Framingham,Framingham,-,16,5,533,113,666
+Middlesex (pt.),Framingham,Framingham,-,17,5,633,58,712
+Middlesex (pt.),Framingham,Framingham,-,18,5,735,233,"1,022"
+Norfolk (pt.),Franklin,Franklin,-,1,4,"1,132",843,"2,105"
+Norfolk (pt.),Franklin,Franklin,-,2,4,"1,130",846,"2,107"
+Norfolk (pt.),Franklin,Franklin,-,3,4,"1,127",844,"2,099"
+Norfolk (pt.),Franklin,Franklin,-,4,4,"1,236",989,"2,370"
+Norfolk (pt.),Franklin,Franklin,-,5,4,"1,252",885,"2,275"
+Norfolk (pt.),Franklin,Franklin,-,6,4,"1,139",730,"2,036"
+Norfolk (pt.),Franklin,Franklin,-,7,4,"1,355",888,"2,402"
+Norfolk (pt.),Franklin,Franklin,-,8,4,"1,156",971,"2,289"
+Bristol (pt.),Freetown,Freetown,-,1,4,665,910,"1,651"
+Bristol (pt.),Freetown,Freetown,-,2,4,707,875,"1,660"
+Bristol (pt.),Freetown,Freetown,-,3,4,663,864,"1,619"
+Worcester (pt.),Gardner,Gardner,1,A,3,556,415,"1,048"
+Worcester (pt.),Gardner,Gardner,1,B,3,170,217,419
+Worcester (pt.),Gardner,Gardner,2,A,3,480,382,942
+Worcester (pt.),Gardner,Gardner,2,B,3,441,486,"1,040"
+Worcester (pt.),Gardner,Gardner,3,A,3,403,324,799
+Worcester (pt.),Gardner,Gardner,3,B,3,529,392,"1,001"
+Worcester (pt.),Gardner,Gardner,4,A,3,485,294,851
+Worcester (pt.),Gardner,Gardner,4,B,3,297,229,589
+Worcester (pt.),Gardner,Gardner,5,A,3,389,315,760
+Worcester (pt.),Gardner,Gardner,5,B,3,446,488,"1,036"
+Essex (pt.),Georgetown,Georgetown,-,1,6,863,848,"1,843"
+Essex (pt.),Georgetown,Georgetown,-,2,6,727,725,"1,589"
+Essex (pt.),Georgetown,Georgetown,-,3,6,757,655,"1,523"
+Franklin (pt.),Gill,Gill,-,1,2,579,259,927
+Essex (pt.),Gloucester,Gloucester,1,1,6,"1,197",541,"1,852"
+Essex (pt.),Gloucester,Gloucester,1,2,6,919,545,"1,569"
+Essex (pt.),Gloucester,Gloucester,2,1,6,762,423,"1,258"
+Essex (pt.),Gloucester,Gloucester,2,2,6,788,342,"1,210"
+Essex (pt.),Gloucester,Gloucester,3,1,6,815,479,"1,373"
+Essex (pt.),Gloucester,Gloucester,3,2,6,853,515,"1,457"
+Essex (pt.),Gloucester,Gloucester,4,1,6,976,605,"1,672"
+Essex (pt.),Gloucester,Gloucester,4,2,6,"1,301",521,"1,955"
+Essex (pt.),Gloucester,Gloucester,5,1,6,"1,141",669,"1,921"
+Essex (pt.),Gloucester,Gloucester,5,2,6,"1,056",715,"1,872"
+Hampshire (pt.),Goshen,Goshen,-,1,1,364,213,620
+Dukes,Gosnold,Gosnold,-,1,9,36,27,65
+Worcester (pt.),Grafton,Grafton,-,1,2,"1,061",806,"2,029"
+Worcester (pt.),Grafton,Grafton,-,2,2,"1,084",767,"2,007"
+Worcester (pt.),Grafton,Grafton,-,3,2,"1,103",739,"1,955"
+Worcester (pt.),Grafton,Grafton,-,4,2,901,743,"1,790"
+Worcester (pt.),Grafton,Grafton,-,5,2,"1,223",828,"2,190"
+Hampshire (pt.),Granby,Granby,-,1,1,949,809,"1,906"
+Hampshire (pt.),Granby,Granby,-,2,1,702,890,"1,710"
+Hampden (pt.),Granville,Granville,-,1,1,335,548,958
+Berkshire,Great Barrington,Great Barrington,-,A,1,752,155,972
+Berkshire,Great Barrington,Great Barrington,-,B,1,737,187,993
+Berkshire,Great Barrington,Great Barrington,-,C,1,567,89,703
+Berkshire,Great Barrington,Great Barrington,-,D,1,824,149,"1,023"
+Franklin (pt.),Greenfield,Greenfield,-,1,2,547,280,901
+Franklin (pt.),Greenfield,Greenfield,-,2,2,741,341,"1,170"
+Franklin (pt.),Greenfield,Greenfield,-,3,2,638,254,966
+Franklin (pt.),Greenfield,Greenfield,-,4,2,736,257,"1,056"
+Franklin (pt.),Greenfield,Greenfield,-,5,2,718,175,975
+Franklin (pt.),Greenfield,Greenfield,-,6,2,736,154,973
+Franklin (pt.),Greenfield,Greenfield,-,7,2,483,246,815
+Franklin (pt.),Greenfield,Greenfield,-,8,2,515,170,759
+Franklin (pt.),Greenfield,Greenfield,-,9,2,460,221,738
+Middlesex (pt.),Groton,Groton,-,1,3,"1,410",703,"2,294"
+Middlesex (pt.),Groton,Groton,-,2,3,"1,247",765,"2,172"
+Middlesex (pt.),Groton,Groton,-,3,3,"1,260",670,"2,085"
+Essex (pt.),Groveland,Groveland,-,1,6,913,968,"1,994"
+Essex (pt.),Groveland,Groveland,-,2,6,909,966,"2,004"
+Hampshire (pt.),Hadley,Hadley,-,1,2,"2,149",867,"3,219"
+Plymouth (pt.),Halifax,Halifax,-,1,9,883,"1,252","2,269"
+Plymouth (pt.),Halifax,Halifax,-,2,9,911,"1,060","2,123"
+Essex (pt.),Hamilton,Hamilton,-,1,6,958,583,"1,662"
+Essex (pt.),Hamilton,Hamilton,-,2,6,953,542,"1,643"
+Essex (pt.),Hamilton,Hamilton,-,3,6,720,351,"1,189"
+Hampden (pt.),Hampden,Hampden,-,1,1,"1,188","1,645","3,024"
+Berkshire,Hancock,Hancock,-,1,1,189,159,381
+Plymouth (pt.),Hanover,Hanover,-,1,9,885,"1,033","2,030"
+Plymouth (pt.),Hanover,Hanover,-,2,9,958,"1,125","2,210"
+Plymouth (pt.),Hanover,Hanover,-,3,9,964,994,"2,085"
+Plymouth (pt.),Hanover,Hanover,-,4,9,943,"1,115","2,163"
+Plymouth (pt.),Hanson,Hanson,-,1,9,829,"1,060","1,985"
+Plymouth (pt.),Hanson,Hanson,-,2,9,864,"1,045","2,063"
+Plymouth (pt.),Hanson,Hanson,-,3,9,739,"1,019","1,895"
+Worcester (pt.),Hardwick,Hardwick,-,1,2,568,709,"1,382"
+Worcester (pt.),Harvard,Harvard,-,1,3,"2,515",889,"3,636"
+Barnstable,Harwich,Harwich,-,1,9,"1,215",854,"2,184"
+Barnstable,Harwich,Harwich,-,2,9,"1,145",843,"2,100"
+Barnstable,Harwich,Harwich,-,3,9,"1,139",899,"2,158"
+Barnstable,Harwich,Harwich,-,4,9,"1,061",698,"1,884"
+Hampshire (pt.),Hatfield,Hatfield,-,1,2,"1,284",660,"2,082"
+Essex (pt.),Haverhill,Haverhill,1,1,3,618,270,950
+Essex (pt.),Haverhill,Haverhill,1,2,3,867,411,"1,355"
+Essex (pt.),Haverhill,Haverhill,1,3,3,670,456,"1,197"
+Essex (pt.),Haverhill,Haverhill,2,1,3,648,485,"1,229"
+Essex (pt.),Haverhill,Haverhill,2,2,3,664,636,"1,395"
+Essex (pt.),Haverhill,Haverhill,2,3,3,593,276,927
+Essex (pt.),Haverhill,Haverhill,3,1,3,596,135,775
+Essex (pt.),Haverhill,Haverhill,3,2,3,644,323,"1,023"
+Essex (pt.),Haverhill,Haverhill,3,3,3,653,397,"1,130"
+Essex (pt.),Haverhill,Haverhill,4,1,3,749,731,"1,586"
+Essex (pt.),Haverhill,Haverhill,4,2,3,793,886,"1,786"
+Essex (pt.),Haverhill,Haverhill,4,3,3,756,734,"1,584"
+Essex (pt.),Haverhill,Haverhill,5,1,3,867,578,"1,521"
+Essex (pt.),Haverhill,Haverhill,5,2,3,777,819,"1,675"
+Essex (pt.),Haverhill,Haverhill,5,3,3,812,933,"1,831"
+Essex (pt.),Haverhill,Haverhill,6,1,3,736,630,"1,449"
+Essex (pt.),Haverhill,Haverhill,6,2,3,772,633,"1,496"
+Essex (pt.),Haverhill,Haverhill,6,3,3,841,706,"1,647"
+Essex (pt.),Haverhill,Haverhill,7,1,3,804,616,"1,520"
+Essex (pt.),Haverhill,Haverhill,7,2,3,744,578,"1,403"
+Essex (pt.),Haverhill,Haverhill,7,3,3,803,817,"1,739"
+Franklin (pt.),Hawley,Hawley,-,1,1,105,67,193
+Franklin (pt.),Heath,Heath,-,1,1,244,165,445
+Plymouth (pt.),Hingham,Hingham,-,1,8,"1,327",776,"2,243"
+Plymouth (pt.),Hingham,Hingham,-,2,8,"1,436",801,"2,378"
+Plymouth (pt.),Hingham,Hingham,-,3,8,"1,445",739,"2,335"
+Plymouth (pt.),Hingham,Hingham,-,4,8,"1,363",768,"2,282"
+Plymouth (pt.),Hingham,Hingham,-,5,8,922,645,"1,667"
+Plymouth (pt.),Hingham,Hingham,-,5A,8,717,267,"1,025"
+Plymouth (pt.),Hingham,Hingham,-,6,8,"1,300",814,"2,223"
+Berkshire,Hinsdale,Hinsdale,-,1,1,606,403,"1,101"
+Norfolk (pt.),Holbrook,Holbrook,-,1,8,773,526,"1,367"
+Norfolk (pt.),Holbrook,Holbrook,-,2,8,708,663,"1,466"
+Norfolk (pt.),Holbrook,Holbrook,-,3,8,720,613,"1,430"
+Norfolk (pt.),Holbrook,Holbrook,-,4,8,711,583,"1,372"
+Worcester (pt.),Holden,Holden,-,1,2,"1,031",944,"2,153"
+Worcester (pt.),Holden,Holden,-,2,2,"1,159",910,"2,213"
+Worcester (pt.),Holden,Holden,-,3,2,"1,070",763,"2,005"
+Worcester (pt.),Holden,Holden,-,4,2,"1,193","1,025","2,374"
+Worcester (pt.),Holden,Holden,-,5,2,"1,152",970,"2,282"
+Hampden (pt.),Holland,Holland,-,1,1,475,720,"1,334"
+Middlesex (pt.),Holliston,Holliston,-,1,5,"1,394",744,"2,285"
+Middlesex (pt.),Holliston,Holliston,-,2,5,"1,409",639,"2,214"
+Middlesex (pt.),Holliston,Holliston,-,3,5,"1,293",582,"1,993"
+Middlesex (pt.),Holliston,Holliston,-,4,5,"1,195",598,"1,912"
+Hampden (pt.),Holyoke,Holyoke,1,A,1,815,58,905
+Hampden (pt.),Holyoke,Holyoke,1,B,1,787,99,938
+Hampden (pt.),Holyoke,Holyoke,2,A,1,696,121,860
+Hampden (pt.),Holyoke,Holyoke,2,B,1,702,72,803
+Hampden (pt.),Holyoke,Holyoke,3,A,1,867,284,"1,225"
+Hampden (pt.),Holyoke,Holyoke,3,B,1,837,497,"1,433"
+Hampden (pt.),Holyoke,Holyoke,4,A,1,639,93,762
+Hampden (pt.),Holyoke,Holyoke,4,B,1,822,174,"1,052"
+Hampden (pt.),Holyoke,Holyoke,5,A,1,925,748,"1,785"
+Hampden (pt.),Holyoke,Holyoke,5,B,1,873,384,"1,308"
+Hampden (pt.),Holyoke,Holyoke,6,A,1,841,256,"1,150"
+Hampden (pt.),Holyoke,Holyoke,6,B,1,854,320,"1,248"
+Hampden (pt.),Holyoke,Holyoke,7,A,1,981,558,"1,630"
+Hampden (pt.),Holyoke,Holyoke,7,B,1,"1,017",358,"1,480"
+Worcester (pt.),Hopedale,Hopedale,-,1,4,"1,759","1,375","3,380"
+Middlesex (pt.),Hopkinton,Hopkinton,-,1,4,"1,498",706,"2,389"
+Middlesex (pt.),Hopkinton,Hopkinton,-,2,4,"1,342",777,"2,265"
+Middlesex (pt.),Hopkinton,Hopkinton,-,3,4,"1,232",728,"2,130"
+Middlesex (pt.),Hopkinton,Hopkinton,-,4,4,"1,286",700,"2,145"
+Worcester (pt.),Hubbardston,Hubbardston,-,1,2,"1,040","1,376","2,655"
+Middlesex (pt.),Hudson,Hudson,-,1,3,896,570,"1,561"
+Middlesex (pt.),Hudson,Hudson,-,2,3,785,457,"1,347"
+Middlesex (pt.),Hudson,Hudson,-,3,3,827,658,"1,595"
+Middlesex (pt.),Hudson,Hudson,-,4,3,903,627,"1,657"
+Middlesex (pt.),Hudson,Hudson,-,5,3,"1,109",664,"1,889"
+Middlesex (pt.),Hudson,Hudson,-,6,3,728,400,"1,198"
+Middlesex (pt.),Hudson,Hudson,-,7,3,780,399,"1,273"
+Plymouth (pt.),Hull,Hull,-,1,8,"1,335",741,"2,179"
+Plymouth (pt.),Hull,Hull,-,2,8,"1,058",756,"1,923"
+Plymouth (pt.),Hull,Hull,-,3,8,"1,295",859,"2,261"
+Hampshire (pt.),Huntington,Huntington,-,1,1,460,611,"1,177"
+Essex (pt.),Ipswich,Ipswich,-,1,6,"1,337",605,"2,070"
+Essex (pt.),Ipswich,Ipswich,-,2,6,"1,354",770,"2,306"
+Essex (pt.),Ipswich,Ipswich,-,3,6,"1,029",867,"2,052"
+Essex (pt.),Ipswich,Ipswich,-,4,6,"1,219",771,"2,121"
+Plymouth (pt.),Kingston,Kingston,-,1,9,849,792,"1,757"
+Plymouth (pt.),Kingston,Kingston,-,2,9,921,992,"2,020"
+Plymouth (pt.),Kingston,Kingston,-,3,9,897,985,"2,018"
+Plymouth (pt.),Kingston,Kingston,-,4,9,804,810,"1,720"
+Plymouth (pt.),Lakeville,Lakeville,-,1,4,783,"1,037","1,945"
+Plymouth (pt.),Lakeville,Lakeville,-,2,4,774,"1,158","2,065"
+Plymouth (pt.),Lakeville,Lakeville,-,3,4,909,"1,179","2,231"
+Worcester (pt.),Lancaster,Lancaster,-,1,3,883,801,"1,865"
+Worcester (pt.),Lancaster,Lancaster,-,2,3,967,850,"1,979"
+Berkshire,Lanesborough,Lanesborough,-,1,1,998,597,"1,704"
+Essex (pt.),Lawrence,Lawrence,A,1,3,869,166,"1,068"
+Essex (pt.),Lawrence,Lawrence,A,2,3,729,71,817
+Essex (pt.),Lawrence,Lawrence,A,3,3,730,208,976
+Essex (pt.),Lawrence,Lawrence,A,4,3,864,122,"1,017"
+Essex (pt.),Lawrence,Lawrence,B,1,3,962,119,"1,108"
+Essex (pt.),Lawrence,Lawrence,B,2,3,788,51,851
+Essex (pt.),Lawrence,Lawrence,B,3,3,877,100,999
+Essex (pt.),Lawrence,Lawrence,B,4,3,"1,131",57,"1,205"
+Essex (pt.),Lawrence,Lawrence,C,1,3,743,78,845
+Essex (pt.),Lawrence,Lawrence,C,2,3,915,205,"1,169"
+Essex (pt.),Lawrence,Lawrence,C,3,3,748,37,795
+Essex (pt.),Lawrence,Lawrence,C,4,3,858,80,950
+Essex (pt.),Lawrence,Lawrence,D,1,3,859,164,"1,048"
+Essex (pt.),Lawrence,Lawrence,D,2,3,764,51,833
+Essex (pt.),Lawrence,Lawrence,D,3,3,642,60,714
+Essex (pt.),Lawrence,Lawrence,D,4,3,690,51,759
+Essex (pt.),Lawrence,Lawrence,E,1,3,937,471,"1,457"
+Essex (pt.),Lawrence,Lawrence,E,2,3,916,436,"1,417"
+Essex (pt.),Lawrence,Lawrence,E,3,3,759,184,982
+Essex (pt.),Lawrence,Lawrence,E,4,3,841,156,"1,036"
+Essex (pt.),Lawrence,Lawrence,F,1,3,879,365,"1,303"
+Essex (pt.),Lawrence,Lawrence,F,2,3,748,65,833
+Essex (pt.),Lawrence,Lawrence,F,3,3,781,91,902
+Essex (pt.),Lawrence,Lawrence,F,4,3,822,147,999
+Berkshire,Lee,Lee,-,1,1,"1,969",852,"3,022"
+Worcester (pt.),Leicester,Leicester,-,1,2,619,775,"1,492"
+Worcester (pt.),Leicester,Leicester,-,2,2,640,669,"1,391"
+Worcester (pt.),Leicester,Leicester,-,3,2,562,718,"1,384"
+Worcester (pt.),Leicester,Leicester,-,4,2,602,663,"1,371"
+Berkshire,Lenox,Lenox,-,1,1,"2,234",572,"2,992"
+Worcester (pt.),Leominster,Leominster,1,A,2,734,714,"1,573"
+Worcester (pt.),Leominster,Leominster,1,B,2,709,642,"1,453"
+Worcester (pt.),Leominster,Leominster,1,C,2,642,446,"1,171"
+Worcester (pt.),Leominster,Leominster,2,A,2,603,315,990
+Worcester (pt.),Leominster,Leominster,2,B,2,629,535,"1,240"
+Worcester (pt.),Leominster,Leominster,2,C,2,423,315,806
+Worcester (pt.),Leominster,Leominster,3,A,2,564,402,"1,029"
+Worcester (pt.),Leominster,Leominster,3,B,2,743,644,"1,478"
+Worcester (pt.),Leominster,Leominster,3,C,2,831,760,"1,706"
+Worcester (pt.),Leominster,Leominster,4,A,2,726,756,"1,593"
+Worcester (pt.),Leominster,Leominster,4,B,2,690,714,"1,505"
+Worcester (pt.),Leominster,Leominster,4,C,2,551,462,"1,095"
+Worcester (pt.),Leominster,Leominster,5,A,2,629,501,"1,212"
+Worcester (pt.),Leominster,Leominster,5,B,2,786,621,"1,505"
+Worcester (pt.),Leominster,Leominster,5,C,2,580,372,"1,021"
+Franklin (pt.),Leverett,Leverett,-,1,2,996,185,"1,261"
+Middlesex (pt.),Lexington,Lexington,-,1,5,"1,334",298,"1,733"
+Middlesex (pt.),Lexington,Lexington,-,2,5,"1,823",317,"2,239"
+Middlesex (pt.),Lexington,Lexington,-,3,5,"1,393",280,"1,734"
+Middlesex (pt.),Lexington,Lexington,-,4,5,"1,668",343,"2,103"
+Middlesex (pt.),Lexington,Lexington,-,5,5,"1,571",471,"2,149"
+Middlesex (pt.),Lexington,Lexington,-,6,5,"1,560",383,"2,041"
+Middlesex (pt.),Lexington,Lexington,-,7,5,"1,546",415,"2,052"
+Middlesex (pt.),Lexington,Lexington,-,8,5,"1,482",371,"1,956"
+Middlesex (pt.),Lexington,Lexington,-,9,5,"1,523",401,"2,026"
+Franklin (pt.),Leyden,Leyden,-,1,1,306,139,488
+Middlesex (pt.),Lincoln,Lincoln,-,1,5,"1,873",334,"2,329"
+Middlesex (pt.),Lincoln,Lincoln,-,2,5,"1,123",291,"1,519"
+Middlesex (pt.),Littleton,Littleton,-,1,3,"1,246",691,"2,083"
+Middlesex (pt.),Littleton,Littleton,-,2,3,"1,145",651,"1,947"
+Middlesex (pt.),Littleton,Littleton,-,3,3,"1,054",534,"1,740"
+Hampden (pt.),Longmeadow,Longmeadow,-,A,1,"1,125",624,"1,851"
+Hampden (pt.),Longmeadow,Longmeadow,-,B,1,"1,028",616,"1,762"
+Hampden (pt.),Longmeadow,Longmeadow,-,C,1,"1,055",782,"1,981"
+Hampden (pt.),Longmeadow,Longmeadow,-,D,1,"1,013",806,"1,900"
+Hampden (pt.),Longmeadow,Longmeadow,-,E,1,"1,090",629,"1,814"
+Middlesex (pt.),Lowell,Lowell,1,1,3,718,218,981
+Middlesex (pt.),Lowell,Lowell,1,2,3,"1,063",847,"2,019"
+Middlesex (pt.),Lowell,Lowell,1,3,3,987,612,"1,706"
+Middlesex (pt.),Lowell,Lowell,2,1,3,541,108,699
+Middlesex (pt.),Lowell,Lowell,2,2,3,884,122,"1,035"
+Middlesex (pt.),Lowell,Lowell,2,3,3,"1,069",175,"1,337"
+Middlesex (pt.),Lowell,Lowell,3,1,3,674,283,"1,015"
+Middlesex (pt.),Lowell,Lowell,3,2,3,649,173,869
+Middlesex (pt.),Lowell,Lowell,3,3,3,585,201,846
+Middlesex (pt.),Lowell,Lowell,4,1,3,840,301,"1,201"
+Middlesex (pt.),Lowell,Lowell,4,2,3,573,154,750
+Middlesex (pt.),Lowell,Lowell,4,3,3,605,172,816
+Middlesex (pt.),Lowell,Lowell,5,1,3,598,366,"1,035"
+Middlesex (pt.),Lowell,Lowell,5,2,3,583,236,863
+Middlesex (pt.),Lowell,Lowell,5,3,3,640,466,"1,182"
+Middlesex (pt.),Lowell,Lowell,6,1,3,738,566,"1,379"
+Middlesex (pt.),Lowell,Lowell,6,2,3,799,558,"1,432"
+Middlesex (pt.),Lowell,Lowell,6,3,3,777,498,"1,342"
+Middlesex (pt.),Lowell,Lowell,7,1,3,598,187,835
+Middlesex (pt.),Lowell,Lowell,7,2,3,745,141,940
+Middlesex (pt.),Lowell,Lowell,7,3,3,501,149,671
+Middlesex (pt.),Lowell,Lowell,8,1,3,703,257,"1,017"
+Middlesex (pt.),Lowell,Lowell,8,2,3,792,369,"1,225"
+Middlesex (pt.),Lowell,Lowell,8,3,3,968,575,"1,625"
+Middlesex (pt.),Lowell,Lowell,9,1,3,632,300,981
+Middlesex (pt.),Lowell,Lowell,9,2,3,813,436,"1,319"
+Middlesex (pt.),Lowell,Lowell,9,3,3,747,381,"1,207"
+Middlesex (pt.),Lowell,Lowell,10,1,3,716,262,"1,033"
+Middlesex (pt.),Lowell,Lowell,10,2,3,495,160,685
+Middlesex (pt.),Lowell,Lowell,10,3,3,416,119,567
+Middlesex (pt.),Lowell,Lowell,11,1,3,707,329,"1,094"
+Middlesex (pt.),Lowell,Lowell,11,2,3,656,495,"1,228"
+Middlesex (pt.),Lowell,Lowell,11,3,3,743,368,"1,194"
+Hampden (pt.),Ludlow,Ludlow,-,1,1,814,838,"1,762"
+Hampden (pt.),Ludlow,Ludlow,-,2,1,653,581,"1,318"
+Hampden (pt.),Ludlow,Ludlow,-,3,1,713,"1,116","1,936"
+Hampden (pt.),Ludlow,Ludlow,-,4,1,828,800,"1,707"
+Hampden (pt.),Ludlow,Ludlow,-,5,1,569,688,"1,325"
+Hampden (pt.),Ludlow,Ludlow,-,6,1,906,"1,074","2,086"
+Worcester (pt.),Lunenburg,Lunenburg,-,A,3,754,727,"1,606"
+Worcester (pt.),Lunenburg,Lunenburg,-,B,3,726,600,"1,435"
+Worcester (pt.),Lunenburg,Lunenburg,-,C,3,753,799,"1,674"
+Worcester (pt.),Lunenburg,Lunenburg,-,D,3,709,676,"1,494"
+Essex (pt.),Lynn,Lynn,1,1,6,930,870,"1,875"
+Essex (pt.),Lynn,Lynn,1,2,6,976,851,"1,938"
+Essex (pt.),Lynn,Lynn,1,3,6,957,648,"1,681"
+Essex (pt.),Lynn,Lynn,1,4,6,968,539,"1,572"
+Essex (pt.),Lynn,Lynn,2,1,6,"1,075",735,"1,894"
+Essex (pt.),Lynn,Lynn,2,2,6,687,237,958
+Essex (pt.),Lynn,Lynn,2,3,6,689,125,842
+Essex (pt.),Lynn,Lynn,2,4,6,653,172,870
+Essex (pt.),Lynn,Lynn,3,1,6,839,446,"1,348"
+Essex (pt.),Lynn,Lynn,3,2,6,891,266,"1,205"
+Essex (pt.),Lynn,Lynn,3,3,6,809,291,"1,160"
+Essex (pt.),Lynn,Lynn,3,4,6,"1,003",298,"1,372"
+Essex (pt.),Lynn,Lynn,4,1,6,564,86,668
+Essex (pt.),Lynn,Lynn,4,2,6,607,99,730
+Essex (pt.),Lynn,Lynn,4,3,6,782,202,"1,014"
+Essex (pt.),Lynn,Lynn,4,4,6,900,313,"1,260"
+Essex (pt.),Lynn,Lynn,5,1,6,762,336,"1,145"
+Essex (pt.),Lynn,Lynn,5,2,6,522,91,635
+Essex (pt.),Lynn,Lynn,5,3,6,638,94,756
+Essex (pt.),Lynn,Lynn,5,4,6,938,306,"1,289"
+Essex (pt.),Lynn,Lynn,6,1,6,667,206,915
+Essex (pt.),Lynn,Lynn,6,2,6,519,103,647
+Essex (pt.),Lynn,Lynn,6,3,6,659,150,828
+Essex (pt.),Lynn,Lynn,6,4,6,636,165,822
+Essex (pt.),Lynn,Lynn,7,1,6,"1,070",547,"1,679"
+Essex (pt.),Lynn,Lynn,7,2,6,939,421,"1,437"
+Essex (pt.),Lynn,Lynn,7,3,6,690,337,"1,070"
+Essex (pt.),Lynn,Lynn,7,4,6,794,377,"1,220"
+Essex (pt.),Lynnfield,Lynnfield,-,1,6,829,915,"1,845"
+Essex (pt.),Lynnfield,Lynnfield,-,2,6,888,932,"1,905"
+Essex (pt.),Lynnfield,Lynnfield,-,3,6,721,903,"1,703"
+Essex (pt.),Lynnfield,Lynnfield,-,4,6,800,"1,079","1,983"
+Middlesex (pt.),Malden,Malden,1,1,5,884,213,"1,153"
+Middlesex (pt.),Malden,Malden,1,2,5,"1,025",357,"1,452"
+Middlesex (pt.),Malden,Malden,2,1,5,856,264,"1,167"
+Middlesex (pt.),Malden,Malden,2,2,5,908,458,"1,422"
+Middlesex (pt.),Malden,Malden,3,1,5,"1,182",358,"1,614"
+Middlesex (pt.),Malden,Malden,3,2,5,"1,269",462,"1,834"
+Middlesex (pt.),Malden,Malden,4,1,5,829,243,"1,126"
+Middlesex (pt.),Malden,Malden,4,2,5,694,186,919
+Middlesex (pt.),Malden,Malden,5,1,5,"1,018",313,"1,380"
+Middlesex (pt.),Malden,Malden,5,2,5,"1,244",515,"1,848"
+Middlesex (pt.),Malden,Malden,6,1,5,"1,067",444,"1,574"
+Middlesex (pt.),Malden,Malden,6,2,5,987,401,"1,454"
+Middlesex (pt.),Malden,Malden,7,1,5,941,216,"1,190"
+Middlesex (pt.),Malden,Malden,7,2,5,972,295,"1,311"
+Middlesex (pt.),Malden,Malden,8,1,5,"1,034",457,"1,565"
+Middlesex (pt.),Malden,Malden,8,2,5,935,356,"1,350"
+Essex (pt.),Manchester-by-the-Sea,Manchester-by-the-Sea,-,1,6,"2,249",954,"3,464"
+Bristol (pt.),Mansfield,Mansfield,-,1,4,"1,142",952,"2,228"
+Bristol (pt.),Mansfield,Mansfield,-,2,4,"1,142",903,"2,192"
+Bristol (pt.),Mansfield,Mansfield,-,3,4,"1,239",961,"2,337"
+Bristol (pt.),Mansfield,Mansfield,-,4,4,"1,168",848,"2,145"
+Bristol (pt.),Mansfield,Mansfield,-,5,4,"1,056",702,"1,901"
+Bristol (pt.),Mansfield,Mansfield,-,6,4,"1,132",707,"1,988"
+Essex (pt.),Marblehead,Marblehead,-,1,6,"1,420",614,"2,156"
+Essex (pt.),Marblehead,Marblehead,-,2,6,"1,440",629,"2,218"
+Essex (pt.),Marblehead,Marblehead,-,3,6,"1,235",623,"1,976"
+Essex (pt.),Marblehead,Marblehead,-,4,6,"1,376",674,"2,186"
+Essex (pt.),Marblehead,Marblehead,-,5,6,"1,322",608,"2,039"
+Essex (pt.),Marblehead,Marblehead,-,6,6,"1,318",611,"2,077"
+Plymouth (pt.),Marion,Marion,-,1,9,"1,861","1,159","3,220"
+Middlesex (pt.),Marlborough,Marlborough,1,1,3,761,352,"1,161"
+Middlesex (pt.),Marlborough,Marlborough,1,2,3,994,563,"1,648"
+Middlesex (pt.),Marlborough,Marlborough,2,1,3,813,492,"1,411"
+Middlesex (pt.),Marlborough,Marlborough,2,2,3,772,391,"1,236"
+Middlesex (pt.),Marlborough,Marlborough,3,1,3,589,309,982
+Middlesex (pt.),Marlborough,Marlborough,3,2,3,"1,004",562,"1,663"
+Middlesex (pt.),Marlborough,Marlborough,4,1,3,473,275,805
+Middlesex (pt.),Marlborough,Marlborough,4,2,3,872,554,"1,535"
+Middlesex (pt.),Marlborough,Marlborough,5,1,3,598,266,918
+Middlesex (pt.),Marlborough,Marlborough,5,2,3,822,457,"1,387"
+Middlesex (pt.),Marlborough,Marlborough,6,1,3,646,318,"1,033"
+Middlesex (pt.),Marlborough,Marlborough,6,2,3,865,608,"1,577"
+Middlesex (pt.),Marlborough,Marlborough,7,1,3,701,406,"1,166"
+Middlesex (pt.),Marlborough,Marlborough,7,2,3,667,406,"1,157"
+Plymouth (pt.),Marshfield,Marshfield,-,1,9,"1,083","1,070","2,275"
+Plymouth (pt.),Marshfield,Marshfield,-,2,9,"1,034","1,083","2,249"
+Plymouth (pt.),Marshfield,Marshfield,-,3,9,"1,036",957,"2,119"
+Plymouth (pt.),Marshfield,Marshfield,-,4,9,"1,041",936,"2,070"
+Plymouth (pt.),Marshfield,Marshfield,-,5,9,921,933,"1,979"
+Plymouth (pt.),Marshfield,Marshfield,-,6,9,"1,118","1,145","2,413"
+Plymouth (pt.),Marshfield,Marshfield,-,7,9,"1,110","1,091","2,331"
+Barnstable,Mashpee,Mashpee,-,1,9,"1,128",824,"2,051"
+Barnstable,Mashpee,Mashpee,-,2,9,804,720,"1,608"
+Barnstable,Mashpee,Mashpee,-,3,9,710,640,"1,442"
+Barnstable,Mashpee,Mashpee,-,4,9,890,674,"1,653"
+Barnstable,Mashpee,Mashpee,-,5,9,916,981,"1,999"
+Plymouth (pt.),Mattapoisett,Mattapoisett,-,1,9,"2,125","1,820","4,160"
+Middlesex (pt.),Maynard,Maynard,-,1,3,982,446,"1,528"
+Middlesex (pt.),Maynard,Maynard,-,2,3,981,354,"1,420"
+Middlesex (pt.),Maynard,Maynard,-,3,3,981,434,"1,525"
+Middlesex (pt.),Maynard,Maynard,-,4,3,916,437,"1,438"
+Norfolk (pt.),Medfield,Medfield,-,1,4,"1,130",603,"1,843"
+Norfolk (pt.),Medfield,Medfield,-,2,4,"1,109",597,"1,834"
+Norfolk (pt.),Medfield,Medfield,-,3,4,"1,141",581,"1,861"
+Norfolk (pt.),Medfield,Medfield,-,4,4,"1,029",619,"1,759"
+Middlesex (pt.),Medford,Medford,1,1,5,"1,221",499,"1,788"
+Middlesex (pt.),Medford,Medford,1,2,5,"1,319",513,"1,918"
+Middlesex (pt.),Medford,Medford,2,1,5,"1,198",626,"1,908"
+Middlesex (pt.),Medford,Medford,2,2,5,"1,187",738,"2,010"
+Middlesex (pt.),Medford,Medford,3,1,5,"1,376",670,"2,132"
+Middlesex (pt.),Medford,Medford,3,2,5,"1,339",725,"2,161"
+Middlesex (pt.),Medford,Medford,4,1,5,"1,013",167,"1,233"
+Middlesex (pt.),Medford,Medford,4,2,5,"1,483",441,"2,042"
+Middlesex (pt.),Medford,Medford,5,1,5,"1,447",350,"1,893"
+Middlesex (pt.),Medford,Medford,5,2,5,"1,246",294,"1,595"
+Middlesex (pt.),Medford,Medford,6,1,5,"1,793",344,"2,222"
+Middlesex (pt.),Medford,Medford,6,2,5,"1,378",533,"1,981"
+Middlesex (pt.),Medford,Medford,7,1,5,891,274,"1,205"
+Middlesex (pt.),Medford,Medford,7,2,5,"1,122",426,"1,612"
+Middlesex (pt.),Medford,Medford,8,1,5,"1,457",574,"2,129"
+Middlesex (pt.),Medford,Medford,8,2,5,"1,220",497,"1,807"
+Norfolk (pt.),Medway,Medway,-,1,4,918,755,"1,777"
+Norfolk (pt.),Medway,Medway,-,2,4,"1,030",707,"1,886"
+Norfolk (pt.),Medway,Medway,-,3,4,"1,046",727,"1,901"
+Norfolk (pt.),Medway,Medway,-,4,4,"1,015",759,"1,918"
+Middlesex (pt.),Melrose,Melrose,1,1,5,836,304,"1,212"
+Middlesex (pt.),Melrose,Melrose,1,2,5,806,282,"1,154"
+Middlesex (pt.),Melrose,Melrose,2,1,5,760,422,"1,256"
+Middlesex (pt.),Melrose,Melrose,2,2,5,745,339,"1,133"
+Middlesex (pt.),Melrose,Melrose,3,1,5,811,310,"1,174"
+Middlesex (pt.),Melrose,Melrose,3,2,5,714,327,"1,099"
+Middlesex (pt.),Melrose,Melrose,4,1,5,762,304,"1,122"
+Middlesex (pt.),Melrose,Melrose,4,2,5,719,516,"1,308"
+Middlesex (pt.),Melrose,Melrose,5,1,5,812,297,"1,165"
+Middlesex (pt.),Melrose,Melrose,5,2,5,759,299,"1,109"
+Middlesex (pt.),Melrose,Melrose,6,1,5,759,275,"1,079"
+Middlesex (pt.),Melrose,Melrose,6,2,5,730,416,"1,211"
+Middlesex (pt.),Melrose,Melrose,7,1,5,715,369,"1,156"
+Middlesex (pt.),Melrose,Melrose,7,2,5,759,372,"1,191"
+Worcester (pt.),Mendon,Mendon,-,1,2,"1,530","1,694","3,468"
+Essex (pt.),Merrimac,Merrimac,-,1,6,923,770,"1,826"
+Essex (pt.),Merrimac,Merrimac,-,2,6,972,852,"1,974"
+Essex (pt.),Methuen,Methuen,-,1,3,994,821,"1,892"
+Essex (pt.),Methuen,Methuen,-,2,3,935,192,"1,161"
+Essex (pt.),Methuen,Methuen,-,3,3,937,773,"1,794"
+Essex (pt.),Methuen,Methuen,-,4,3,961,778,"1,823"
+Essex (pt.),Methuen,Methuen,-,5,3,977,600,"1,644"
+Essex (pt.),Methuen,Methuen,-,6,3,"1,041",670,"1,799"
+Essex (pt.),Methuen,Methuen,-,7,3,"1,004",996,"2,103"
+Essex (pt.),Methuen,Methuen,-,8,3,"1,001","1,336","2,460"
+Essex (pt.),Methuen,Methuen,-,9,3,884,"1,086","2,054"
+Essex (pt.),Methuen,Methuen,-,10,3,"1,066",741,"1,897"
+Essex (pt.),Methuen,Methuen,-,11,3,991,"1,241","2,351"
+Essex (pt.),Methuen,Methuen,-,12,3,871,"1,001","1,966"
+Plymouth (pt.),Middleborough,Middleborough,-,1,9,"1,049","1,417","2,598"
+Plymouth (pt.),Middleborough,Middleborough,-,2,9,767,857,"1,762"
+Plymouth (pt.),Middleborough,Middleborough,-,3,9,860,"1,236","2,236"
+Plymouth (pt.),Middleborough,Middleborough,-,4,9,692,818,"1,651"
+Plymouth (pt.),Middleborough,Middleborough,-,5,9,783,"1,243","2,182"
+Plymouth (pt.),Middleborough,Middleborough,-,6,9,686,"1,012","1,831"
+Hampshire (pt.),Middlefield,Middlefield,-,1,1,155,115,296
+Essex (pt.),Middleton,Middleton,-,1,6,"1,069","1,315","2,500"
+Essex (pt.),Middleton,Middleton,-,2,6,"1,090","1,348","2,547"
+Worcester (pt.),Milford,Milford,-,1,4,611,432,"1,110"
+Worcester (pt.),Milford,Milford,-,2,4,908,600,"1,609"
+Worcester (pt.),Milford,Milford,-,3,4,849,671,"1,602"
+Worcester (pt.),Milford,Milford,-,4,4,778,465,"1,325"
+Worcester (pt.),Milford,Milford,-,5,4,"1,131",887,"2,123"
+Worcester (pt.),Milford,Milford,-,6,4,960,648,"1,699"
+Worcester (pt.),Milford,Milford,-,7,4,"1,074",811,"2,001"
+Worcester (pt.),Milford,Milford,-,8,4,"1,059",723,"1,898"
+Worcester (pt.),Millbury,Millbury,-,1,2,749,815,"1,680"
+Worcester (pt.),Millbury,Millbury,-,2,2,888,"1,042","2,038"
+Worcester (pt.),Millbury,Millbury,-,3,2,782,832,"1,756"
+Worcester (pt.),Millbury,Millbury,-,4,2,743,756,"1,610"
+Norfolk (pt.),Millis,Millis,-,1,4,864,636,"1,608"
+Norfolk (pt.),Millis,Millis,-,2,4,882,615,"1,628"
+Norfolk (pt.),Millis,Millis,-,3,4,874,639,"1,641"
+Worcester (pt.),Millville,Millville,-,1,2,624,874,"1,629"
+Norfolk (pt.),Milton (pt.),Milton,-,1,7,"1,303",211,"1,581"
+Norfolk (pt.),Milton (pt.),Milton,-,2,8,"1,376",235,"1,688"
+Norfolk (pt.),Milton (pt.),Milton,-,3,8,"1,230",446,"1,772"
+Norfolk (pt.),Milton (pt.),Milton,-,4,8,"1,224",349,"1,643"
+Norfolk (pt.),Milton (pt.),Milton,-,5,7,897,330,"1,290"
+Norfolk (pt.),Milton (pt.),Milton,-,6,8,"1,009",636,"1,738"
+Norfolk (pt.),Milton (pt.),Milton,-,7,8,907,556,"1,558"
+Norfolk (pt.),Milton (pt.),Milton,-,8,8,966,637,"1,673"
+Norfolk (pt.),Milton (pt.),Milton,-,9,8,873,697,"1,653"
+Norfolk (pt.),Milton (pt.),Milton,-,10,7,967,189,"1,186"
+Franklin (pt.),Monroe,Monroe,-,1,1,25,26,58
+Hampden (pt.),Monson,Monson,-,A,1,625,784,"1,513"
+Hampden (pt.),Monson,Monson,-,B,1,622,736,"1,482"
+Hampden (pt.),Monson,Monson,-,C,1,675,739,"1,539"
+Franklin (pt.),Montague,Montague,-,1,2,729,182,973
+Franklin (pt.),Montague,Montague,-,2,2,418,206,730
+Franklin (pt.),Montague,Montague,-,3,2,411,218,679
+Franklin (pt.),Montague,Montague,-,4,2,490,208,759
+Franklin (pt.),Montague,Montague,-,5,2,388,91,533
+Franklin (pt.),Montague,Montague,-,6,2,422,190,673
+Berkshire,Monterey,Monterey,-,1,1,417,88,537
+Hampden (pt.),Montgomery,Montgomery,-,1,1,199,281,524
+Berkshire,Mount Washington,Mount Washington,-,1,1,76,19,104
+Essex (pt.),Nahant,Nahant,-,1,6,"1,347",864,"2,321"
+Nantucket,Nantucket,Nantucket,-,1,9,"4,146","1,892","6,406"
+Middlesex (pt.),Natick,Natick,-,1,5,974,260,"1,315"
+Middlesex (pt.),Natick,Natick,-,2,5,"1,459",525,"2,102"
+Middlesex (pt.),Natick,Natick,-,3,5,"1,324",556,"1,992"
+Middlesex (pt.),Natick,Natick,-,4,5,"1,229",441,"1,789"
+Middlesex (pt.),Natick,Natick,-,5,5,"1,258",581,"1,945"
+Middlesex (pt.),Natick,Natick,-,6,5,"1,246",532,"1,861"
+Middlesex (pt.),Natick,Natick,-,7,5,"1,478",457,"2,021"
+Middlesex (pt.),Natick,Natick,-,8,5,"1,407",497,"2,043"
+Middlesex (pt.),Natick,Natick,-,9,5,"1,403",446,"1,954"
+Middlesex (pt.),Natick,Natick,-,10,5,"1,642",575,"2,343"
+Norfolk (pt.),Needham,Needham,-,A,4,"1,086",443,"1,587"
+Norfolk (pt.),Needham,Needham,-,B,4,"1,224",462,"1,783"
+Norfolk (pt.),Needham,Needham,-,C,4,"1,281",369,"1,748"
+Norfolk (pt.),Needham,Needham,-,D,4,"1,268",415,"1,759"
+Norfolk (pt.),Needham,Needham,-,E,4,"1,277",420,"1,821"
+Norfolk (pt.),Needham,Needham,-,F,4,"1,312",376,"1,778"
+Norfolk (pt.),Needham,Needham,-,G,4,"1,336",369,"1,802"
+Norfolk (pt.),Needham,Needham,-,H,4,"1,285",445,"1,815"
+Norfolk (pt.),Needham,Needham,-,I,4,"1,396",312,"1,791"
+Norfolk (pt.),Needham,Needham,-,J,4,"1,332",408,"1,828"
+Berkshire,New Ashford,New Ashford,-,1,1,101,39,160
+Bristol (pt.),New Bedford,New Bedford,1,A,9,610,476,"1,155"
+Bristol (pt.),New Bedford,New Bedford,1,B,9,624,493,"1,157"
+Bristol (pt.),New Bedford,New Bedford,1,C,9,656,470,"1,182"
+Bristol (pt.),New Bedford,New Bedford,1,D,9,621,534,"1,205"
+Bristol (pt.),New Bedford,New Bedford,1,E,9,626,431,"1,105"
+Bristol (pt.),New Bedford,New Bedford,1,F,9,658,539,"1,265"
+Bristol (pt.),New Bedford,New Bedford,2,A,9,272,74,356
+Bristol (pt.),New Bedford,New Bedford,2,B,9,540,237,814
+Bristol (pt.),New Bedford,New Bedford,2,C,9,378,210,618
+Bristol (pt.),New Bedford,New Bedford,2,D,9,435,333,808
+Bristol (pt.),New Bedford,New Bedford,2,E,9,529,374,968
+Bristol (pt.),New Bedford,New Bedford,2,F,9,547,344,940
+Bristol (pt.),New Bedford,New Bedford,3,A,9,394,121,535
+Bristol (pt.),New Bedford,New Bedford,3,B,9,537,119,692
+Bristol (pt.),New Bedford,New Bedford,3,C,9,436,169,640
+Bristol (pt.),New Bedford,New Bedford,3,D,9,533,209,769
+Bristol (pt.),New Bedford,New Bedford,3,E,9,714,392,"1,161"
+Bristol (pt.),New Bedford,New Bedford,3,F,9,699,342,"1,096"
+Bristol (pt.),New Bedford,New Bedford,4,A,9,559,80,653
+Bristol (pt.),New Bedford,New Bedford,4,B,9,801,226,"1,075"
+Bristol (pt.),New Bedford,New Bedford,4,C,9,787,182,"1,018"
+Bristol (pt.),New Bedford,New Bedford,4,D,9,637,228,909
+Bristol (pt.),New Bedford,New Bedford,4,E,9,539,256,852
+Bristol (pt.),New Bedford,New Bedford,4,F,9,646,185,872
+Bristol (pt.),New Bedford,New Bedford,5,A,9,483,197,716
+Bristol (pt.),New Bedford,New Bedford,5,B,9,717,233,989
+Bristol (pt.),New Bedford,New Bedford,5,C,9,551,304,896
+Bristol (pt.),New Bedford,New Bedford,5,D,9,811,299,"1,162"
+Bristol (pt.),New Bedford,New Bedford,5,E,9,822,501,"1,379"
+Bristol (pt.),New Bedford,New Bedford,5,F,9,795,429,"1,303"
+Bristol (pt.),New Bedford,New Bedford,6,A,9,634,414,"1,096"
+Bristol (pt.),New Bedford,New Bedford,6,B,9,589,337,973
+Bristol (pt.),New Bedford,New Bedford,6,C,9,395,101,505
+Bristol (pt.),New Bedford,New Bedford,6,D,9,311,115,444
+Bristol (pt.),New Bedford,New Bedford,6,E,9,432,150,604
+Bristol (pt.),New Bedford,New Bedford,6,F,9,494,223,768
+Worcester (pt.),New Braintree,New Braintree,-,1,2,246,326,612
+Berkshire,New Marlborough,New Marlborough,-,1,1,564,218,851
+Franklin (pt.),New Salem,New Salem,-,1,2,337,208,595
+Essex (pt.),Newbury,Newbury,-,1,6,"1,290",793,"2,215"
+Essex (pt.),Newbury,Newbury,-,2,6,"1,175",923,"2,244"
+Essex (pt.),Newburyport,Newburyport,1,P,6,266,204,500
+Essex (pt.),Newburyport,Newburyport,1,1,6,"1,023",335,"1,456"
+Essex (pt.),Newburyport,Newburyport,2,1,6,"1,412",400,"1,907"
+Essex (pt.),Newburyport,Newburyport,3,1,6,"1,260",463,"1,805"
+Essex (pt.),Newburyport,Newburyport,4,1,6,"1,386",501,"2,000"
+Essex (pt.),Newburyport,Newburyport,5,1,6,935,577,"1,650"
+Essex (pt.),Newburyport,Newburyport,6,1,6,"1,103",634,"1,841"
+Middlesex (pt.),Newton,Newton,1,1,4,912,394,"1,366"
+Middlesex (pt.),Newton,Newton,1,2,4,"1,206",201,"1,461"
+Middlesex (pt.),Newton,Newton,1,3,4,"1,224",162,"1,458"
+Middlesex (pt.),Newton,Newton,1,4,4,976,413,"1,472"
+Middlesex (pt.),Newton,Newton,2,1,4,"1,149",284,"1,501"
+Middlesex (pt.),Newton,Newton,2,2,4,840,154,"1,049"
+Middlesex (pt.),Newton,Newton,2,3,4,"1,428",193,"1,681"
+Middlesex (pt.),Newton,Newton,2,4,4,"1,389",197,"1,644"
+Middlesex (pt.),Newton,Newton,3,1,4,"1,252",295,"1,609"
+Middlesex (pt.),Newton,Newton,3,2,4,"1,300",184,"1,557"
+Middlesex (pt.),Newton,Newton,3,3,4,"1,138",364,"1,566"
+Middlesex (pt.),Newton,Newton,3,4,4,"1,136",370,"1,558"
+Middlesex (pt.),Newton,Newton,4,1,4,"1,083",253,"1,395"
+Middlesex (pt.),Newton,Newton,4,2,4,"1,141",174,"1,366"
+Middlesex (pt.),Newton,Newton,4,3,4,836,173,"1,058"
+Middlesex (pt.),Newton,Newton,4,4,4,"1,030",315,"1,418"
+Middlesex (pt.),Newton,Newton,5,1,4,"1,044",246,"1,363"
+Middlesex (pt.),Newton,Newton,5,2,4,"1,260",164,"1,474"
+Middlesex (pt.),Newton,Newton,5,3,4,"1,497",202,"1,767"
+Middlesex (pt.),Newton,Newton,5,4,4,"1,468",201,"1,730"
+Middlesex (pt.),Newton,Newton,6,1,4,"1,030",284,"1,370"
+Middlesex (pt.),Newton,Newton,6,2,4,"1,313",170,"1,549"
+Middlesex (pt.),Newton,Newton,6,3,4,"1,455",151,"1,659"
+Middlesex (pt.),Newton,Newton,6,4,4,"1,483",156,"1,733"
+Middlesex (pt.),Newton,Newton,7,1,4,"1,038",228,"1,335"
+Middlesex (pt.),Newton,Newton,7,2,4,"1,418",234,"1,733"
+Middlesex (pt.),Newton,Newton,7,3,4,496,71,588
+Middlesex (pt.),Newton,Newton,7,4,4,590,139,761
+Middlesex (pt.),Newton,Newton,8,1,4,"1,245",420,"1,743"
+Middlesex (pt.),Newton,Newton,8,2,4,"1,133",386,"1,593"
+Middlesex (pt.),Newton,Newton,8,3,4,"1,192",339,"1,605"
+Middlesex (pt.),Newton,Newton,8,4,4,761,247,"1,045"
+Norfolk (pt.),Norfolk,Norfolk,-,1,4,609,555,"1,257"
+Norfolk (pt.),Norfolk,Norfolk,-,2,4,"1,313","1,002","2,532"
+Norfolk (pt.),Norfolk,Norfolk,-,3,4,"1,034",901,"2,076"
+Berkshire,North Adams,N. Adams,1,1,1,793,367,"1,242"
+Berkshire,North Adams,N. Adams,2,2,1,721,270,"1,073"
+Berkshire,North Adams,N. Adams,3,3,1,669,218,964
+Berkshire,North Adams,N. Adams,4,4,1,816,414,"1,308"
+Berkshire,North Adams,N. Adams,5,5,1,731,301,"1,126"
+Essex (pt.),North Andover,N. Andover,-,1,6,"1,017",717,"1,849"
+Essex (pt.),North Andover,N. Andover,-,2,6,"1,098",823,"2,071"
+Essex (pt.),North Andover,N. Andover,-,3,6,"1,095",770,"1,958"
+Essex (pt.),North Andover,N. Andover,-,4,6,"1,242",859,"2,237"
+Essex (pt.),North Andover,N. Andover,-,5,6,818,540,"1,447"
+Essex (pt.),North Andover,N. Andover,-,6,6,"1,039","1,005","2,154"
+Essex (pt.),North Andover,N. Andover,-,7,6,"1,215",769,"2,105"
+Essex (pt.),North Andover,N. Andover,-,8,6,975,908,"1,989"
+Bristol (pt.),North Attleborough,N. Attleborough,-,1,4,668,596,"1,354"
+Bristol (pt.),North Attleborough,N. Attleborough,-,2,4,767,768,"1,685"
+Bristol (pt.),North Attleborough,N. Attleborough,-,3,4,753,846,"1,742"
+Bristol (pt.),North Attleborough,N. Attleborough,-,4,4,694,541,"1,333"
+Bristol (pt.),North Attleborough,N. Attleborough,-,5,4,705,689,"1,522"
+Bristol (pt.),North Attleborough,N. Attleborough,-,6,4,882,814,"1,829"
+Bristol (pt.),North Attleborough,N. Attleborough,-,7,4,914,872,"1,913"
+Bristol (pt.),North Attleborough,N. Attleborough,-,8,4,881,802,"1,786"
+Bristol (pt.),North Attleborough,N. Attleborough,-,9,4,795,788,"1,700"
+Worcester (pt.),North Brookfield,N. Brookfield,-,1,2,907,"1,413","2,516"
+Middlesex (pt.),North Reading,N. Reading,-,1,6,"1,066","1,023","2,238"
+Middlesex (pt.),North Reading,N. Reading,-,2,6,"1,018",920,"2,095"
+Middlesex (pt.),North Reading,N. Reading,-,3,6,"1,067","1,031","2,214"
+Middlesex (pt.),North Reading,N. Reading,-,4,6,"1,132","1,012","2,279"
+Hampshire (pt.),Northampton,Northampton,1,A,2,817,106,988
+Hampshire (pt.),Northampton,Northampton,1,B,2,"1,113",173,"1,360"
+Hampshire (pt.),Northampton,Northampton,2,A,2,"1,115",48,"1,225"
+Hampshire (pt.),Northampton,Northampton,2,B,2,694,41,776
+Hampshire (pt.),Northampton,Northampton,3,A,2,"1,104",100,"1,318"
+Hampshire (pt.),Northampton,Northampton,3,B,2,"1,000",97,"1,200"
+Hampshire (pt.),Northampton,Northampton,4,A,2,810,52,950
+Hampshire (pt.),Northampton,Northampton,4,B,2,974,82,"1,134"
+Hampshire (pt.),Northampton,Northampton,5,A,2,948,137,"1,125"
+Hampshire (pt.),Northampton,Northampton,5,B,2,998,114,"1,155"
+Hampshire (pt.),Northampton,Northampton,6,A,2,868,295,"1,225"
+Hampshire (pt.),Northampton,Northampton,6,B,2,"1,033",234,"1,329"
+Hampshire (pt.),Northampton,Northampton,7,A,2,"1,037",189,"1,299"
+Hampshire (pt.),Northampton,Northampton,7,B,2,"1,001",210,"1,285"
+Worcester (pt.),Northborough,Northborough,-,1,2,"1,335",751,"2,258"
+Worcester (pt.),Northborough,Northborough,-,2,2,"1,196",714,"2,067"
+Worcester (pt.),Northborough,Northborough,-,3,2,"1,319",721,"2,178"
+Worcester (pt.),Northborough,Northborough,-,4,2,"1,280",778,"2,218"
+Worcester (pt.),Northbridge,Northbridge,-,1,2,857,994,"2,024"
+Worcester (pt.),Northbridge,Northbridge,-,2,2,903,950,"2,024"
+Worcester (pt.),Northbridge,Northbridge,-,3,2,763,832,"1,736"
+Worcester (pt.),Northbridge,Northbridge,-,4,2,902,"1,201","2,296"
+Franklin (pt.),Northfield,Northfield,-,1,2,"1,013",533,"1,687"
+Bristol (pt.),Norton,Norton,-,1,4,996,"1,035","2,167"
+Bristol (pt.),Norton,Norton,-,2,4,971,977,"2,069"
+Bristol (pt.),Norton,Norton,-,3,4,"1,007",876,"2,010"
+Bristol (pt.),Norton,Norton,-,4,4,991,943,"2,086"
+Bristol (pt.),Norton,Norton,-,5,4,590,597,"1,260"
+Plymouth (pt.),Norwell,Norwell,-,1,9,"1,003",926,"2,042"
+Plymouth (pt.),Norwell,Norwell,-,2,9,"1,130",991,"2,241"
+Plymouth (pt.),Norwell,Norwell,-,3,9,"1,144",920,"2,209"
+Norfolk (pt.),Norwood,Norwood,-,1,8,"1,081",701,"1,892"
+Norfolk (pt.),Norwood,Norwood,-,2,8,"1,003",625,"1,702"
+Norfolk (pt.),Norwood,Norwood,-,3,8,"1,049",620,"1,778"
+Norfolk (pt.),Norwood,Norwood,-,4,8,"1,115",721,"1,947"
+Norfolk (pt.),Norwood,Norwood,-,5,8,893,403,"1,375"
+Norfolk (pt.),Norwood,Norwood,-,6,8,821,513,"1,411"
+Norfolk (pt.),Norwood,Norwood,-,7,8,905,660,"1,648"
+Norfolk (pt.),Norwood,Norwood,-,8,8,"1,116",651,"1,872"
+Norfolk (pt.),Norwood,Norwood,-,9,8,"1,017",798,"1,907"
+Dukes,Oak Bluffs,Oak Bluffs,-,1,9,"2,098",738,"2,967"
+Worcester (pt.),Oakham,Oakham,-,1,2,435,633,"1,159"
+Franklin (pt.),Orange,Orange,-,1,2,714,799,"1,669"
+Franklin (pt.),Orange,Orange,-,2,2,773,751,"1,668"
+Barnstable,Orleans,Orleans,-,1,9,"2,687","1,511","4,455"
+Berkshire,Otis,Otis,-,1,1,431,407,899
+Worcester (pt.),Oxford,Oxford,-,1,2,703,882,"1,715"
+Worcester (pt.),Oxford,Oxford,-,2,2,682,907,"1,692"
+Worcester (pt.),Oxford,Oxford,-,3,2,707,920,"1,772"
+Worcester (pt.),Oxford,Oxford,-,4,2,652,867,"1,629"
+Hampden (pt.),Palmer (pt.),Palmer,-,1,1,572,743,"1,418"
+Hampden (pt.),Palmer (pt.),Palmer,-,1A,2,81,118,214
+Hampden (pt.),Palmer (pt.),Palmer,-,2,1,633,863,"1,636"
+Hampden (pt.),Palmer (pt.),Palmer,-,3,1,602,577,"1,284"
+Hampden (pt.),Palmer (pt.),Palmer,-,4,1,587,782,"1,476"
+Worcester (pt.),Paxton,Paxton,-,1,2,"1,213","1,197","2,599"
+Essex (pt.),Peabody,Peabody,1,1,6,847,644,"1,594"
+Essex (pt.),Peabody,Peabody,1,2,6,841,860,"1,781"
+Essex (pt.),Peabody,Peabody,1,3,6,838,846,"1,776"
+Essex (pt.),Peabody,Peabody,2,1,6,765,333,"1,147"
+Essex (pt.),Peabody,Peabody,2,2,6,729,368,"1,141"
+Essex (pt.),Peabody,Peabody,2,3,6,696,630,"1,401"
+Essex (pt.),Peabody,Peabody,3,1,6,670,288,"1,005"
+Essex (pt.),Peabody,Peabody,3,2,6,759,458,"1,278"
+Essex (pt.),Peabody,Peabody,3,3,6,806,580,"1,456"
+Essex (pt.),Peabody,Peabody,4,1,6,771,632,"1,491"
+Essex (pt.),Peabody,Peabody,4,2,6,791,599,"1,454"
+Essex (pt.),Peabody,Peabody,4,3,6,455,372,851
+Essex (pt.),Peabody,Peabody,4,3A,6,924,410,"1,368"
+Essex (pt.),Peabody,Peabody,5,1,6,834,848,"1,751"
+Essex (pt.),Peabody,Peabody,5,2,6,673,692,"1,417"
+Essex (pt.),Peabody,Peabody,5,3,6,784,712,"1,554"
+Essex (pt.),Peabody,Peabody,6,1,6,756,928,"1,761"
+Essex (pt.),Peabody,Peabody,6,2,6,734,908,"1,714"
+Essex (pt.),Peabody,Peabody,6,3,6,722,928,"1,715"
+Hampshire (pt.),Pelham,Pelham,-,1,2,748,98,893
+Plymouth (pt.),Pembroke,Pembroke,-,1,9,"1,049","1,035","2,209"
+Plymouth (pt.),Pembroke,Pembroke,-,2,9,865,927,"1,944"
+Plymouth (pt.),Pembroke,Pembroke,-,3,9,893,"1,034","2,077"
+Plymouth (pt.),Pembroke,Pembroke,-,4,9,948,954,"2,047"
+Plymouth (pt.),Pembroke,Pembroke,-,5,9,875,963,"1,977"
+Middlesex (pt.),Pepperell,Pepperell,-,1,3,965,"1,053","2,211"
+Middlesex (pt.),Pepperell,Pepperell,-,2,3,"1,023","1,008","2,212"
+Middlesex (pt.),Pepperell,Pepperell,-,3,3,944,"1,037","2,146"
+Berkshire,Peru,Peru,-,1,1,255,207,504
+Worcester (pt.),Petersham,Petersham,-,1,2,417,312,794
+Worcester (pt.),Phillipston,Phillipston,-,1,2,374,550,"1,004"
+Berkshire,Pittsfield,Pittsfield,1,A,1,789,309,"1,173"
+Berkshire,Pittsfield,Pittsfield,1,B,1,980,366,"1,441"
+Berkshire,Pittsfield,Pittsfield,2,A,1,617,143,837
+Berkshire,Pittsfield,Pittsfield,2,B,1,"1,048",370,"1,500"
+Berkshire,Pittsfield,Pittsfield,3,A,1,"1,233",326,"1,655"
+Berkshire,Pittsfield,Pittsfield,3,B,1,"1,248",414,"1,775"
+Berkshire,Pittsfield,Pittsfield,4,A,1,"1,162",402,"1,669"
+Berkshire,Pittsfield,Pittsfield,4,B,1,"1,342",528,"1,967"
+Berkshire,Pittsfield,Pittsfield,5,A,1,959,273,"1,325"
+Berkshire,Pittsfield,Pittsfield,5,B,1,"1,030",414,"1,551"
+Berkshire,Pittsfield,Pittsfield,6,A,1,"1,115",328,"1,526"
+Berkshire,Pittsfield,Pittsfield,6,B,1,713,253,"1,029"
+Berkshire,Pittsfield,Pittsfield,7,A,1,658,226,971
+Berkshire,Pittsfield,Pittsfield,7,B,1,"1,013",419,"1,537"
+Hampshire (pt.),Plainfield,Plainfield,-,1,1,263,107,401
+Norfolk (pt.),Plainville,Plainville,-,1,4,797,735,"1,659"
+Norfolk (pt.),Plainville,Plainville,-,2,4,710,708,"1,529"
+Norfolk (pt.),Plainville,Plainville,-,3,4,709,780,"1,624"
+Plymouth (pt.),Plymouth,Plymouth,-,1,9,839,643,"1,576"
+Plymouth (pt.),Plymouth,Plymouth,-,2,9,"1,040",879,"2,065"
+Plymouth (pt.),Plymouth,Plymouth,-,3,9,981,635,"1,730"
+Plymouth (pt.),Plymouth,Plymouth,-,4,9,"1,064",769,"1,936"
+Plymouth (pt.),Plymouth,Plymouth,-,5,9,"1,042","1,073","2,255"
+Plymouth (pt.),Plymouth,Plymouth,-,6,9,"1,102",944,"2,198"
+Plymouth (pt.),Plymouth,Plymouth,-,7,9,"1,005",953,"2,108"
+Plymouth (pt.),Plymouth,Plymouth,-,8,9,"1,045","1,052","2,242"
+Plymouth (pt.),Plymouth,Plymouth,-,9,9,764,903,"1,825"
+Plymouth (pt.),Plymouth,Plymouth,-,10,9,677,661,"1,423"
+Plymouth (pt.),Plymouth,Plymouth,-,11,9,"1,126","1,111","2,364"
+Plymouth (pt.),Plymouth,Plymouth,-,12,9,963,"1,048","2,145"
+Plymouth (pt.),Plymouth,Plymouth,-,13,9,"1,017",982,"2,117"
+Plymouth (pt.),Plymouth,Plymouth,-,14,9,887,"1,069","2,118"
+Plymouth (pt.),Plymouth,Plymouth,-,15,9,"2,050","1,587","3,828"
+Plymouth (pt.),Plympton,Plympton,-,1,9,727,883,"1,752"
+Worcester (pt.),Princeton,Princeton,-,1,2,"1,183",898,"2,240"
+Barnstable,Provincetown,Provincetown,-,1,9,"2,082",208,"2,363"
+Norfolk (pt.),Quincy,Quincy,1,1,8,883,439,"1,390"
+Norfolk (pt.),Quincy,Quincy,1,2,8,743,335,"1,131"
+Norfolk (pt.),Quincy,Quincy,1,3,8,912,396,"1,393"
+Norfolk (pt.),Quincy,Quincy,1,4,8,907,745,"1,739"
+Norfolk (pt.),Quincy,Quincy,1,5,8,978,772,"1,848"
+Norfolk (pt.),Quincy,Quincy,2,1,8,872,496,"1,440"
+Norfolk (pt.),Quincy,Quincy,2,2,8,812,362,"1,227"
+Norfolk (pt.),Quincy,Quincy,2,3,8,398,173,598
+Norfolk (pt.),Quincy,Quincy,2,3A,8,146,135,295
+Norfolk (pt.),Quincy,Quincy,2,4,8,778,351,"1,184"
+Norfolk (pt.),Quincy,Quincy,2,5,8,886,483,"1,446"
+Norfolk (pt.),Quincy,Quincy,3,1,8,977,493,"1,569"
+Norfolk (pt.),Quincy,Quincy,3,2,8,910,375,"1,361"
+Norfolk (pt.),Quincy,Quincy,3,3,8,642,257,943
+Norfolk (pt.),Quincy,Quincy,3,4,8,905,613,"1,590"
+Norfolk (pt.),Quincy,Quincy,3,5,8,658,227,929
+Norfolk (pt.),Quincy,Quincy,4,1,8,954,433,"1,448"
+Norfolk (pt.),Quincy,Quincy,4,2,8,980,587,"1,637"
+Norfolk (pt.),Quincy,Quincy,4,3,8,909,632,"1,592"
+Norfolk (pt.),Quincy,Quincy,4,4,8,807,271,"1,132"
+Norfolk (pt.),Quincy,Quincy,4,5,8,818,404,"1,297"
+Norfolk (pt.),Quincy,Quincy,5,1,8,855,333,"1,258"
+Norfolk (pt.),Quincy,Quincy,5,2,8,868,337,"1,263"
+Norfolk (pt.),Quincy,Quincy,5,3,8,920,441,"1,420"
+Norfolk (pt.),Quincy,Quincy,5,4,8,758,401,"1,229"
+Norfolk (pt.),Quincy,Quincy,5,5,8,900,482,"1,465"
+Norfolk (pt.),Quincy,Quincy,6,1,8,817,373,"1,254"
+Norfolk (pt.),Quincy,Quincy,6,2,8,624,259,939
+Norfolk (pt.),Quincy,Quincy,6,3,8,"1,013",561,"1,648"
+Norfolk (pt.),Quincy,Quincy,6,4,8,827,330,"1,220"
+Norfolk (pt.),Quincy,Quincy,6,5,8,"1,020",825,"1,930"
+Norfolk (pt.),Randolph,Randolph,-,1,7,974,263,"1,280"
+Norfolk (pt.),Randolph,Randolph,-,2,7,930,158,"1,123"
+Norfolk (pt.),Randolph,Randolph,-,3,7,907,244,"1,189"
+Norfolk (pt.),Randolph,Randolph,-,4,7,988,289,"1,316"
+Norfolk (pt.),Randolph,Randolph,-,5,7,822,286,"1,150"
+Norfolk (pt.),Randolph,Randolph,-,6,7,908,235,"1,174"
+Norfolk (pt.),Randolph,Randolph,-,7,7,958,272,"1,273"
+Norfolk (pt.),Randolph,Randolph,-,8,7,"1,070",196,"1,312"
+Norfolk (pt.),Randolph,Randolph,-,9,7,"1,051",203,"1,288"
+Norfolk (pt.),Randolph,Randolph,-,10,7,990,284,"1,305"
+Norfolk (pt.),Randolph,Randolph,-,11,7,957,348,"1,357"
+Norfolk (pt.),Randolph,Randolph,-,12,7,954,320,"1,334"
+Bristol (pt.),Raynham,Raynham,-,1,8,762,821,"1,685"
+Bristol (pt.),Raynham,Raynham,-,1A,4,105,121,248
+Bristol (pt.),Raynham,Raynham,-,2,8,710,862,"1,649"
+Bristol (pt.),Raynham,Raynham,-,2A,4,113,187,320
+Bristol (pt.),Raynham,Raynham,-,3,4,818,969,"1,903"
+Bristol (pt.),Raynham,Raynham,-,4,4,819,846,"1,769"
+Middlesex (pt.),Reading,Reading,-,1,6,"1,173",811,"2,082"
+Middlesex (pt.),Reading,Reading,-,2,6,"1,051",655,"1,814"
+Middlesex (pt.),Reading,Reading,-,3,6,"1,189",810,"2,103"
+Middlesex (pt.),Reading,Reading,-,4,6,"1,121",617,"1,839"
+Middlesex (pt.),Reading,Reading,-,5,6,"1,192",544,"1,847"
+Middlesex (pt.),Reading,Reading,-,6,6,893,555,"1,523"
+Middlesex (pt.),Reading,Reading,-,7,6,"1,167",666,"1,949"
+Middlesex (pt.),Reading,Reading,-,8,6,"1,062",715,"1,887"
+Bristol (pt.),Rehoboth,Rehoboth,-,1,4,879,"1,173","2,217"
+Bristol (pt.),Rehoboth,Rehoboth,-,2,4,918,"1,180","2,240"
+Bristol (pt.),Rehoboth,Rehoboth,-,3,4,987,"1,221","2,333"
+Suffolk (pt.),Revere,Revere,1,1,5,763,357,"1,186"
+Suffolk (pt.),Revere,Revere,1,2,5,678,323,"1,026"
+Suffolk (pt.),Revere,Revere,1,3,5,693,314,"1,045"
+Suffolk (pt.),Revere,Revere,2,1,5,622,188,846
+Suffolk (pt.),Revere,Revere,2,2,5,575,201,811
+Suffolk (pt.),Revere,Revere,2,3,5,340,58,415
+Suffolk (pt.),Revere,Revere,2,3A,5,120,43,167
+Suffolk (pt.),Revere,Revere,3,1,5,662,423,"1,116"
+Suffolk (pt.),Revere,Revere,3,2,5,694,350,"1,080"
+Suffolk (pt.),Revere,Revere,3,3,5,676,406,"1,113"
+Suffolk (pt.),Revere,Revere,4,1,5,698,436,"1,181"
+Suffolk (pt.),Revere,Revere,4,2,5,659,351,"1,048"
+Suffolk (pt.),Revere,Revere,4,3,5,699,471,"1,210"
+Suffolk (pt.),Revere,Revere,5,1,5,512,413,965
+Suffolk (pt.),Revere,Revere,5,1A,5,338,227,585
+Suffolk (pt.),Revere,Revere,5,2,5,319,203,542
+Suffolk (pt.),Revere,Revere,5,2A,5,350,122,490
+Suffolk (pt.),Revere,Revere,5,3,5,688,403,"1,126"
+Suffolk (pt.),Revere,Revere,6,1,5,632,664,"1,337"
+Suffolk (pt.),Revere,Revere,6,2,5,656,684,"1,372"
+Suffolk (pt.),Revere,Revere,6,3,5,590,258,883
+Berkshire,Richmond,Richmond,-,1,1,706,218,978
+Plymouth (pt.),Rochester,Rochester,-,1,9,"1,368","1,743","3,322"
+Plymouth (pt.),Rockland,Rockland,-,1,9,811,753,"1,667"
+Plymouth (pt.),Rockland,Rockland,-,2,9,852,829,"1,773"
+Plymouth (pt.),Rockland,Rockland,-,3,9,583,515,"1,186"
+Plymouth (pt.),Rockland,Rockland,-,4,9,672,633,"1,399"
+Plymouth (pt.),Rockland,Rockland,-,5,9,705,774,"1,573"
+Plymouth (pt.),Rockland,Rockland,-,6,9,780,809,"1,697"
+Essex (pt.),Rockport,Rockport,-,1,6,773,338,"1,182"
+Essex (pt.),Rockport,Rockport,-,2,6,"1,103",464,"1,668"
+Essex (pt.),Rockport,Rockport,-,3,6,"1,246",569,"1,947"
+Franklin (pt.),Rowe,Rowe,-,1,1,122,99,235
+Essex (pt.),Rowley,Rowley,-,1,6,"1,679","1,809","3,762"
+Worcester (pt.),Royalston,Royalston,-,1,2,193,179,403
+Worcester (pt.),Royalston,Royalston,-,2,2,121,142,280
+Hampden (pt.),Russell,Russell,-,1,1,278,480,821
+Worcester (pt.),Rutland,Rutland,-,1,2,624,778,"1,526"
+Worcester (pt.),Rutland,Rutland,-,2,2,693,844,"1,678"
+Worcester (pt.),Rutland,Rutland,-,3,2,705,722,"1,563"
+Essex (pt.),Salem,Salem,1,1,6,"1,270",468,"1,849"
+Essex (pt.),Salem,Salem,1,2,6,836,83,952
+Essex (pt.),Salem,Salem,2,1,6,"1,332",350,"1,791"
+Essex (pt.),Salem,Salem,2,2,6,"1,428",298,"1,838"
+Essex (pt.),Salem,Salem,3,1,6,939,329,"1,348"
+Essex (pt.),Salem,Salem,3,2,6,902,476,"1,431"
+Essex (pt.),Salem,Salem,4,1,6,941,503,"1,516"
+Essex (pt.),Salem,Salem,4,2,6,890,590,"1,552"
+Essex (pt.),Salem,Salem,5,1,6,"1,145",392,"1,622"
+Essex (pt.),Salem,Salem,5,2,6,"1,066",277,"1,427"
+Essex (pt.),Salem,Salem,6,1,6,"1,102",459,"1,671"
+Essex (pt.),Salem,Salem,6,2,6,972,402,"1,464"
+Essex (pt.),Salem,Salem,7,1,6,"1,067",366,"1,513"
+Essex (pt.),Salem,Salem,7,2,6,"1,060",465,"1,585"
+Essex (pt.),Salisbury,Salisbury,-,1,6,825,740,"1,668"
+Essex (pt.),Salisbury,Salisbury,-,2,6,726,726,"1,544"
+Essex (pt.),Salisbury,Salisbury,-,3,6,547,783,"1,422"
+Berkshire,Sandisfield,Sandisfield,-,1,1,254,190,478
+Barnstable,Sandwich,Sandwich,-,1,9,"1,247",988,"2,342"
+Barnstable,Sandwich,Sandwich,-,2,9,"1,160",990,"2,249"
+Barnstable,Sandwich,Sandwich,-,3,9,967,937,"2,019"
+Barnstable,Sandwich,Sandwich,-,4,9,946,"1,011","2,063"
+Barnstable,Sandwich,Sandwich,-,5,9,899,936,"1,960"
+Barnstable,Sandwich,Sandwich,-,6,9,798,984,"1,883"
+Essex (pt.),Saugus,Saugus,-,1,6,631,642,"1,332"
+Essex (pt.),Saugus,Saugus,-,2,6,658,662,"1,382"
+Essex (pt.),Saugus,Saugus,-,3,6,643,671,"1,391"
+Essex (pt.),Saugus,Saugus,-,4,6,565,650,"1,252"
+Essex (pt.),Saugus,Saugus,-,5,6,615,897,"1,577"
+Essex (pt.),Saugus,Saugus,-,6,6,677,700,"1,448"
+Essex (pt.),Saugus,Saugus,-,7,6,613,898,"1,561"
+Essex (pt.),Saugus,Saugus,-,8,6,673,712,"1,443"
+Essex (pt.),Saugus,Saugus,-,9,6,681,838,"1,562"
+Essex (pt.),Saugus,Saugus,-,10,6,629,635,"1,302"
+Berkshire,Savoy,Savoy,-,1,1,184,163,382
+Plymouth (pt.),Scituate,Scituate,-,1,8,"1,064",827,"2,014"
+Plymouth (pt.),Scituate,Scituate,-,2,8,"1,054",764,"1,931"
+Plymouth (pt.),Scituate,Scituate,-,3,8,"1,132",689,"1,929"
+Plymouth (pt.),Scituate,Scituate,-,4,8,"1,065",812,"1,987"
+Plymouth (pt.),Scituate,Scituate,-,5,8,"1,119",653,"1,904"
+Plymouth (pt.),Scituate,Scituate,-,6,8,"1,078",712,"1,892"
+Bristol (pt.),Seekonk,Seekonk,-,1,4,823,932,"1,863"
+Bristol (pt.),Seekonk,Seekonk,-,2,4,"1,018",963,"2,110"
+Bristol (pt.),Seekonk,Seekonk,-,3,4,907,846,"1,840"
+Bristol (pt.),Seekonk,Seekonk,-,4,4,915,831,"1,850"
+Norfolk (pt.),Sharon,Sharon,-,1,4,"1,557",438,"2,112"
+Norfolk (pt.),Sharon,Sharon,-,2,4,"1,374",504,"1,952"
+Norfolk (pt.),Sharon,Sharon,-,3,4,"1,535",512,"2,169"
+Norfolk (pt.),Sharon,Sharon,-,4,4,"1,480",449,"2,039"
+Norfolk (pt.),Sharon,Sharon,-,5,4,"1,273",544,"1,922"
+Berkshire,Sheffield,Sheffield,-,1,1,"1,242",530,"1,898"
+Franklin (pt.),Shelburne,Shelburne,-,1,1,821,230,"1,151"
+Middlesex (pt.),Sherborn,Sherborn,-,1,5,"1,766",617,"2,603"
+Middlesex (pt.),Shirley,Shirley,-,1,3,"1,637","1,432","3,332"
+Worcester (pt.),Shrewsbury,Shrewsbury,-,1,2,"1,214",885,"2,236"
+Worcester (pt.),Shrewsbury,Shrewsbury,-,2,2,967,639,"1,697"
+Worcester (pt.),Shrewsbury,Shrewsbury,-,3,2,838,586,"1,516"
+Worcester (pt.),Shrewsbury,Shrewsbury,-,4,2,"1,007",702,"1,819"
+Worcester (pt.),Shrewsbury,Shrewsbury,-,5,2,999,532,"1,630"
+Worcester (pt.),Shrewsbury,Shrewsbury,-,6,2,"1,131",692,"1,939"
+Worcester (pt.),Shrewsbury,Shrewsbury,-,7,2,"1,234",860,"2,242"
+Worcester (pt.),Shrewsbury,Shrewsbury,-,8,2,"1,262",808,"2,196"
+Worcester (pt.),Shrewsbury,Shrewsbury,-,9,2,875,454,"1,391"
+Worcester (pt.),Shrewsbury,Shrewsbury,-,10,2,"1,093",650,"1,853"
+Franklin (pt.),Shutesbury,Shutesbury,-,1,2,980,142,"1,243"
+Bristol (pt.),Somerset,Somerset,-,1,4,993,958,"2,052"
+Bristol (pt.),Somerset,Somerset,-,2,4,"1,070",972,"2,130"
+Bristol (pt.),Somerset,Somerset,-,3,4,"1,076",912,"2,095"
+Bristol (pt.),Somerset,Somerset,-,4,4,903,855,"1,846"
+Bristol (pt.),Somerset,Somerset,-,5,4,859,869,"1,843"
+Middlesex (pt.),Somerville,Somerville,1,1,7,"1,032",199,"1,293"
+Middlesex (pt.),Somerville,Somerville,1,2,7,"1,318",293,"1,694"
+Middlesex (pt.),Somerville,Somerville,1,3,7,"1,041",193,"1,290"
+Middlesex (pt.),Somerville,Somerville,2,1,7,"1,617",133,"1,843"
+Middlesex (pt.),Somerville,Somerville,2,2,7,"1,915",147,"2,172"
+Middlesex (pt.),Somerville,Somerville,2,3,7,"1,797",176,"2,101"
+Middlesex (pt.),Somerville,Somerville,3,1,7,"1,598",163,"1,834"
+Middlesex (pt.),Somerville,Somerville,3,2,7,"1,652",202,"1,948"
+Middlesex (pt.),Somerville,Somerville,3,3,7,"1,903",175,"2,189"
+Middlesex (pt.),Somerville,Somerville,4,1,7,"1,054",231,"1,330"
+Middlesex (pt.),Somerville,Somerville,4,2,7,"1,243",190,"1,517"
+Middlesex (pt.),Somerville,Somerville,4,3,7,"1,432",233,"1,746"
+Middlesex (pt.),Somerville,Somerville,5,1,7,"1,643",260,"2,011"
+Middlesex (pt.),Somerville,Somerville,5,2,7,"1,956",227,"2,302"
+Middlesex (pt.),Somerville,Somerville,5,3,7,"2,000",182,"2,292"
+Middlesex (pt.),Somerville,Somerville,6,1,7,"2,183",159,"2,471"
+Middlesex (pt.),Somerville,Somerville,6,2,7,"2,012",179,"2,324"
+Middlesex (pt.),Somerville,Somerville,6,3,7,"1,270",120,"1,462"
+Middlesex (pt.),Somerville,Somerville,7,1,7,"1,974",203,"2,279"
+Middlesex (pt.),Somerville,Somerville,7,2,7,"1,535",171,"1,778"
+Middlesex (pt.),Somerville,Somerville,7,3,7,"1,565",292,"1,942"
+Hampshire (pt.),South Hadley,S. Hadley,-,A,1,"1,053",645,"1,832"
+Hampshire (pt.),South Hadley,S. Hadley,-,B,1,"1,161",715,"1,982"
+Hampshire (pt.),South Hadley,S. Hadley,-,C,1,"1,016",815,"1,975"
+Hampshire (pt.),South Hadley,S. Hadley,-,D,1,812,344,"1,214"
+Hampshire (pt.),South Hadley,S. Hadley,-,E,1,"1,166",735,"2,022"
+Hampshire (pt.),Southampton,Southampton,-,1,1,"1,744","1,692","3,693"
+Worcester (pt.),Southborough,Southborough,-,1,5,"1,236",653,"2,030"
+Worcester (pt.),Southborough,Southborough,-,2,5,"1,128",615,"1,868"
+Worcester (pt.),Southborough,Southborough,-,3,5,"1,166",630,"1,914"
+Worcester (pt.),Southbridge,Southbridge,-,1,1,769,510,"1,389"
+Worcester (pt.),Southbridge,Southbridge,-,2,1,722,411,"1,214"
+Worcester (pt.),Southbridge,Southbridge,-,3,1,685,600,"1,370"
+Worcester (pt.),Southbridge,Southbridge,-,4,1,811,764,"1,708"
+Worcester (pt.),Southbridge,Southbridge,-,5,1,727,301,"1,103"
+Hampden (pt.),Southwick,Southwick,-,1,1,644,"1,150","1,915"
+Hampden (pt.),Southwick,Southwick,-,2,1,548,866,"1,532"
+Hampden (pt.),Southwick,Southwick,-,3,1,667,945,"1,713"
+Worcester (pt.),Spencer,Spencer,-,1,2,593,748,"1,426"
+Worcester (pt.),Spencer,Spencer,-,2,2,517,670,"1,275"
+Worcester (pt.),Spencer,Spencer,-,3,2,542,859,"1,501"
+Worcester (pt.),Spencer,Spencer,-,4,2,613,768,"1,487"
+Hampden (pt.),Springfield,Springfield,1,A,1,664,25,706
+Hampden (pt.),Springfield,Springfield,1,B,1,686,62,769
+Hampden (pt.),Springfield,Springfield,1,C,1,550,47,617
+Hampden (pt.),Springfield,Springfield,1,D,1,626,49,685
+Hampden (pt.),Springfield,Springfield,1,E,1,694,62,776
+Hampden (pt.),Springfield,Springfield,1,F,1,613,44,670
+Hampden (pt.),Springfield,Springfield,1,G,1,674,69,775
+Hampden (pt.),Springfield,Springfield,1,H,1,676,62,758
+Hampden (pt.),Springfield,Springfield,2,A,1,577,105,700
+Hampden (pt.),Springfield,Springfield,2,B,1,816,222,"1,078"
+Hampden (pt.),Springfield,Springfield,2,C,1,532,127,693
+Hampden (pt.),Springfield,Springfield,2,D,1,718,224,985
+Hampden (pt.),Springfield,Springfield,2,E,1,648,238,935
+Hampden (pt.),Springfield,Springfield,2,F,1,804,179,"1,030"
+Hampden (pt.),Springfield,Springfield,2,G,1,717,313,"1,082"
+Hampden (pt.),Springfield,Springfield,2,H,1,709,262,"1,013"
+Hampden (pt.),Springfield,Springfield,3,A,1,545,68,630
+Hampden (pt.),Springfield,Springfield,3,B,1,570,49,637
+Hampden (pt.),Springfield,Springfield,3,C,1,429,44,488
+Hampden (pt.),Springfield,Springfield,3,D,1,569,41,632
+Hampden (pt.),Springfield,Springfield,3,E,1,481,46,547
+Hampden (pt.),Springfield,Springfield,3,F,1,441,67,530
+Hampden (pt.),Springfield,Springfield,3,G,1,401,49,469
+Hampden (pt.),Springfield,Springfield,3,H,1,550,90,658
+Hampden (pt.),Springfield,Springfield,4,A,1,678,77,785
+Hampden (pt.),Springfield,Springfield,4,B,1,773,46,842
+Hampden (pt.),Springfield,Springfield,4,C,1,618,19,655
+Hampden (pt.),Springfield,Springfield,4,D,1,659,30,707
+Hampden (pt.),Springfield,Springfield,4,E,1,584,28,630
+Hampden (pt.),Springfield,Springfield,4,F,1,227,17,246
+Hampden (pt.),Springfield,Springfield,4,G,1,769,54,843
+Hampden (pt.),Springfield,Springfield,4,H,1,658,30,703
+Hampden (pt.),Springfield,Springfield,5,A,1,712,64,796
+Hampden (pt.),Springfield,Springfield,5,B,1,775,172,984
+Hampden (pt.),Springfield,Springfield,5,C,1,612,209,861
+Hampden (pt.),Springfield,Springfield,5,D,1,687,386,"1,131"
+Hampden (pt.),Springfield,Springfield,5,E,1,897,174,"1,110"
+Hampden (pt.),Springfield,Springfield,5,F,1,774,255,"1,082"
+Hampden (pt.),Springfield,Springfield,5,G,1,680,488,"1,227"
+Hampden (pt.),Springfield,Springfield,5,H,1,525,360,946
+Hampden (pt.),Springfield,Springfield,6,A,1,581,113,716
+Hampden (pt.),Springfield,Springfield,6,B,1,672,234,944
+Hampden (pt.),Springfield,Springfield,6,C,1,597,212,854
+Hampden (pt.),Springfield,Springfield,6,D,1,680,428,"1,167"
+Hampden (pt.),Springfield,Springfield,6,E,1,539,91,662
+Hampden (pt.),Springfield,Springfield,6,F,1,587,113,748
+Hampden (pt.),Springfield,Springfield,6,G,1,560,184,786
+Hampden (pt.),Springfield,Springfield,6,H,1,678,341,"1,070"
+Hampden (pt.),Springfield,Springfield,7,A,1,638,335,"1,021"
+Hampden (pt.),Springfield,Springfield,7,B,1,770,438,"1,267"
+Hampden (pt.),Springfield,Springfield,7,C,1,717,427,"1,211"
+Hampden (pt.),Springfield,Springfield,7,D,1,630,409,"1,095"
+Hampden (pt.),Springfield,Springfield,7,E,1,650,184,869
+Hampden (pt.),Springfield,Springfield,7,F,1,736,471,"1,272"
+Hampden (pt.),Springfield,Springfield,7,G,1,683,532,"1,296"
+Hampden (pt.),Springfield,Springfield,7,H,1,356,187,572
+Hampden (pt.),Springfield,Springfield,8,A,1,623,264,946
+Hampden (pt.),Springfield,Springfield,8,B,1,651,215,899
+Hampden (pt.),Springfield,Springfield,8,C,1,776,121,932
+Hampden (pt.),Springfield,Springfield,8,D,1,480,113,621
+Hampden (pt.),Springfield,Springfield,8,E,1,501,152,689
+Hampden (pt.),Springfield,Springfield,8,F,1,575,280,904
+Hampden (pt.),Springfield,Springfield,8,G,1,681,265,980
+Hampden (pt.),Springfield,Springfield,8,H,1,662,169,869
+Worcester (pt.),Sterling,Sterling,-,1,2,"1,081","1,083","2,369"
+Worcester (pt.),Sterling,Sterling,-,2,2,"1,081","1,244","2,528"
+Berkshire,Stockbridge,Stockbridge,-,1,1,965,252,"1,276"
+Middlesex (pt.),Stoneham,Stoneham,-,1,5,970,697,"1,758"
+Middlesex (pt.),Stoneham,Stoneham,-,2,5,"1,093",685,"1,872"
+Middlesex (pt.),Stoneham,Stoneham,-,3,5,"1,069",874,"2,041"
+Middlesex (pt.),Stoneham,Stoneham,-,4,5,877,699,"1,657"
+Middlesex (pt.),Stoneham,Stoneham,-,5,5,946,840,"1,865"
+Middlesex (pt.),Stoneham,Stoneham,-,6,5,986,756,"1,834"
+Middlesex (pt.),Stoneham,Stoneham,-,7,5,"1,021",692,"1,813"
+Norfolk (pt.),Stoughton,Stoughton,-,1,8,"1,220",642,"1,952"
+Norfolk (pt.),Stoughton,Stoughton,-,2,8,"1,032",597,"1,710"
+Norfolk (pt.),Stoughton,Stoughton,-,3,8,"1,058",628,"1,772"
+Norfolk (pt.),Stoughton,Stoughton,-,4,8,"1,084",839,"2,020"
+Norfolk (pt.),Stoughton,Stoughton,-,5,8,908,598,"1,585"
+Norfolk (pt.),Stoughton,Stoughton,-,6,8,"1,311",714,"2,131"
+Norfolk (pt.),Stoughton,Stoughton,-,7,8,982,483,"1,552"
+Norfolk (pt.),Stoughton,Stoughton,-,8,8,856,419,"1,353"
+Middlesex (pt.),Stow,Stow,-,1,3,"1,391",686,"2,246"
+Middlesex (pt.),Stow,Stow,-,2,3,"1,317",575,"2,079"
+Worcester (pt.),Sturbridge,Sturbridge,-,1,1,904,765,"1,792"
+Worcester (pt.),Sturbridge,Sturbridge,-,2,1,872,861,"1,880"
+Worcester (pt.),Sturbridge,Sturbridge,-,3,1,758,789,"1,686"
+Middlesex (pt.),Sudbury (pt.),Sudbury,-,1,3,"1,111",396,"1,602"
+Middlesex (pt.),Sudbury (pt.),Sudbury,-,1A,5,381,144,562
+Middlesex (pt.),Sudbury (pt.),Sudbury,-,2,5,"1,364",461,"1,928"
+Middlesex (pt.),Sudbury (pt.),Sudbury,-,3,5,"1,527",578,"2,224"
+Middlesex (pt.),Sudbury (pt.),Sudbury,-,4,5,"1,574",444,"2,132"
+Middlesex (pt.),Sudbury (pt.),Sudbury,-,5,5,"1,445",487,"2,023"
+Franklin (pt.),Sunderland,Sunderland,-,1,2,"1,353",387,"1,884"
+Worcester (pt.),Sutton,Sutton,-,1,2,789,"1,017","1,933"
+Worcester (pt.),Sutton,Sutton,-,2,2,706,982,"1,815"
+Worcester (pt.),Sutton,Sutton,-,3,2,817,882,"1,819"
+Essex (pt.),Swampscott,Swampscott,-,1,6,784,506,"1,338"
+Essex (pt.),Swampscott,Swampscott,-,2,6,"1,008",413,"1,506"
+Essex (pt.),Swampscott,Swampscott,-,3,6,842,375,"1,292"
+Essex (pt.),Swampscott,Swampscott,-,4,6,"1,038",399,"1,504"
+Essex (pt.),Swampscott,Swampscott,-,5,6,890,436,"1,413"
+Essex (pt.),Swampscott,Swampscott,-,6,6,992,457,"1,523"
+Bristol (pt.),Swansea,Swansea,-,1,4,793,945,"1,808"
+Bristol (pt.),Swansea,Swansea,-,2,4,841,791,"1,720"
+Bristol (pt.),Swansea,Swansea,-,3,4,797,800,"1,670"
+Bristol (pt.),Swansea,Swansea,-,4,4,763,905,"1,742"
+Bristol (pt.),Swansea,Swansea,-,5,4,734,910,"1,727"
+Bristol (pt.),Taunton,Taunton,1,A,4,720,495,"1,311"
+Bristol (pt.),Taunton,Taunton,1,B,4,798,793,"1,680"
+Bristol (pt.),Taunton,Taunton,2,A,4,624,289,970
+Bristol (pt.),Taunton,Taunton,2,B,4,699,431,"1,197"
+Bristol (pt.),Taunton,Taunton,3,A,4,785,521,"1,375"
+Bristol (pt.),Taunton,Taunton,3,B,4,929,737,"1,775"
+Bristol (pt.),Taunton,Taunton,4,A,4,736,833,"1,686"
+Bristol (pt.),Taunton,Taunton,4,B,4,777,652,"1,523"
+Bristol (pt.),Taunton,Taunton,5,A,4,705,458,"1,253"
+Bristol (pt.),Taunton,Taunton,5,B,4,694,393,"1,158"
+Bristol (pt.),Taunton,Taunton,6,A,4,582,414,"1,051"
+Bristol (pt.),Taunton,Taunton,6,B,4,860,584,"1,524"
+Bristol (pt.),Taunton,Taunton,7,A,4,876,733,"1,703"
+Bristol (pt.),Taunton,Taunton,7,B,4,817,922,"1,857"
+Bristol (pt.),Taunton,Taunton,8,A,4,856,836,"1,782"
+Bristol (pt.),Taunton,Taunton,8,B,4,907,882,"1,897"
+Worcester (pt.),Templeton,Templeton,-,A,2,550,768,"1,439"
+Worcester (pt.),Templeton,Templeton,-,B,2,502,708,"1,331"
+Worcester (pt.),Templeton,Templeton,-,C,2,469,592,"1,150"
+Middlesex (pt.),Tewksbury,Tewksbury,-,1,6,911,971,"1,997"
+Middlesex (pt.),Tewksbury,Tewksbury,-,1A,6,930,"1,117","2,170"
+Middlesex (pt.),Tewksbury,Tewksbury,-,2,6,894,"1,023","2,038"
+Middlesex (pt.),Tewksbury,Tewksbury,-,2A,6,784,983,"1,883"
+Middlesex (pt.),Tewksbury,Tewksbury,-,3,6,"1,060","1,171","2,360"
+Middlesex (pt.),Tewksbury,Tewksbury,-,3A,6,"1,072","1,142","2,342"
+Middlesex (pt.),Tewksbury,Tewksbury,-,4,6,956,"1,029","2,125"
+Middlesex (pt.),Tewksbury,Tewksbury,-,4A,6,995,996,"2,145"
+Dukes,Tisbury,Tisbury,-,1,9,"1,942",476,"2,573"
+Hampden (pt.),Tolland,Tolland,-,1,1,101,190,307
+Essex (pt.),Topsfield,Topsfield,-,1,6,"2,100","1,566","3,914"
+Middlesex (pt.),Townsend,Townsend,-,1,3,645,884,"1,695"
+Middlesex (pt.),Townsend,Townsend,-,2,3,699,803,"1,648"
+Middlesex (pt.),Townsend,Townsend,-,3,3,738,863,"1,726"
+Barnstable,Truro,Truro,-,1,9,"1,095",361,"1,551"
+Middlesex (pt.),Tyngsborough,Tyngsborough,-,1,3,700,791,"1,592"
+Middlesex (pt.),Tyngsborough,Tyngsborough,-,2,3,739,822,"1,679"
+Middlesex (pt.),Tyngsborough,Tyngsborough,-,3,3,777,765,"1,665"
+Middlesex (pt.),Tyngsborough,Tyngsborough,-,4,3,845,789,"1,735"
+Berkshire,Tyringham,Tyringham,-,1,1,201,70,284
+Worcester (pt.),Upton,Upton,-,1,2,"1,214",914,"2,308"
+Worcester (pt.),Upton,Upton,-,2,2,"1,082",904,"2,189"
+Worcester (pt.),Uxbridge,Uxbridge,-,1,2,801,997,"1,949"
+Worcester (pt.),Uxbridge,Uxbridge,-,2,2,872,814,"1,821"
+Worcester (pt.),Uxbridge,Uxbridge,-,3,2,741,940,"1,811"
+Worcester (pt.),Uxbridge,Uxbridge,-,4,2,852,947,"1,968"
+Middlesex (pt.),Wakefield,Wakefield,-,1,6,"1,185","1,082","2,398"
+Middlesex (pt.),Wakefield,Wakefield,-,2,6,"1,032",764,"1,910"
+Middlesex (pt.),Wakefield,Wakefield,-,3,6,"1,123",869,"2,103"
+Middlesex (pt.),Wakefield,Wakefield,-,4,6,"1,297",870,"2,276"
+Middlesex (pt.),Wakefield,Wakefield,-,5,6,"1,262",860,"2,230"
+Middlesex (pt.),Wakefield,Wakefield,-,6,6,"1,279",788,"2,203"
+Middlesex (pt.),Wakefield,Wakefield,-,7,6,"1,116",827,"2,071"
+Hampden (pt.),Wales,Wales,-,1,1,365,550,988
+Norfolk (pt.),Walpole,Walpole,-,1,8,938,694,"1,721"
+Norfolk (pt.),Walpole,Walpole,-,2,8,936,831,"1,875"
+Norfolk (pt.),Walpole,Walpole,-,3,8,957,808,"1,882"
+Norfolk (pt.),Walpole,Walpole,-,4,8,936,610,"1,652"
+Norfolk (pt.),Walpole,Walpole,-,5,8,778,683,"1,547"
+Norfolk (pt.),Walpole,Walpole,-,6,8,972,788,"1,881"
+Norfolk (pt.),Walpole,Walpole,-,7,8,907,809,"1,843"
+Norfolk (pt.),Walpole,Walpole,-,8,8,846,823,"1,805"
+Middlesex (pt.),Waltham,Waltham,1,1,5,"1,113",599,"1,809"
+Middlesex (pt.),Waltham,Waltham,1,2,5,"1,243",728,"2,055"
+Middlesex (pt.),Waltham,Waltham,2,1,5,"1,206",567,"1,861"
+Middlesex (pt.),Waltham,Waltham,2,2,5,963,329,"1,374"
+Middlesex (pt.),Waltham,Waltham,3,1,5,"1,055",835,"1,966"
+Middlesex (pt.),Waltham,Waltham,3,2,5,"1,120",624,"1,833"
+Middlesex (pt.),Waltham,Waltham,4,1,5,"1,143",698,"1,938"
+Middlesex (pt.),Waltham,Waltham,4,2,5,285,151,454
+Middlesex (pt.),Waltham,Waltham,5,1,5,"1,182",476,"1,750"
+Middlesex (pt.),Waltham,Waltham,5,2,5,"1,013",317,"1,387"
+Middlesex (pt.),Waltham,Waltham,6,1,5,"1,055",377,"1,514"
+Middlesex (pt.),Waltham,Waltham,6,2,5,664,230,939
+Middlesex (pt.),Waltham,Waltham,7,1,5,"1,055",506,"1,655"
+Middlesex (pt.),Waltham,Waltham,7,2,5,496,105,630
+Middlesex (pt.),Waltham,Waltham,8,1,5,"1,034",267,"1,380"
+Middlesex (pt.),Waltham,Waltham,8,2,5,"1,042",341,"1,473"
+Middlesex (pt.),Waltham,Waltham,9,1,5,853,199,"1,112"
+Middlesex (pt.),Waltham,Waltham,9,2,5,833,243,"1,149"
+Hampshire (pt.),Ware,Ware,-,A,2,616,520,"1,247"
+Hampshire (pt.),Ware,Ware,-,B,2,541,733,"1,365"
+Hampshire (pt.),Ware,Ware,-,C,2,696,936,"1,750"
+Plymouth (pt.),Wareham,Wareham,-,1,9,912,784,"1,797"
+Plymouth (pt.),Wareham,Wareham,-,2,9,981,788,"1,885"
+Plymouth (pt.),Wareham,Wareham,-,3,9,962,865,"1,935"
+Plymouth (pt.),Wareham,Wareham,-,4,9,854,868,"1,832"
+Plymouth (pt.),Wareham,Wareham,-,5,9,942,959,"2,033"
+Plymouth (pt.),Wareham,Wareham,-,6,9,784,840,"1,733"
+Worcester (pt.),Warren,Warren,-,A,1,653,948,"1,730"
+Worcester (pt.),Warren,Warren,-,B,1,251,318,621
+Franklin (pt.),Warwick,Warwick,-,1,2,271,142,457
+Berkshire,Washington,Washington,-,1,1,217,89,320
+Middlesex (pt.),Watertown,Watertown,-,1,5,883,297,"1,232"
+Middlesex (pt.),Watertown,Watertown,-,2,5,"1,058",306,"1,440"
+Middlesex (pt.),Watertown,Watertown,-,3,5,"1,208",291,"1,582"
+Middlesex (pt.),Watertown,Watertown,-,4,5,"1,345",264,"1,684"
+Middlesex (pt.),Watertown,Watertown,-,5,5,"1,063",263,"1,399"
+Middlesex (pt.),Watertown,Watertown,-,6,5,"1,035",293,"1,406"
+Middlesex (pt.),Watertown,Watertown,-,7,5,"1,160",374,"1,614"
+Middlesex (pt.),Watertown,Watertown,-,8,5,"1,168",379,"1,635"
+Middlesex (pt.),Watertown,Watertown,-,9,5,999,270,"1,354"
+Middlesex (pt.),Watertown,Watertown,-,10,5,"1,377",498,"1,984"
+Middlesex (pt.),Watertown,Watertown,-,11,5,929,402,"1,399"
+Middlesex (pt.),Watertown,Watertown,-,12,5,941,304,"1,330"
+Middlesex (pt.),Wayland,Wayland,-,1,5,"1,626",418,"2,155"
+Middlesex (pt.),Wayland,Wayland,-,2,5,"1,436",432,"1,994"
+Middlesex (pt.),Wayland,Wayland,-,3,5,"1,471",382,"1,952"
+Middlesex (pt.),Wayland,Wayland,-,4,5,"1,581",452,"2,169"
+Worcester (pt.),Webster,Webster,-,1,2,586,593,"1,276"
+Worcester (pt.),Webster,Webster,-,2,2,482,447,"1,001"
+Worcester (pt.),Webster,Webster,-,3,2,553,638,"1,289"
+Worcester (pt.),Webster,Webster,-,4,2,783,"1,141","2,047"
+Worcester (pt.),Webster,Webster,-,5,2,715,756,"1,590"
+Norfolk (pt.),Wellesley,Wellesley,-,A,4,"1,465",428,"1,990"
+Norfolk (pt.),Wellesley,Wellesley,-,B,4,"1,600",482,"2,187"
+Norfolk (pt.),Wellesley,Wellesley,-,C,4,"1,290",594,"1,999"
+Norfolk (pt.),Wellesley,Wellesley,-,D,4,"1,679",433,"2,213"
+Norfolk (pt.),Wellesley,Wellesley,-,E,4,"1,340",427,"1,876"
+Norfolk (pt.),Wellesley,Wellesley,-,F,4,903,256,"1,262"
+Norfolk (pt.),Wellesley,Wellesley,-,G,4,935,136,"1,105"
+Norfolk (pt.),Wellesley,Wellesley,-,H,4,"1,356",479,"1,958"
+Barnstable,Wellfleet,Wellfleet,-,1,9,"1,554",515,"2,215"
+Franklin (pt.),Wendell,Wendell,-,1,2,402,104,575
+Essex (pt.),Wenham,Wenham,-,1,6,"1,368",774,"2,358"
+Worcester (pt.),West Boylston,W. Boylston,-,1,2,932,771,"1,818"
+Worcester (pt.),West Boylston,W. Boylston,-,2,2,"1,204","1,067","2,445"
+Plymouth (pt.),West Bridgewater,W. Bridgewater,-,1,8,799,"1,122","2,070"
+Plymouth (pt.),West Bridgewater,W. Bridgewater,-,2,8,824,"1,028","1,981"
+Worcester (pt.),West Brookfield,W. Brookfield,-,1,2,869,"1,008","2,028"
+Essex (pt.),West Newbury,W. Newbury,-,1,6,"1,620","1,020","2,854"
+Hampden (pt.),West Springfield,W. Springfield,-,1,1,458,246,769
+Hampden (pt.),West Springfield,W. Springfield,-,2,1,576,373,"1,022"
+Hampden (pt.),West Springfield,W. Springfield,-,3,1,675,584,"1,339"
+Hampden (pt.),West Springfield,W. Springfield,-,4,1,776,674,"1,580"
+Hampden (pt.),West Springfield,W. Springfield,-,5,1,929,"1,044","2,109"
+Hampden (pt.),West Springfield,W. Springfield,-,6,1,858,993,"1,966"
+Hampden (pt.),West Springfield,W. Springfield,-,7,1,807,"1,082","2,005"
+Hampden (pt.),West Springfield,W. Springfield,-,8,1,632,541,"1,255"
+Berkshire,West Stockbridge,W. Stockbridge,-,1,1,659,178,881
+Dukes,West Tisbury,W. Tisbury,-,1,9,"1,688",329,"2,136"
+Worcester (pt.),Westborough,Westborough,-,1,2,852,399,"1,336"
+Worcester (pt.),Westborough,Westborough,-,2,2,974,437,"1,500"
+Worcester (pt.),Westborough,Westborough,-,3,2,"1,257",523,"1,933"
+Worcester (pt.),Westborough,Westborough,-,4,2,"1,517",676,"2,332"
+Worcester (pt.),Westborough,Westborough,-,5,2,"1,423",717,"2,298"
+Hampden (pt.),Westfield,Westfield,1,A,1,786,961,"1,856"
+Hampden (pt.),Westfield,Westfield,1,B,1,667,868,"1,632"
+Hampden (pt.),Westfield,Westfield,2,A,1,531,343,965
+Hampden (pt.),Westfield,Westfield,2,B,1,655,616,"1,393"
+Hampden (pt.),Westfield,Westfield,3,A,1,512,351,965
+Hampden (pt.),Westfield,Westfield,3,B,1,700,681,"1,523"
+Hampden (pt.),Westfield,Westfield,4,A,1,595,442,"1,116"
+Hampden (pt.),Westfield,Westfield,4,B,1,893,"1,022","2,049"
+Hampden (pt.),Westfield,Westfield,5,A,1,830,"1,035","2,012"
+Hampden (pt.),Westfield,Westfield,5,B,1,753,"1,076","1,960"
+Hampden (pt.),Westfield,Westfield,6,A,1,670,942,"1,754"
+Hampden (pt.),Westfield,Westfield,6,B,1,633,684,"1,392"
+Middlesex (pt.),Westford,Westford,-,1,3,"1,497",792,"2,456"
+Middlesex (pt.),Westford,Westford,-,2,3,"1,334",815,"2,337"
+Middlesex (pt.),Westford,Westford,-,3,3,"1,266",854,"2,294"
+Middlesex (pt.),Westford,Westford,-,4,3,"1,352",677,"2,188"
+Middlesex (pt.),Westford,Westford,-,5,3,"1,242",813,"2,221"
+Middlesex (pt.),Westford,Westford,-,6,3,"1,163",755,"2,048"
+Hampshire (pt.),Westhampton,Westhampton,-,1,1,629,408,"1,110"
+Worcester (pt.),Westminster,Westminster,-,1,3,964,"1,077","2,218"
+Worcester (pt.),Westminster,Westminster,-,2,3,994,"1,088","2,249"
+Middlesex (pt.),Weston,Weston,-,1,5,"1,210",377,"1,697"
+Middlesex (pt.),Weston,Weston,-,2,5,"1,110",418,"1,631"
+Middlesex (pt.),Weston,Weston,-,3,5,997,391,"1,484"
+Middlesex (pt.),Weston,Weston,-,4,5,"1,051",462,"1,593"
+Bristol (pt.),Westport,Westport,-,A,9,795,829,"1,681"
+Bristol (pt.),Westport,Westport,-,B,9,"1,006",935,"2,027"
+Bristol (pt.),Westport,Westport,-,C,9,735,799,"1,616"
+Bristol (pt.),Westport,Westport,-,D,9,800,752,"1,627"
+Bristol (pt.),Westport,Westport,-,E,9,"1,047",970,"2,121"
+Norfolk (pt.),Westwood,Westwood,-,1,8,"1,410",789,"2,349"
+Norfolk (pt.),Westwood,Westwood,-,2,8,"1,400",809,"2,349"
+Norfolk (pt.),Westwood,Westwood,-,3,8,"1,381",731,"2,254"
+Norfolk (pt.),Westwood,Westwood,-,4,8,"1,128",889,"2,138"
+Norfolk (pt.),Weymouth,Weymouth,-,1,8,848,640,"1,567"
+Norfolk (pt.),Weymouth,Weymouth,-,2,8,931,747,"1,765"
+Norfolk (pt.),Weymouth,Weymouth,-,3,8,850,829,"1,788"
+Norfolk (pt.),Weymouth,Weymouth,-,4,8,837,695,"1,625"
+Norfolk (pt.),Weymouth,Weymouth,-,5,8,843,495,"1,425"
+Norfolk (pt.),Weymouth,Weymouth,-,6,8,960,692,"1,740"
+Norfolk (pt.),Weymouth,Weymouth,-,7,8,834,619,"1,535"
+Norfolk (pt.),Weymouth,Weymouth,-,8,8,870,618,"1,580"
+Norfolk (pt.),Weymouth,Weymouth,-,9,8,921,758,"1,768"
+Norfolk (pt.),Weymouth,Weymouth,-,10,8,684,493,"1,229"
+Norfolk (pt.),Weymouth,Weymouth,-,11,8,797,691,"1,580"
+Norfolk (pt.),Weymouth,Weymouth,-,12,8,869,733,"1,684"
+Norfolk (pt.),Weymouth,Weymouth,-,13,8,782,429,"1,259"
+Norfolk (pt.),Weymouth,Weymouth,-,14,8,776,533,"1,352"
+Norfolk (pt.),Weymouth,Weymouth,-,15,8,904,716,"1,722"
+Norfolk (pt.),Weymouth,Weymouth,-,16,8,917,858,"1,874"
+Norfolk (pt.),Weymouth,Weymouth,-,17,8,733,499,"1,325"
+Norfolk (pt.),Weymouth,Weymouth,-,18,8,"1,042",938,"2,102"
+Franklin (pt.),Whately,Whately,-,1,2,582,328,995
+Plymouth (pt.),Whitman,Whitman,-,1,8,940,939,"2,036"
+Plymouth (pt.),Whitman,Whitman,-,2,8,766,938,"1,822"
+Plymouth (pt.),Whitman,Whitman,-,3,8,838,"1,052","2,029"
+Plymouth (pt.),Whitman,Whitman,-,4,8,849,886,"1,876"
+Hampden (pt.),Wilbraham,Wilbraham,-,A,1,982,999,"2,094"
+Hampden (pt.),Wilbraham,Wilbraham,-,B,1,955,929,"2,009"
+Hampden (pt.),Wilbraham,Wilbraham,-,C,1,863,"1,029","1,993"
+Hampden (pt.),Wilbraham,Wilbraham,-,D,1,944,"1,053","2,131"
+Hampshire (pt.),Williamsburg,Williamsburg,-,1,1,"1,207",347,"1,681"
+Berkshire,Williamstown,Williamstown,-,1,1,"1,162",224,"1,436"
+Berkshire,Williamstown,Williamstown,-,2,1,580,51,664
+Berkshire,Williamstown,Williamstown,-,3,1,"1,174",203,"1,436"
+Middlesex (pt.),Wilmington,Wilmington,-,1,6,"1,000",980,"2,100"
+Middlesex (pt.),Wilmington,Wilmington,-,2,6,995,"1,010","2,107"
+Middlesex (pt.),Wilmington,Wilmington,-,3,6,993,987,"2,096"
+Middlesex (pt.),Wilmington,Wilmington,-,4,6,"1,073","1,093","2,309"
+Middlesex (pt.),Wilmington,Wilmington,-,5,6,"1,078","1,048","2,247"
+Middlesex (pt.),Wilmington,Wilmington,-,6,6,"1,066","1,049","2,250"
+Worcester (pt.),Winchendon (pt.),Winchendon,-,1,2,398,602,"1,092"
+Worcester (pt.),Winchendon (pt.),Winchendon,-,1A,3,166,156,348
+Worcester (pt.),Winchendon (pt.),Winchendon,-,2,3,618,786,"1,544"
+Worcester (pt.),Winchendon (pt.),Winchendon,-,3,3,607,768,"1,500"
+Middlesex (pt.),Winchester,Winchester,-,1,5,"1,066",459,"1,598"
+Middlesex (pt.),Winchester,Winchester,-,2,5,938,399,"1,422"
+Middlesex (pt.),Winchester,Winchester,-,3,5,"1,245",341,"1,688"
+Middlesex (pt.),Winchester,Winchester,-,4,5,"1,131",477,"1,705"
+Middlesex (pt.),Winchester,Winchester,-,5,5,924,584,"1,593"
+Middlesex (pt.),Winchester,Winchester,-,6,5,935,553,"1,581"
+Middlesex (pt.),Winchester,Winchester,-,7,5,"1,069",484,"1,669"
+Middlesex (pt.),Winchester,Winchester,-,8,5,754,404,"1,219"
+Berkshire,Windsor,Windsor,-,1,1,313,159,519
+Suffolk (pt.),Winthrop,Winthrop,-,1,5,860,754,"1,683"
+Suffolk (pt.),Winthrop,Winthrop,-,2,5,803,665,"1,555"
+Suffolk (pt.),Winthrop,Winthrop,-,3,5,924,610,"1,617"
+Suffolk (pt.),Winthrop,Winthrop,-,4,5,806,524,"1,371"
+Suffolk (pt.),Winthrop,Winthrop,-,5,5,884,706,"1,669"
+Suffolk (pt.),Winthrop,Winthrop,-,6,5,917,593,"1,599"
+Middlesex (pt.),Woburn,Woburn,1,1,5,762,429,"1,254"
+Middlesex (pt.),Woburn,Woburn,1,2,5,819,591,"1,482"
+Middlesex (pt.),Woburn,Woburn,2,1,5,790,546,"1,401"
+Middlesex (pt.),Woburn,Woburn,2,2,5,703,353,"1,128"
+Middlesex (pt.),Woburn,Woburn,3,1,5,682,585,"1,350"
+Middlesex (pt.),Woburn,Woburn,3,2,5,864,765,"1,707"
+Middlesex (pt.),Woburn,Woburn,4,1,5,837,768,"1,682"
+Middlesex (pt.),Woburn,Woburn,4,2,5,791,512,"1,363"
+Middlesex (pt.),Woburn,Woburn,5,1,5,979,535,"1,603"
+Middlesex (pt.),Woburn,Woburn,5,2,5,814,707,"1,591"
+Middlesex (pt.),Woburn,Woburn,6,1,5,565,313,934
+Middlesex (pt.),Woburn,Woburn,6,2,5,728,674,"1,466"
+Middlesex (pt.),Woburn,Woburn,7,1,5,844,846,"1,775"
+Middlesex (pt.),Woburn,Woburn,7,2,5,737,718,"1,523"
+Worcester (pt.),Worcester,Worcester,1,1,2,"1,300",688,"2,110"
+Worcester (pt.),Worcester,Worcester,1,2,2,"1,260",735,"2,116"
+Worcester (pt.),Worcester,Worcester,1,3,2,724,416,"1,209"
+Worcester (pt.),Worcester,Worcester,1,4,2,"1,352",558,"2,028"
+Worcester (pt.),Worcester,Worcester,1,5,2,"1,054",643,"1,810"
+Worcester (pt.),Worcester,Worcester,2,1,2,"1,124",549,"1,787"
+Worcester (pt.),Worcester,Worcester,2,2,2,"1,138",589,"1,862"
+Worcester (pt.),Worcester,Worcester,2,3,2,"1,043",542,"1,695"
+Worcester (pt.),Worcester,Worcester,2,4,2,"1,126",269,"1,461"
+Worcester (pt.),Worcester,Worcester,2,5,2,734,95,852
+Worcester (pt.),Worcester,Worcester,3,1,2,902,345,"1,325"
+Worcester (pt.),Worcester,Worcester,3,2,2,397,103,547
+Worcester (pt.),Worcester,Worcester,3,3,2,826,337,"1,236"
+Worcester (pt.),Worcester,Worcester,3,4,2,730,182,958
+Worcester (pt.),Worcester,Worcester,3,5,2,894,363,"1,309"
+Worcester (pt.),Worcester,Worcester,4,1,2,687,161,884
+Worcester (pt.),Worcester,Worcester,4,2,2,726,377,"1,172"
+Worcester (pt.),Worcester,Worcester,4,3,2,716,123,875
+Worcester (pt.),Worcester,Worcester,4,4,2,721,429,"1,228"
+Worcester (pt.),Worcester,Worcester,4,5,2,930,446,"1,472"
+Worcester (pt.),Worcester,Worcester,5,1,2,750,239,"1,029"
+Worcester (pt.),Worcester,Worcester,5,2,2,951,517,"1,538"
+Worcester (pt.),Worcester,Worcester,5,3,2,"1,066",717,"1,895"
+Worcester (pt.),Worcester,Worcester,5,4,2,963,541,"1,589"
+Worcester (pt.),Worcester,Worcester,5,5,2,913,609,"1,603"
+Worcester (pt.),Worcester,Worcester,6,1,2,628,120,787
+Worcester (pt.),Worcester,Worcester,6,2,2,825,229,"1,102"
+Worcester (pt.),Worcester,Worcester,6,3,2,773,285,"1,139"
+Worcester (pt.),Worcester,Worcester,6,4,2,366,165,569
+Worcester (pt.),Worcester,Worcester,6,5,2,874,450,"1,390"
+Worcester (pt.),Worcester,Worcester,7,1,2,"1,055",387,"1,534"
+Worcester (pt.),Worcester,Worcester,7,2,2,752,272,"1,094"
+Worcester (pt.),Worcester,Worcester,7,3,2,"1,011",457,"1,537"
+Worcester (pt.),Worcester,Worcester,7,4,2,893,460,"1,435"
+Worcester (pt.),Worcester,Worcester,7,5,2,890,557,"1,553"
+Worcester (pt.),Worcester,Worcester,8,1,2,571,156,761
+Worcester (pt.),Worcester,Worcester,8,2,2,627,115,766
+Worcester (pt.),Worcester,Worcester,8,3,2,575,63,701
+Worcester (pt.),Worcester,Worcester,8,4,2,796,169,"1,015"
+Worcester (pt.),Worcester,Worcester,8,5,2,603,226,879
+Worcester (pt.),Worcester,Worcester,9,1,2,"1,038",365,"1,511"
+Worcester (pt.),Worcester,Worcester,9,2,2,"1,259",466,"1,824"
+Worcester (pt.),Worcester,Worcester,9,3,2,808,407,"1,307"
+Worcester (pt.),Worcester,Worcester,9,4,2,"1,155",603,"1,861"
+Worcester (pt.),Worcester,Worcester,9,5,2,"1,149",600,"1,847"
+Worcester (pt.),Worcester,Worcester,10,1,2,651,180,874
+Worcester (pt.),Worcester,Worcester,10,2,2,676,124,848
+Worcester (pt.),Worcester,Worcester,10,3,2,777,89,903
+Worcester (pt.),Worcester,Worcester,10,4,2,612,101,743
+Worcester (pt.),Worcester,Worcester,10,5,2,693,113,828
+Hampshire (pt.),Worthington,Worthington,-,1,1,430,229,746
+Norfolk (pt.),Wrentham,Wrentham,-,1,4,950,"1,011","2,123"
+Norfolk (pt.),Wrentham,Wrentham,-,2,4,"1,016","1,062","2,233"
+Norfolk (pt.),Wrentham,Wrentham,-,3,4,"1,086",920,"2,158"
+Barnstable,Yarmouth,Yarmouth,-,1,9,"1,204",854,"2,171"
+Barnstable,Yarmouth,Yarmouth,-,2,9,"1,155",912,"2,188"
+Barnstable,Yarmouth,Yarmouth,-,3,9,904,663,"1,648"
+Barnstable,Yarmouth,Yarmouth,-,4,9,"1,002",860,"1,972"
+Barnstable,Yarmouth,Yarmouth,-,5,9,881,797,"1,765"
+Barnstable,Yarmouth,Yarmouth,-,6,9,907,753,"1,755"
+Barnstable,Yarmouth,Yarmouth,-,7,9,"1,251","1,009","2,380"

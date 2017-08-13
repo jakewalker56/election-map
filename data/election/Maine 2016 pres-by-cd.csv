@@ -1,0 +1,27 @@
+County,ShortName,CD,Clinton,Trump,Total,
+Androscoggin,Androscoggin,2,23205,28282,55687,
+Arookstook,Arookstook,2,13500,19457,35137,
+Cumberland ,Cumberland ,1,103857,57821,172410,
+Franklin,Franklin,2,7076,7933,16497,
+Hancock,Hancock,2,16254,13732,32202,
+Knox,Knox,1,12549,9166,23206,
+Lincoln,Lincoln,1,10328,9746,21546,
+Oxford,Oxford,2,12276,16241,31239,
+Penobscot,Penobscot,2,33117,41703,80648,
+Piscataquis,Piscataquis,2,3124,5416,9188,
+Sagadahoc,Sagadahoc,1,10755,9322,21700,
+Somerset,Somerset,2,9169,15030,26088,
+Waldo,Waldo,2,10529,10398,22747,
+Washington,Washington,2,6127,9111,16405,
+York,York,1,56319,50501,114615,
+,,,,,,
+,Split Counties,,,,,
+Kennebec (pt.),Kennebec,1,18806,17836,39654,3012
+Kennebec (pt.),Kennebec,2,10496,13839,26375,2040
+,,,,,,
+,Split E/A/P Votes,,,,,
+Kennebec (pt.),Kennebec,1,160,35,212,18
+Kennebec (pt.),Kennebec,2,89,27,128,12
+,,,,,,
+Total E/A/P Votes,,,,,,
+Kennebec (pt.),Kennebec,EV,249,61,340,30

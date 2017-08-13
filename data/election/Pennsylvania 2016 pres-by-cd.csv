@@ -1,0 +1,208 @@
+County,ShortName,CD,Clinton,Trump,Total,
+Adams,Adams,4,"14,219","31,423","47,489",
+Armstrong,Armstrong,3,"7,178","23,484","31,618",
+Beaver,Beaver,12,"32,531","48,167","83,571",
+Bedford,Bedford,9,"3,645","19,552","23,637",
+Blair,Blair,9,"13,958","39,135","54,909",
+Bradford,Bradford,10,"6,369","18,141","25,708",
+Bucks,Bucks,8,"167,060","164,361","344,297",
+Butler,Butler,3,"28,584","64,428","97,071",
+Cameron,Cameron,5,531,"1,589","2,186",
+Centre,Centre,5,"37,088","35,274","76,148",
+Clearfield,Clearfield,5,"8,200","24,932","34,271",
+Clinton,Clinton,5,"4,744","10,022","15,394",
+Columbia,Columbia,11,"8,934","18,004","28,228",
+Elk,Elk,5,"3,853","10,025","14,426",
+Fayette,Fayette,9,"17,946","34,590","53,767",
+Forest,Forest,5,626,"1,683","2,401",
+Franklin,Franklin,9,"17,465","49,768","69,731",
+Fulton,Fulton,9,912,"5,694","6,771",
+Indiana,Indiana,9,"11,528","24,888","37,770",
+Jefferson,Jefferson,5,"3,650","15,192","19,478",
+Juniata,Juniata,10,"1,821","8,273","10,454",
+Lehigh,Lehigh,15,"81,324","73,690","160,993",
+Lycoming,Lycoming,10,"13,020","35,627","50,565",
+McKean,McKean,5,"4,025","11,635","16,296",
+Mercer,Mercer,3,"18,733","31,544","52,309",
+Mifflin,Mifflin,10,"3,877","14,094","18,601",
+Montour,Montour,11,"2,857","5,288","8,556",
+Pike,Pike,10,"9,256","16,056","26,101",
+Potter,Potter,5,"1,302","6,251","7,784",
+Schuylkill,Schuylkill,17,"16,770","44,001","62,869",
+Snyder,Snyder,10,"4,002","11,725","16,363",
+Sullivan,Sullivan,10,750,"2,291","3,136",
+Susquehanna,Susquehanna,10,"5,123","12,891","18,863",
+Union,Union,10,"6,180","10,622","17,468",
+Venango,Venango,5,"6,309","16,021","23,348",
+Warren,Warren,5,"5,145","12,477","18,434",
+Wayne,Wayne,10,"7,008","16,244","24,018",
+Wyoming,Wyoming,11,"3,811","8,837","13,144",
+York,York,4,"68,524","128,528","205,986",
+,,,,,,
+,Split Counties,,,,,
+Allegheny (pt.),Allegheny,12,"65,132","75,986","146,763","5,645"
+Allegheny (pt.),Allegheny,14,"227,876","103,491","343,224","11,856"
+Allegheny (pt.),Allegheny,18,"73,926","79,648","159,021","5,448"
+Berks (pt.),Berks,6,"34,107","49,405","87,428","3,916"
+Berks (pt.),Berks,7,"10,197","18,627","30,195","1,371"
+Berks (pt.),Berks,15,"7,699","16,757","25,704","1,248"
+Berks (pt.),Berks,16,"26,434","11,837","39,738","1,467"
+Cambria (pt.),Cambria,9,"3,058","9,097","12,520",365
+Cambria (pt.),Cambria,12,"15,809","33,161","50,552","1,582"
+Carbon (pt.),Carbon,11,"2,503","5,610","8,399",286
+Carbon (pt.),Carbon,17,"6,433","13,133","20,377",811
+Chester (pt.),Chester,6,"93,393","69,968","170,418","7,057"
+Chester (pt.),Chester,7,"23,584","27,174","52,875","2,117"
+Chester (pt.),Chester,16,"24,705","18,972","45,507","1,830"
+Clarion (pt.),Clarion,3,"1,131","4,348","5,655",176
+Clarion (pt.),Clarion,5,"3,142","8,228","11,880",510
+Crawford (pt.),Crawford,3,"10,285","23,799","35,528","1,444"
+Crawford (pt.),Crawford,5,686,"1,188","1,964",90
+Cumberland (pt.),Cumberland,4,"27,571","36,039","66,624","3,014"
+Cumberland (pt.),Cumberland,11,"19,514","33,037","54,993","2,442"
+Dauphin (pt.),Dauphin,4,"15,423","2,580","18,562",559
+Dauphin (pt.),Dauphin,11,"35,791","38,633","77,597","3,173"
+Dauphin (pt.),Dauphin,15,"13,388","19,633","34,592","1,571"
+Delaware (pt.),Delaware,1,"65,290","14,911","82,059","1,858"
+Delaware (pt.),Delaware,7,"112,112","95,756","215,575","7,707"
+Erie (pt.),Erie,3,"36,259","29,808","69,053","2,986"
+Erie (pt.),Erie,5,"21,853","30,261","54,626","2,512"
+Greene (pt.),Greene,9,"2,195","4,981","7,381",205
+Greene (pt.),Greene,18,"2,287","5,868","8,383",228
+Huntingdon (pt.),Huntingdon,5,"3,788","10,098","14,417",531
+Huntingdon (pt.),Huntingdon,9,751,"4,396","5,289",142
+Lackawanna (pt.),Lackawanna,10,"14,087","17,832","32,976","1,057"
+Lackawanna (pt.),Lackawanna,17,"37,896","30,552","70,480","2,032"
+Lancaster (pt.),Lancaster,7,"2,046","6,960","9,338",332
+Lancaster (pt.),Lancaster,16,"89,047","130,954","231,774","11,773"
+Lawrence (pt.),Lawrence,3,"11,393","20,549","32,969","1,027"
+Lawrence (pt.),Lawrence,12,"2,616","4,879","7,784",289
+Lebanon (pt.),Lebanon,6,"8,541","15,907","25,421",973
+Lebanon (pt.),Lebanon,15,"10,412","24,618","36,424","1,394"
+Luzerne (pt.),Luzerne,11,"33,213","58,000","93,851","2,638"
+Luzerne (pt.),Luzerne,17,"19,238","20,688","41,132","1,206"
+Monroe (pt.),Monroe,10,"12,594","10,869","24,359",896
+Monroe (pt.),Monroe,17,"21,324","22,517","45,393","1,552"
+Montgomery (pt.),Montgomery,2,"30,097","8,289","39,386","1,000"
+Montgomery (pt.),Montgomery,6,"41,598","40,060","85,287","3,629"
+Montgomery (pt.),Montgomery,7,"42,660","32,938","78,356","2,758"
+Montgomery (pt.),Montgomery,8,"18,625","22,246","42,728","1,857"
+Montgomery (pt.),Montgomery,13,"123,102","59,198","188,930","6,630"
+Northampton (pt.),Northampton,15,"35,236","38,893","77,129","3,000"
+Northampton (pt.),Northampton,17,"31,039","32,843","66,393","2,511"
+Northumberland (pt.),Northumberland,10,"3,052","8,239","11,769",478
+Northumberland (pt.),Northumberland,11,"6,565","16,890","24,374",919
+Perry (pt.),Perry,10,"2,396","8,456","11,336",484
+Perry (pt.),Perry,11,"2,236","7,160","9,822",426
+Philadelphia (pt.),Philadelphia,1,"185,634","42,610","233,546","5,302"
+Philadelphia (pt.),Philadelphia,2,"304,225","19,778","330,370","6,367"
+Philadelphia (pt.),Philadelphia,13,"94,166","46,360","143,715","3,189"
+Somerset (pt.),Somerset,9,"1,623","7,991","9,875",261
+Somerset (pt.),Somerset,12,"5,753","19,388","25,898",757
+Tioga (pt.),Tioga,5,196,860,"1,090",34
+Tioga (pt.),Tioga,10,"3,705","12,754","17,235",776
+Washington (pt.),Washington,9,"8,003","11,341","20,066",722
+Washington (pt.),Washington,18,"28,319","50,045","81,384","3,020"
+Westmoreland (pt.),Westmoreland,9,"2,179","1,948","4,221",94
+Westmoreland (pt.),Westmoreland,12,"15,641","31,424","48,571","1,506"
+Westmoreland (pt.),Westmoreland,14,"3,676","3,609","7,550",265
+Westmoreland (pt.),Westmoreland,18,"38,173","79,541","121,709","3,995"
+,,,,,"28,776",
+,Split E/A/P Votes,,,,,
+Allegheny (pt.),Allegheny,12,0,0,0,0
+Allegheny (pt.),Allegheny,14,0,0,0,0
+Allegheny (pt.),Allegheny,18,0,0,0,0
+Berks (pt.),Berks,6,0,0,0,0
+Berks (pt.),Berks,7,0,0,0,0
+Berks (pt.),Berks,15,0,0,0,0
+Berks (pt.),Berks,16,0,0,0,0
+Cambria (pt.),Cambria,9,0,0,0,0
+Cambria (pt.),Cambria,12,0,0,0,0
+Carbon (pt.),Carbon,11,0,0,0,0
+Carbon (pt.),Carbon,17,0,0,0,0
+Chester (pt.),Chester,6,0,0,0,0
+Chester (pt.),Chester,7,0,0,0,0
+Chester (pt.),Chester,16,0,0,0,0
+Clarion (pt.),Clarion,3,0,0,0,0
+Clarion (pt.),Clarion,5,0,0,0,0
+Crawford (pt.),Crawford,3,0,0,0,0
+Crawford (pt.),Crawford,5,0,0,0,0
+Cumberland (pt.),Cumberland,4,0,0,0,0
+Cumberland (pt.),Cumberland,11,0,0,0,0
+Dauphin (pt.),Dauphin,4,25,1,26,0
+Dauphin (pt.),Dauphin,11,58,11,68,0
+Dauphin (pt.),Dauphin,15,22,5,27,0
+Delaware (pt.),Delaware,1,0,0,0,0
+Delaware (pt.),Delaware,7,0,0,0,0
+Erie (pt.),Erie,3,0,0,0,0
+Erie (pt.),Erie,5,0,0,0,0
+Greene (pt.),Greene,9,0,0,0,0
+Greene (pt.),Greene,18,0,0,0,0
+Huntingdon (pt.),Huntingdon,5,0,0,0,0
+Huntingdon (pt.),Huntingdon,9,0,0,0,0
+Lackawanna (pt.),Lackawanna,10,0,0,0,0
+Lackawanna (pt.),Lackawanna,17,0,0,0,0
+Lancaster (pt.),Lancaster,7,0,0,0,0
+Lancaster (pt.),Lancaster,16,0,0,0,0
+Lawrence (pt.),Lawrence,3,0,0,0,0
+Lawrence (pt.),Lawrence,12,0,0,0,0
+Lebanon (pt.),Lebanon,6,0,0,0,0
+Lebanon (pt.),Lebanon,15,0,0,0,0
+Luzerne (pt.),Luzerne,11,0,0,0,0
+Luzerne (pt.),Luzerne,17,0,0,0,0
+Monroe (pt.),Monroe,10,0,0,0,0
+Monroe (pt.),Monroe,17,0,0,0,0
+Montgomery (pt.),Montgomery,2,0,0,0,0
+Montgomery (pt.),Montgomery,6,0,0,0,0
+Montgomery (pt.),Montgomery,7,0,0,0,0
+Montgomery (pt.),Montgomery,8,0,0,0,0
+Montgomery (pt.),Montgomery,13,0,0,0,0
+Northampton (pt.),Northampton,15,0,0,0,0
+Northampton (pt.),Northampton,17,0,0,0,0
+Northumberland (pt.),Northumberland,10,0,0,0,0
+Northumberland (pt.),Northumberland,11,0,0,0,0
+Perry (pt.),Perry,10,0,0,0,0
+Perry (pt.),Perry,11,0,0,0,0
+Philadelphia (pt.),Philadelphia,1,0,0,0,0
+Philadelphia (pt.),Philadelphia,2,0,0,0,0
+Philadelphia (pt.),Philadelphia,13,0,0,0,0
+Somerset (pt.),Somerset,9,0,0,0,0
+Somerset (pt.),Somerset,12,0,0,0,0
+Tioga (pt.),Tioga,5,0,0,0,0
+Tioga (pt.),Tioga,10,0,0,0,0
+Washington (pt.),Washington,9,0,0,0,0
+Washington (pt.),Washington,18,0,0,0,0
+Westmoreland (pt.),Westmoreland,9,0,0,0,0
+Westmoreland (pt.),Westmoreland,12,0,0,0,0
+Westmoreland (pt.),Westmoreland,14,0,0,0,0
+Westmoreland (pt.),Westmoreland,18,0,0,0,0
+,,,,,,
+Total E/A/P Votes,,,,,,
+Allegheny (pt.),Allegheny,EV,0,0,0,0
+Berks (pt.),Berks,EV,0,0,0,0
+Cambria (pt.),Cambria,EV,0,0,0,0
+Carbon (pt.),Carbon,EV,0,0,0,0
+Chester (pt.),Chester,EV,0,0,0,0
+Clarion (pt.),Clarion,EV,0,0,0,0
+Crawford (pt.),Crawford,EV,0,0,0,0
+Cumberland (pt.),Cumberland,EV,0,0,0,0
+Dauphin (pt.),Dauphin,EV,104,17,121,0
+Delaware (pt.),Delaware,EV,0,0,0,0
+Erie (pt.),Erie,EV,0,0,0,0
+Greene (pt.),Greene,EV,0,0,0,0
+Huntingdon (pt.),Huntingdon,EV,0,0,0,0
+Lackawanna (pt.),Lackawanna,EV,0,0,0,0
+Lancaster (pt.),Lancaster,EV,0,0,0,0
+Lawrence (pt.),Lawrence,EV,0,0,0,0
+Lebanon (pt.),Lebanon,EV,0,0,0,0
+Luzerne (pt.),Luzerne,EV,0,0,0,0
+Monroe (pt.),Monroe,EV,0,0,0,0
+Montgomery (pt.),Montgomery,EV,0,0,0,0
+Northampton (pt.),Northampton,EV,0,0,0,0
+Northumberland (pt.),Northumberland,EV,0,0,0,0
+Perry (pt.),Perry,EV,0,0,0,0
+Philadelphia (pt.),Philadelphia,EV,0,0,0,0
+Somerset (pt.),Somerset,EV,0,0,0,0
+Tioga (pt.),Tioga,EV,0,0,0,0
+Washington (pt.),Washington,EV,0,0,0,0
+Westmoreland (pt.),Westmoreland,EV,0,0,0,0

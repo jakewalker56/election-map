@@ -1,0 +1,159 @@
+County,ShortName,CD,Clinton,Trump,Total,
+Alamance,Alamance,6,29833,38815,70443,
+Alexander,Alexander,5,3767,13893,18097,
+Alleghany,Alleghany,5,1306,3814,5249,
+Anson,Anson,9,5859,4506,10494,
+Ashe,Ashe,5,3500,9412,13244,
+Avery,Avery,5,1689,6298,8153,
+Beaufort,Beaufort,3,8764,14543,23733,
+Bertie,Bertie,1,5778,3456,9304,
+Brunswick,Brunswick,7,23282,42720,67719,
+Burke,Burke,11,11251,26238,38477,
+Cabarrus,Cabarrus,8,35522,53818,92126,
+Caldwell,Caldwell,11,8425,26621,35895,
+Camden,Camden,3,1274,3546,4969,
+Carteret,Carteret,3,9939,26569,37421,
+Caswell,Caswell,6,4792,6026,11032,
+Chatham,Chatham,6,21065,17105,39300,
+Cherokee,Cherokee,11,2860,10844,14050,
+Chowan,Chowan,3,2992,4014,7168,
+Clay,Clay,11,1367,4437,5947,
+Cleveland,Cleveland,10,14964,28479,44293,
+Columbus,Columbus,7,9063,14272,23641,
+Craven,Craven,3,17630,27731,46571,
+Currituck,Currituck,3,2913,9163,12558,
+Dare,Dare,3,7222,11460,19356,
+Davidson,Davidson,13,18109,54317,74285,
+Davie,Davie,13,5270,15602,21503,
+Duplin,Duplin,7,8283,12217,20760,
+Edgecombe,Edgecombe,1,16224,8261,24769,
+Forsyth,Forsyth,5,94452,75991,175818,
+Franklin,Franklin,2,12874,16368,30019,
+Gaston,Gaston,10,31177,61798,95420,
+Gates,Gates,1,2385,2874,5367,
+Graham,Graham,11,768,3283,4125,
+Granville,Granville,1,12909,13591,27096,
+Greene,Greene,3,3605,4374,8064,
+Halifax,Halifax,1,15748,9031,25069,
+Harnett,Harnett,2,16737,27614,45603,
+Haywood,Haywood,11,10469,18928,30302,
+Henderson,Henderson,11,19827,35809,57262,
+Hertford,Hertford,1,6910,3099,10142,
+Hoke,Hoke,8,9726,7760,18063,
+Hyde,Hyde,3,965,1288,2295,
+Jackson,Jackson,11,7713,9870,18325,
+Jones,Jones,3,2065,2974,5098,
+Lee,Lee,6,10469,13712,24865,
+Lenoir,Lenoir,3,12660,13631,26692,
+Lincoln,Lincoln,10,9897,28806,39674,
+Macon,Macon,11,4876,12127,17470,
+Madison,Madison,11,3926,6783,11045,
+Martin,Martin,1,5846,5897,11908,
+McDowell,McDowell,11,4667,14568,19631,
+Mitchell,Mitchell,11,1596,6282,8016,
+Montgomery,Montgomery,8,4150,7130,11483,
+Moore,Moore,8,16328,30489,48172,
+Nash,Nash,2,23235,23319,47304,
+New Hanover,NewHanover,7,50979,55344,110272,
+Northampton,Northampton,1,6144,3582,9819,
+Onslow,Onslow,3,17512,37125,56563,
+Orange,Orange,4,59923,18557,80884,
+Pamlico,Pamlico,3,2448,4258,6830,
+Pasquotank,Pasquotank,3,8615,8180,17237,
+Pender,Pender,7,9354,17639,27676,
+Perquimans,Perquimans,3,2319,4177,6658,
+Person,Person,6,7833,11185,19437,
+Polk,Polk,10,3735,6768,10775,
+Randolph,Randolph,6,13194,49430,64027,
+Richmond,Richmond,9,8501,10383,19217,
+Robeson,Robeson,9,19004,20747,40554,
+Rockingham,Rockingham,6,14228,26830,41929,
+Rutherford,Rutherford,10,7512,21871,30007,
+Sampson,Sampson,7,10547,14838,25778,
+Scotland,Scotland,9,7319,6256,13829,
+Stanly,Stanly,8,7094,21964,29722,
+Stokes,Stokes,5,4665,17116,22352,
+Surry,Surry,5,7488,23671,31898,
+Swain,Swain,11,2196,3565,6001,
+Transylvania,Transylvania,11,6558,10520,17567,
+Tyrrell,Tyrrell,3,720,975,1723,
+Union,Union,9,34337,66707,104371,
+Vance,Vance,1,12229,7332,19855,
+Warren,Warren,1,6413,3214,9773,
+Washington,Washington,1,3510,2564,6139,
+Watauga,Watauga,5,14138,13697,29171,
+Wayne,Wayne,7,21770,27540,50273,
+Wilkes,Wilkes,5,6640,23755,31042,
+Yadkin,Yadkin,5,3160,13880,17438,
+Yancey,Yancey,11,3196,6385,9842,
+,,,,,,
+,Split Counties,,,,,
+Bladen (pt.),Bladen,7,"2,514","1,585","4,160",62
+Bladen (pt.),Bladen,9,"4,542","6,966","11,659",150
+Buncombe (pt.),Buncombe,10,"41,339","21,974","65,351","2,039"
+Buncombe (pt.),Buncombe,11,"34,111","33,741","70,100","2,247"
+Catawba (pt.),Catawba,5,"1,562","3,820","5,560",177
+Catawba (pt.),Catawba,10,"19,647","44,496","65,938","1,796"
+Cumberland (pt.),Cumberland,8,"54,921","34,213","91,725","2,591"
+Cumberland (pt.),Cumberland,9,"16,684","17,052","34,518",782
+Durham (pt.),Durham,1,"107,123","24,798","135,281","3,360"
+Durham (pt.),Durham,4,"13,524","3,471","17,622",627
+Guilford (pt.),Guilford,6,"47,311","38,284","87,820","2,225"
+Guilford (pt.),Guilford,13,"101,938","59,777","166,244","4,529"
+Iredell (pt.),Iredell,10,955,"2,591","3,638",91
+Iredell (pt.),Iredell,13,"23,779","52,163","78,035","2,094"
+Johnston (pt.),Johnston,2,"21,345","34,377","57,453","1,730"
+Johnston (pt.),Johnston,7,"7,017","19,995","27,628",617
+Mecklenburg (pt.),Mecklenburg,9,"49,708","53,784","107,524","4,032"
+Mecklenburg (pt.),Mecklenburg,12,"238,371","100,094","349,803","11,338"
+Pitt (pt.),Pitt,1,"22,321","10,822","34,096",954
+Pitt (pt.),Pitt,3,"19,407","24,825","45,439","1,206"
+Rowan (pt.),Rowan,8,"8,492","30,499","39,943",952
+Rowan (pt.),Rowan,13,"10,908","12,311","23,784",565
+Wake (pt.),Wake,2,"94,734","101,737","204,331","7,860"
+Wake (pt.),Wake,4,"208,002","94,345","313,947","11,600"
+Wilson (pt.),Wilson,1,"15,458","9,495","25,404",451
+Wilson (pt.),Wilson,2,"4,205","8,036","12,457",216
+,,,,,,
+,Split E/A/P Votes,,,,,
+Bladen (pt.),Bladen,7,0,0,0,0
+Bladen (pt.),Bladen,9,0,0,0,0
+Buncombe (pt.),Buncombe,10,0,0,0,0
+Buncombe (pt.),Buncombe,11,0,0,0,0
+Catawba (pt.),Catawba,5,1,1,1,0
+Catawba (pt.),Catawba,10,6,7,14,0
+Cumberland (pt.),Cumberland,8,0,0,0,0
+Cumberland (pt.),Cumberland,9,0,0,0,0
+Durham (pt.),Durham,1,535,71,617,10
+Durham (pt.),Durham,4,68,10,79,2
+Guilford (pt.),Guilford,6,0,0,0,0
+Guilford (pt.),Guilford,13,0,0,0,0
+Iredell (pt.),Iredell,10,0,0,0,0
+Iredell (pt.),Iredell,13,0,0,0,0
+Johnston (pt.),Johnston,2,0,0,0,0
+Johnston (pt.),Johnston,7,0,0,0,0
+Mecklenburg (pt.),Mecklenburg,9,1119,573,1723,31
+Mecklenburg (pt.),Mecklenburg,12,5364,1067,6518,87
+Pitt (pt.),Pitt,1,51,13,66,1
+Pitt (pt.),Pitt,3,45,31,76,1
+Rowan (pt.),Rowan,8,0,0,0,0
+Rowan (pt.),Rowan,13,0,0,0,0
+Wake (pt.),Wake,2,0,0,0,0
+Wake (pt.),Wake,4,0,0,0,0
+Wilson (pt.),Wilson,1,0,0,0,0
+Wilson (pt.),Wilson,2,0,0,0,0
+,,,,,,
+Total E/A/P Votes,,,,,,
+Bladen (pt.),Bladen,EV,0,0,0,0
+Buncombe (pt.),Buncombe,EV,0,0,0,0
+Catawba (pt.),Catawba,EV,7,8,15,0
+Cumberland (pt.),Cumberland,EV,0,0,0,0
+Durham (pt.),Durham,EV,603,81,696,12
+Guilford (pt.),Guilford,EV,0,0,0,0
+Iredell (pt.),Iredell,EV,0,0,0,0
+Johnston (pt.),Johnston,EV,0,0,0,0
+Mecklenburg (pt.),Mecklenburg,EV,"6,483","1,640","8,241",118
+Pitt (pt.),Pitt,EV,96,44,142,2
+Rowan (pt.),Rowan,EV,0,0,0,0
+Wake (pt.),Wake,EV,0,0,0,0
+Wilson (pt.),Wilson,EV,0,0,0,0
