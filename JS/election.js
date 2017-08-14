@@ -1,4 +1,3 @@
-//TODO: fix data analysis that shows negative black california republicans
 //TODO: add sources (including http://bl.ocks.org/michellechandra/0b2ce4923dc9b5809922)
 //TODO: add electoral differential map
 
@@ -9,6 +8,7 @@ var moneyFormat = d3.format('$.1s');
 var moneyFormat2 = d3.format('$,');
 var commaFormat = d3.format(',');
 var base_election_result = JSON.parse(JSON.stringify(election_tree))
+var base_electoral_map = {};
 
 var current_modifiers = [];
 
@@ -130,7 +130,7 @@ var current_modifiers = [];
             dem_votes += current_voter_map[d][i]["Clinton"][0]
             rep_2016_votes += base_election_result[d][i]["Trump"][0]
             dem_2016_votes += base_election_result[d][i]["Clinton"][0]
-          }
+          } 
 
           var visual_multiple = 10
           //if the ratio of dems is higher than it used to be, shift blue.  Otherwise shift red
@@ -138,6 +138,20 @@ var current_modifiers = [];
               color: ((dem_votes/(dem_votes + rep_votes) > dem_2016_votes / (dem_2016_votes + rep_2016_votes)) ? 
                       d3.interpolate("#FFFFFF", "#0000FF")(visual_multiple * (dem_votes/(dem_votes + rep_votes) - dem_2016_votes / (dem_2016_votes + rep_2016_votes))) :
                       d3.interpolate("#FFFFFF", "#FF0000")(visual_multiple * (dem_2016_votes / (dem_2016_votes + rep_2016_votes) - dem_votes/(dem_votes + rep_votes))))
+            }; 
+        } else if(mapview == "electoral-differential"){
+          
+          var rep_electoral = current_electoral_map[d]["rep"];
+          var dem_electoral = current_electoral_map[d]["dem"]; 
+          var base_rep_electoral = base_electoral_map[d]["rep"];
+          var base_dem_electoral = base_electoral_map[d]["dem"]; 
+          
+          sampleData[d]={rep:(rep_electoral - base_rep_electoral), dem:(dem_electoral - base_dem_electoral), 
+              color: ((rep_electoral > base_rep_electoral) ? 
+                      d3.color("#FF0000") :
+                        (dem_electoral > base_dem_electoral) ?
+                        d3.color("#0000FF") :
+                        d3.color("#FFFFFF"))
             }; 
         }
       });
@@ -264,6 +278,12 @@ var current_modifiers = [];
             dem_total = dem_total + electoral_votes
             current_electoral_map[state]["dem"] = electoral_votes
           }
+        }
+        //if there are no modifiers, store this electoral map globally so we can
+        //access it and do a diff later.  This happens once at the beginning of execution,
+        //so this map should always be filled out.
+        if (current_modifiers.length == 0){
+          base_electoral_map = JSON.parse(JSON.stringify(current_electoral_map))
         }
         return({"rep.votes" : rep_total, "dem.votes" : dem_total})
       } else
