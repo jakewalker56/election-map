@@ -1,6 +1,7 @@
 //TODO: fix data analysis that shows negative black california republicans
-//TODO: add sources
+//TODO: add sources (including http://bl.ocks.org/michellechandra/0b2ce4923dc9b5809922)
 //TODO: add electoral differential map
+
 
 var current_voter_map = {};
 var current_electoral_map = {};

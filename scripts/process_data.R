@@ -1,7 +1,8 @@
-#sourced from https://catalog.data.gov/dataset/2016-general-election-results-by-precinct-complete-ecanvass-dataset
-#https://www.census.gov/support/USACdataDownloads.html
+
+#https://www.census.gov/support/USACdataDownloads.html - not used
 #https://www.census.gov/mycd/
 #https://docs.google.com/spreadsheets/d/1VfkHtzBTP5gf4jAu8tcVQgsBJ1IDvXEHjuMqYlOgYbA/edit#gid=1474862967
+#http://www.cnn.com/election/results/exit-polls
 
 library(XLConnect)
 library(maps)
@@ -120,6 +121,11 @@ race_labels <- c(
   "Some other race",
   "Two or more races")
 
+labels <- list()
+labels[["race"]] <- race_labels
+labels[["gender"]] <- gender_labels
+labels[["age"]] <- age_labels
+
 national_population <- data.frame(CD=c(), Label=c(), Count=c(), State=c())
 national_ages <- data.frame(CD=c(), Label=c(), Count=c(), State=c())
 national_genders <- data.frame(CD=c(), Label=c(), Count=c(), State=c())
@@ -156,13 +162,14 @@ for(state in states){
       }
     for(label in race_labels) {
       count <- as.numeric(as.character(state_demographics[state_demographics$Title == label,district]))
-      #note Hispanic people sometimes self-identify as "white", sometimes as "other" 
-      #so we have to subtract this number from the white number somehow.  Basically we
-      #make something slightly better than a guess.
+      #note Hispanic people sometimes self-identify as "white", sometimes as "other", sometimes as "two or more races" 
+      #It is non-trivial to adjust the numbers to make sure all three categories are >0
+      #however, we can do it realtively easily for the two major categories.
+      #There is one specific district (NY - 15) for which this strategy fails, and we special case that at the end
       if(label == "White"){
         latino = as.numeric(as.character(state_demographics[state_demographics$Title == "Hispanic or Latino (of any race)",district]))
         other = as.numeric(as.character(state_demographics[state_demographics$Title == "Some other race", district]))
-        #assume latinos report white or other at the same ratio white/otehr shows up in their district
+        #assume latinos report white or other at the same ratio white/other shows up in their district
         white_percent = count / (other + count)
         #we treat white and latino as separate buckets
         white_total <- count - white_percent * latino
@@ -229,6 +236,18 @@ for(state in states){
     #                                   )))
     
   }
+  if(state == "New York"){
+    #special case the time we know our estimation strategy doesn't work
+    state_races[state_races$CD == "15" & state_races$Label == "Two or more races",]$Count <-
+      state_races[state_races$CD == "15" & state_races$Label =="Two or more races",]$Count + 
+      #this is a negative number
+      state_races[state_races$CD == "15" & state_races$Label == "White",]$Count +
+      #this is a negative number
+      state_races[state_races$CD == "15" & state_races$Label == "Some other race",]$Count
+    
+    state_races[state_races$CD == "15" & state_races$Label == "Some other race",]$Count <- 0
+    state_races[state_races$CD == "15" & state_races$Label == "White",]$Count <- 0
+  }
   state_ages$State = state
   state_genders$State = state
   state_races$State = state
@@ -272,8 +291,8 @@ vote_share <- list(
   "age" = read.csv("turnout/age_vote_share.csv"),
   "race" = read.csv("turnout/race_vote_share.csv")
 )
-turnout <- list ()
 
+turnout <- list ()
 for(demo in c("gender", "age", "race")){
   #to estimate the voting behavior of people in this demographic grouping,
   #we use known voting behavior of demographics combined with
@@ -281,9 +300,16 @@ for(demo in c("gender", "age", "race")){
   
   #specifically, we first figure out the implied voting turnout from each demo
   for(x in unique(demos[[demo]]$Label)){
+    #how many people are in this demo nationally
     demographic_population <- sum(demos[[demo]][demos[[demo]]$Label == x,"Count"])
+    
+    #total votes nationally across all demos
     total_votes <- sum(national_election$Trump) + sum(national_election$Clinton)
+    
+    #total votes in this demo based on exit polls
     total_demographic_voters <- vote_share[[demo]][vote_share[[demo]]$Label == x,]$voteshare * total_votes
+    
+    #what percent of this demo turns out to vote
     turnout[[demo]][x] <- total_demographic_voters / demographic_population
   }
   
@@ -310,6 +336,7 @@ for(demo in c("gender", "age", "race")){
       }
       multiplier <- (national_election[x,"Trump"] + national_election[x,"Clinton"])/(expected_trump_votes + expected_clinton_votes)
       margin_shift <- 2 * (multiplier * expected_trump_votes - national_election[x,"Trump"])/((national_election[x,"Trump"] + national_election[x,"Clinton"]))
+      
       demographic_projection <<- rbind(demographic_projection, data.frame(
         CD = c(national_election[x,"CD"]),
         State = c(as.character(national_election[x,"State"])),
@@ -322,7 +349,6 @@ for(demo in c("gender", "age", "race")){
         ), make.row.names=FALSE)
     }
   ) 
-
   sapply(1:nrow(demos[[demo]]), function(x){
     vote_multiplier <- demographic_projection[demographic_projection$CD == demos[[demo]][x,]$CD & demographic_projection$State == demos[[demo]][x,]$State,]$VoteMultiplier
     margin_shift <- demographic_projection[demographic_projection$CD == demos[[demo]][x,]$CD & demographic_projection$State == demos[[demo]][x,]$State,]$MarginShift
@@ -339,18 +365,90 @@ for(demo in c("gender", "age", "race")){
     #for democrats.  If a distric voted more heavily than their demographics
     #indicate for democrats, the Black vote for Trump will appear negative
     #To solve this, we'd have to find a non-linear way of updating demographic
-    #margins.  We could do this, but it's more work than it's worth
-    demos[[demo]][x,]$InterpolatedTrump <<- people_in_demo * turnout_rate * vote_multiplier * (expected_trump_percentage - margin_shift/2)
-    demos[[demo]][x,]$InterpolatedClinton <<- people_in_demo * turnout_rate * vote_multiplier * (expected_clinton_percentage + margin_shift/2)
+    #margins. 
+    
+    #Specifically we need a transform that preserves total number of votes
+    #across all demos but doesn't push any of them negative. You could do something
+    #like find the percentage shift of the available vote share, rather than
+    #a flat shift in margin.  For example:
+    #if African Amaericans vote 92% democrat, then any shfit in African American
+    #voters would be "X% of the remaining 8%", and any shift in whites would be 
+    #"X% of the remaining 40%". Then we would solve for the X that creates the
+    #corrct total number of votes for each group.  Solving for X would be 
+    #easy, since the total vote shift goes linearly with X
+    
+    #find the total % change we need
+    #demos[[demo]][x,]$InterpolatedTrump <<- people_in_demo * turnout_rate * vote_multiplier * (expected_trump_percentage + (1 - expected_trump_percentage) * x_shift)
+    #demos[[demo]][x,]$InterpolatedClinton <<- people_in_demo * turnout_rate * vote_multiplier * (expected_clinton_percentage + (1 - expected_clinton_percentage) * x_shift)
+    
+    #change each demo interpolated value from expected value by taking the 
+    #proportion of available slack and multiplying it by the desired margin shift
+    rep_vote_slack = 0;
+    dem_vote_slack = 0;
+    for(label in labels[[demo]])
+    {
+      inner_people_in_demo <- demos[[demo]][demos[[demo]]$CD == demos[[demo]][x,]$CD & demos[[demo]]$State == demos[[demo]][x,]$State & demos[[demo]]$Label == label,]$Count
+      inner_turnout_rate <- turnout[[demo]][label]
+      inner_expected_clinton_percentage <- vote_share[[demo]][vote_share[[demo]]$Label == label,]$Clinton
+      inner_expected_trump_percentage <- vote_share[[demo]][vote_share[[demo]]$Label == label,]$Trump
+      dem_vote_slack = dem_vote_slack + inner_people_in_demo * inner_turnout_rate * vote_multiplier * inner_expected_clinton_percentage
+      rep_vote_slack = rep_vote_slack + inner_people_in_demo * inner_turnout_rate * vote_multiplier * inner_expected_trump_percentage
+    }
+    voted_dem <- people_in_demo * turnout_rate * vote_multiplier * expected_clinton_percentage
+    voted_rep <- people_in_demo * turnout_rate * vote_multiplier * expected_trump_percentage
+    
+    if(margin_shift > 0) {
+      #shift democrat
+      shift <- (voted_rep / rep_vote_slack) * margin_shift * (dem_vote_slack + rep_vote_slack)/2
+    } else {
+      #shift republican
+      shift <- (voted_dem / dem_vote_slack) * margin_shift * (dem_vote_slack + rep_vote_slack)/2
+    }
+    demos[[demo]][x,]$InterpolatedTrump <<- voted_rep - shift
+    demos[[demo]][x,]$InterpolatedClinton <<- voted_dem + shift
+    if(demos[[demo]][x,]$InterpolatedClinton < 0 | demos[[demo]][x,]$InterpolatedTrump < 0){
+       print(paste("shifted", demos[[demo]][x,]$State, "-", demos[[demo]][x,]$CD, 
+                "(", demos[[demo]][x,"Label"],") vote by", shift, 
+                ": dem-", demos[[demo]][x,]$InterpolatedClinton, "(", voted_dem, ")",
+                ": rep-", demos[[demo]][x,]$InterpolatedTrump, "(", voted_rep, ")"))
+      print(voted_dem)
+      print(voted_rep)
+      print(dem_vote_slack)
+      print(rep_vote_slack)
+      print(margin_shift)
+    }
+    #40%, 60%, 80%
+    #60%->63%
+    #.03/3 + .03/3 + .03/3
+    #(.03*.6/3 + .03*.4/3 + .03*.2/3) /(.6/3 + .4/3 + .2/3)
+    #(.03)*(.6/3)/(.6/3 + .4/3 + .2/3)
+    #demos[[demo]][x,]$InterpolatedTrump <<- people_in_demo * turnout_rate * vote_multiplier * (expected_trump_percentage - margin_shift/2)
+    #demos[[demo]][x,]$InterpolatedClinton <<- people_in_demo * turnout_rate * vote_multiplier * (expected_clinton_percentage + margin_shift/2)
   })
-  
-  
-  # if(demo_population < 0){
-  #   print(paste("WARNING: demo population negative (", demo_population, ") for State = ", election_data[x,"State"]," and district = ", election_data[x,"CD"], sep=""))
-  #   print(demographic_data[[modifier[1]]][demographic_data[[modifier[1]]]$CD == election_data[x,"CD"] & demographic_data[[modifier[1]]]$State == election_data[x,"State"] & demographic_data[[modifier[1]]]$Label == modifier[2],])
-  # }
-  # 
 }
+
+#verify these should all equal zero...
+sum(demos[["race"]]$InterpolatedTrump) - sum(national_election$Trump)
+sum(demos[["race"]]$InterpolatedClinton) - sum(national_election$Clinton)
+
+sum(demos[["race"]]$InterpolatedTrump) - sum(national_election$Trump)
+sum(demos[["gender"]]$InterpolatedTrump) - sum(national_election$Trump)
+sum(demos[["gender"]]$InterpolatedClinton) - sum(national_election$Clinton)
+
+summary(demos[["race"]])
+summary(national_election)
+
+summary(national_races)
+
+national_races[national_races$State == "New York" & national_races$CD == "15",]
+sum(national_races[national_races$State == "New York" & national_races$CD == "15","Count"])
+national_population[national_population$State == "New York" & national_population$CD == "15",]
+
+demos[[demo]][demos[[demo]]$CD == "15" & demos[[demo]]$State == "New York",]  
+
+sum(demos[["age"]]$InterpolatedTrump) - sum(national_election$Trump)
+sum(demos[["age"]]$InterpolatedClinton) - sum(national_election$Clinton)
+
 
 evaluate <- function(aggregation=c("electoral", "population"), 
                       election_data, 
