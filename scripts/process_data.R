@@ -435,17 +435,6 @@ sum(demos[["race"]]$InterpolatedTrump) - sum(national_election$Trump)
 sum(demos[["gender"]]$InterpolatedTrump) - sum(national_election$Trump)
 sum(demos[["gender"]]$InterpolatedClinton) - sum(national_election$Clinton)
 
-summary(demos[["race"]])
-summary(national_election)
-
-summary(national_races)
-
-national_races[national_races$State == "New York" & national_races$CD == "15",]
-sum(national_races[national_races$State == "New York" & national_races$CD == "15","Count"])
-national_population[national_population$State == "New York" & national_population$CD == "15",]
-
-demos[[demo]][demos[[demo]]$CD == "15" & demos[[demo]]$State == "New York",]  
-
 sum(demos[["age"]]$InterpolatedTrump) - sum(national_election$Trump)
 sum(demos[["age"]]$InterpolatedClinton) - sum(national_election$Clinton)
 
