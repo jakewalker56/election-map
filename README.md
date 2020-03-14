@@ -1,4 +1,6 @@
 # Election Map
+Try it out [here](http://jakewalker56.github.io/articles/election-map.html)
+
 This is a tool for visualizing hypothetical changes in demographic preference.  It ties together national demographic exit polling data with district level census and 2016 election data.  The combination of demographic exit polling data and census data also lets us back into an implied turnout rate for each demographic.
 
 # Data Sources
